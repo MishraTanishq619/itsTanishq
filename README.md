@@ -3,7 +3,9 @@
 Personal portfolio. Design principles reverse-engineered from itsjay.us (see `research/`), rebuilt with my own content, copy, fonts and accent.
 
 ## Stack
-Next.js 16 (App Router, Cache Components, Partial Prefetching) · TypeScript · Tailwind CSS v4 · GSAP (ScrollTrigger) · Lenis · Geist + Doto · simple-icons · Netlify.
+Next.js 16 (App Router, Cache Components) · TypeScript · Tailwind CSS v4 · GSAP (ScrollTrigger) · Lenis · Geist + Doto · simple-icons · Netlify.
+
+Live: https://itstanishq.netlify.app · Repo: https://github.com/MishraTanishq619/itsTanishq
 
 ## Commands
 ```bash
@@ -35,4 +37,4 @@ Add an entry keyed by the project slug to `content/case-studies.ts`. The page, c
 - Motion respects `prefers-reduced-motion`: no loader, no Lenis, no scrubbed or reveal animations.
 - Scroll-in animations use `opacity`, never `autoAlpha`, on anything containing links (`visibility: hidden` removes them from the Tab order).
 - `URL` (set by Netlify at build) is the base for OG images and the sitemap; locally it falls back to `http://localhost:8888`.
-- Unknown `/work/<slug>` URLs render the 404 page with `noindex` but return HTTP 200 (Partial Prefetching streams the shell first).
+- Partial Prefetching is off (`next.config.ts`): with it on, unknown `/work/<slug>` URLs returned 500 on Netlify. Project pages await `params` up front so unknown slugs are real 404s.

@@ -1,6 +1,5 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
-import { Suspense } from "react";
 import { projects } from "@/content/projects";
 import { caseStudies } from "@/content/case-studies";
 import { ProjectHeader } from "@/components/case-study/ProjectHeader";
@@ -17,16 +16,8 @@ export async function generateMetadata({ params }: PageProps<"/work/[slug]">): P
   return { title: `${project.name} | Tanishq Mishra`, description: caseStudies[slug]?.headline ?? project.summary };
 }
 
-// params are awaited inside <Suspense> (Partial Prefetching): the dark panel is the instant static shell.
-export default function ProjectPage({ params }: PageProps<"/work/[slug]">) {
-  return (
-    <Suspense fallback={<main className="mx-2 mt-28 min-h-[70svh] rounded-3xl bg-ink lg:mx-4 lg:mt-32" />}>
-      <Project params={params} />
-    </Suspense>
-  );
-}
-
-async function Project({ params }: { params: PageProps<"/work/[slug]">["params"] }) {
+// Without Partial Prefetching, params are awaited up front (per the Next 16 docs), so unknown slugs 404 properly.
+export default async function ProjectPage({ params }: PageProps<"/work/[slug]">) {
   const { slug } = await params;
   const index = projects.findIndex((p) => p.slug === slug);
   if (index === -1) notFound();
