@@ -1,0 +1,10 @@
+[build]
+  command = "npm run build"
+  publish = ".next"
+
+# `netlify dev` serves the site on http://localhost:8888 and proxies to next dev.
+[dev]
+  command = "npm run dev"
+  targetPort = 3000
+  port = 8888
+  framework = "#custom"

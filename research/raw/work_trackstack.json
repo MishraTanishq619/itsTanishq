@@ -1,0 +1,913 @@
+{
+  "url": "https://www.itsjay.us/work/trackstack",
+  "status": 200,
+  "report": {
+    "title": "Jason Zubiate | Design Engineer",
+    "description": "Jason Zubiate | Software design engineer based in Los Angeles.",
+    "og": [
+      [
+        "og:title",
+        "Software Design Engineer"
+      ],
+      [
+        "og:description",
+        "Jason Zubiate | Software design engineer based in Los Angeles."
+      ],
+      [
+        "og:url",
+        "https://itsjay.us"
+      ],
+      [
+        "og:site_name",
+        "itsjay.us"
+      ],
+      [
+        "og:locale",
+        "en_US"
+      ],
+      [
+        "og:image",
+        "https://itsjay.us/opengraph-image"
+      ],
+      [
+        "og:image:width",
+        "1200"
+      ],
+      [
+        "og:image:height",
+        "630"
+      ],
+      [
+        "og:image:alt",
+        "Jason Zubiate - Design Engineer"
+      ],
+      [
+        "og:type",
+        "website"
+      ]
+    ],
+    "htmlClass": "lenis",
+    "bodyClass": "saans_f573fdb2-module__pW_-ia__className antialiased bg-neutral-900 text-neutral-900 overscroll-none",
+    "body": {
+      "font": "saans, \"saans Fallback\"",
+      "size": "16px",
+      "weight": "400",
+      "lh": "24px",
+      "ls": "normal",
+      "color": "lab(7.78201 -0.0000149012 0)",
+      "bg": "lab(7.78201 -0.0000149012 0)",
+      "tt": "none"
+    },
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "TRACKSTACK"
+      },
+      {
+        "tag": "H2",
+        "text": "itsjay.us"
+      }
+    ],
+    "links": [
+      [
+        "https://www.hightouch.com/",
+        "Hightouch Hightouch"
+      ],
+      [
+        "mailto:jzubiate.dev@gmail.com",
+        "🤙🏼 Get in touch Get in touch"
+      ],
+      [
+        "https://www.itsjay.us/",
+        "JASON ZUBIATE"
+      ],
+      [
+        "https://www.itsjay.us/work",
+        "Work"
+      ],
+      [
+        "https://www.itsjay.us/lab",
+        "Lab"
+      ],
+      [
+        "mailto:jason@itsjay.us",
+        "Contact"
+      ],
+      [
+        "https://github.com/jasonzubiate",
+        "Github"
+      ],
+      [
+        "https://www.instagram.com/itsjay.us/",
+        "Instagram"
+      ],
+      [
+        "https://www.linkedin.com/in/jasonzubiate/",
+        "LinkedIn"
+      ]
+    ],
+    "images": [
+      {
+        "alt": "Home",
+        "src": "https://www.itsjay.us/_next/image?url=%2Fimages%2Fpages%2Fhome-icon.png&w=1920&q=75&dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt",
+        "w": 750,
+        "h": 750
+      },
+      {
+        "alt": "Work",
+        "src": "https://www.itsjay.us/_next/image?url=%2Fimages%2Fpages%2Fwork-icon.png&w=1920&q=75&dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt",
+        "w": 750,
+        "h": 750
+      },
+      {
+        "alt": "Lab",
+        "src": "https://www.itsjay.us/_next/image?url=%2Fimages%2Fpages%2Flab-icon.png&w=1920&q=75&dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt",
+        "w": 750,
+        "h": 750
+      },
+      {
+        "alt": "Trackstack",
+        "src": "https://www.itsjay.us/_next/image?url=%2Fimages%2Fwork%2Ftrackstack%2Fimage-01.png&w=1920&q=75&dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt",
+        "w": 1440,
+        "h": 899
+      },
+      {
+        "alt": "Trackstack",
+        "src": "https://www.itsjay.us/_next/image?url=%2Fimages%2Fwork%2Ftrackstack%2Fimage-02.png&w=1920&q=75&dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt",
+        "w": 1440,
+        "h": 899
+      },
+      {
+        "alt": "Trackstack",
+        "src": "https://www.itsjay.us/_next/image?url=%2Fimages%2Fwork%2Ftrackstack%2Fimage-07.png&w=1920&q=75&dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt",
+        "w": 1086,
+        "h": 1086
+      },
+      {
+        "alt": "Trackstack",
+        "src": "https://www.itsjay.us/_next/image?url=%2Fimages%2Fwork%2Ftrackstack%2Fimage-03.png&w=1920&q=75&dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt",
+        "w": 1440,
+        "h": 1440
+      },
+      {
+        "alt": "Trackstack",
+        "src": "https://www.itsjay.us/_next/image?url=%2Fimages%2Fwork%2Ftrackstack%2Fimage-05.png&w=1920&q=75&dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt",
+        "w": 1440,
+        "h": 899
+      },
+      {
+        "alt": "Trackstack",
+        "src": "https://www.itsjay.us/_next/image?url=%2Fimages%2Fwork%2Ftrackstack%2Fimage-06.png&w=1920&q=75&dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt",
+        "w": 1440,
+        "h": 899
+      },
+      {
+        "alt": "Trackstack",
+        "src": "https://www.itsjay.us/_next/image?url=%2Fimages%2Fwork%2Ftrackstack%2Fimage-04.png&w=1920&q=75&dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt",
+        "w": 1440,
+        "h": 1440
+      },
+      {
+        "alt": "Trackstack",
+        "src": "https://www.itsjay.us/_next/image?url=%2Fimages%2Fwork%2Ftrackstack%2Fimage-08.png&w=1920&q=75&dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt",
+        "w": 1086,
+        "h": 1086
+      },
+      {
+        "alt": "Trackstack",
+        "src": "https://www.itsjay.us/_next/image?url=%2Fimages%2Fwork%2Ftrackstack%2Fimage-09.png&w=1920&q=75&dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt",
+        "w": 1440,
+        "h": 899
+      },
+      {
+        "alt": "Trackstack",
+        "src": "https://www.itsjay.us/_next/image?url=%2Fimages%2Fwork%2Ftrackstack%2Fimage-10.png&w=1920&q=75&dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt",
+        "w": 1440,
+        "h": 899
+      }
+    ],
+    "videos": [
+      "https://www.itsjay.us/videos/emoji.mov"
+    ],
+    "canvases": 0,
+    "fonts": [
+      "Respira-Black normal normal unloaded",
+      "saans 400 normal loaded",
+      "saans 500 normal loaded",
+      "saans 600 normal loaded",
+      "saans 700 normal loaded",
+      "saans Fallback normal normal loaded",
+      "saansMono 400 normal unloaded",
+      "saansMono Fallback normal normal unloaded",
+      "lcddot 400 normal error",
+      "lcddot Fallback normal normal loaded"
+    ],
+    "rootVars": {},
+    "mediaQueries": [],
+    "textStyles": [
+      {
+        "tag": "P",
+        "text": "100",
+        "font": "saans, \"saans Fallback\"",
+        "size": "14px",
+        "weight": "600",
+        "lh": "20px",
+        "ls": "-0.35px",
+        "color": "lab(7.78201 -0.0000149012 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "none"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Hightouch",
+        "font": "saans, \"saans Fallback\"",
+        "size": "17.28px",
+        "weight": "500",
+        "lh": "25.92px",
+        "ls": "normal",
+        "color": "lab(66.128 -0.0000298023 0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "none"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Hightouch",
+        "font": "saans, \"saans Fallback\"",
+        "size": "17.28px",
+        "weight": "500",
+        "lh": "25.92px",
+        "ls": "normal",
+        "color": "lab(66.128 -0.0000298023 0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "none"
+      },
+      {
+        "tag": "SPAN",
+        "text": "🤙🏼",
+        "font": "saans, \"saans Fallback\"",
+        "size": "20px",
+        "weight": "400",
+        "lh": "28px",
+        "ls": "normal",
+        "color": "lab(7.78201 -0.0000149012 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "none"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Get in touch",
+        "font": "saans, \"saans Fallback\"",
+        "size": "17.28px",
+        "weight": "600",
+        "lh": "25.92px",
+        "ls": "normal",
+        "color": "lab(96.52 -0.0000298023 0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "none"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Get in touch",
+        "font": "saans, \"saans Fallback\"",
+        "size": "17.28px",
+        "weight": "600",
+        "lh": "25.92px",
+        "ls": "normal",
+        "color": "lab(96.52 -0.0000298023 0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "none"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Home",
+        "font": "saans, \"saans Fallback\"",
+        "size": "20px",
+        "weight": "600",
+        "lh": "28px",
+        "ls": "normal",
+        "color": "lab(96.52 -0.0000298023 0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "none"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Home",
+        "font": "saans, \"saans Fallback\"",
+        "size": "20px",
+        "weight": "600",
+        "lh": "28px",
+        "ls": "normal",
+        "color": "lab(96.52 -0.0000298023 0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "none"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Work",
+        "font": "saans, \"saans Fallback\"",
+        "size": "20px",
+        "weight": "600",
+        "lh": "28px",
+        "ls": "normal",
+        "color": "lab(96.52 -0.0000298023 0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "none"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Work",
+        "font": "saans, \"saans Fallback\"",
+        "size": "20px",
+        "weight": "600",
+        "lh": "28px",
+        "ls": "normal",
+        "color": "lab(96.52 -0.0000298023 0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "none"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Lab",
+        "font": "saans, \"saans Fallback\"",
+        "size": "20px",
+        "weight": "600",
+        "lh": "28px",
+        "ls": "normal",
+        "color": "lab(96.52 -0.0000298023 0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "none"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Lab",
+        "font": "saans, \"saans Fallback\"",
+        "size": "20px",
+        "weight": "600",
+        "lh": "28px",
+        "ls": "normal",
+        "color": "lab(96.52 -0.0000298023 0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "none"
+      },
+      {
+        "tag": "A",
+        "text": "JASON ZUBIATE",
+        "font": "saans, \"saans Fallback\"",
+        "size": "18px",
+        "weight": "600",
+        "lh": "28px",
+        "ls": "normal",
+        "color": "lab(96.52 -0.0000298023 0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "P",
+        "text": "CREATIVE DESIGN ENGINEER, AWWWARDS STALKER, PRODUCT BUILDER,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "P",
+        "text": "CREATIVE DESIGN ENGINEER, AWWWARDS STALKER, PRODUCT BUILDER,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "H1",
+        "text": "TRACKSTACK",
+        "font": "saans, \"saans Fallback\"",
+        "size": "115.2px",
+        "weight": "700",
+        "lh": "97.92px",
+        "ls": "normal",
+        "color": "lab(96.52 -0.0000298023 0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "P",
+        "text": "YEAR",
+        "font": "saans, \"saans Fallback\"",
+        "size": "14px",
+        "weight": "500",
+        "lh": "18.6667px",
+        "ls": "0.7px",
+        "color": "lab(66.128 -0.0000298023 0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "P",
+        "text": "2025",
+        "font": "saans, \"saans Fallback\"",
+        "size": "50.4px",
+        "weight": "600",
+        "lh": "40.32px",
+        "ls": "-1.26px",
+        "color": "lab(96.52 -0.0000298023 0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "none"
+      },
+      {
+        "tag": "P",
+        "text": "SERVICES",
+        "font": "saans, \"saans Fallback\"",
+        "size": "14px",
+        "weight": "500",
+        "lh": "18.6667px",
+        "ls": "0.7px",
+        "color": "lab(66.128 -0.0000298023 0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "LI",
+        "text": "ART DIRECTION",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "18px",
+        "ls": "1.1px",
+        "color": "lab(96.52 -0.0000298023 0.0000119209)",
+        "bg": "oklab(0.969998 -0.00000959635 0.0000227094 / 0.1)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "LI",
+        "text": "NAMING & COPYWRITING",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "18px",
+        "ls": "1.1px",
+        "color": "lab(96.52 -0.0000298023 0.0000119209)",
+        "bg": "oklab(0.969998 -0.00000959635 0.0000227094 / 0.1)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "LI",
+        "text": "VOICE & TONE",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "18px",
+        "ls": "1.1px",
+        "color": "lab(96.52 -0.0000298023 0.0000119209)",
+        "bg": "oklab(0.969998 -0.00000959635 0.0000227094 / 0.1)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "LI",
+        "text": "BRAND DESIGN",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "18px",
+        "ls": "1.1px",
+        "color": "lab(96.52 -0.0000298023 0.0000119209)",
+        "bg": "oklab(0.969998 -0.00000959635 0.0000227094 / 0.1)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "LI",
+        "text": "STRATEGY",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "18px",
+        "ls": "1.1px",
+        "color": "lab(96.52 -0.0000298023 0.0000119209)",
+        "bg": "oklab(0.969998 -0.00000959635 0.0000227094 / 0.1)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "LI",
+        "text": "UX",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "18px",
+        "ls": "1.1px",
+        "color": "lab(96.52 -0.0000298023 0.0000119209)",
+        "bg": "oklab(0.969998 -0.00000959635 0.0000227094 / 0.1)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "LI",
+        "text": "UI",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "18px",
+        "ls": "1.1px",
+        "color": "lab(96.52 -0.0000298023 0.0000119209)",
+        "bg": "oklab(0.969998 -0.00000959635 0.0000227094 / 0.1)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "LI",
+        "text": "WEB DESIGN",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "18px",
+        "ls": "1.1px",
+        "color": "lab(96.52 -0.0000298023 0.0000119209)",
+        "bg": "oklab(0.969998 -0.00000959635 0.0000227094 / 0.1)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "LI",
+        "text": "PRODUCT DESIGN",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "18px",
+        "ls": "1.1px",
+        "color": "lab(96.52 -0.0000298023 0.0000119209)",
+        "bg": "oklab(0.969998 -0.00000959635 0.0000227094 / 0.1)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "LI",
+        "text": "MEDIA PRODUCTION",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "18px",
+        "ls": "1.1px",
+        "color": "lab(96.52 -0.0000298023 0.0000119209)",
+        "bg": "oklab(0.969998 -0.00000959635 0.0000227094 / 0.1)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "P",
+        "text": "SUMMARY",
+        "font": "saans, \"saans Fallback\"",
+        "size": "14px",
+        "weight": "500",
+        "lh": "18.6667px",
+        "ls": "0.7px",
+        "color": "lab(66.128 -0.0000298023 0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "P",
+        "text": "Redesigned the website for a UK-based software company suppo",
+        "font": "saans, \"saans Fallback\"",
+        "size": "18.72px",
+        "weight": "500",
+        "lh": "24.336px",
+        "ls": "normal",
+        "color": "lab(96.52 -0.0000298023 0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "none"
+      },
+      {
+        "tag": "H2",
+        "text": "itsjay.us",
+        "font": "saans, \"saans Fallback\"",
+        "size": "201.6px",
+        "weight": "700",
+        "lh": "302.4px",
+        "ls": "-5.04px",
+        "color": "lab(7.78201 -0.0000149012 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "none"
+      },
+      {
+        "tag": "A",
+        "text": "Work",
+        "font": "saans, \"saans Fallback\"",
+        "size": "20.16px",
+        "weight": "500",
+        "lh": "25.2px",
+        "ls": "normal",
+        "color": "lab(7.78201 -0.0000149012 0)",
+        "bg": "oklab(0.869998 -0.00000879169 0.0000203252 / 0.5)",
+        "tt": "none"
+      },
+      {
+        "tag": "A",
+        "text": "Lab",
+        "font": "saans, \"saans Fallback\"",
+        "size": "20.16px",
+        "weight": "500",
+        "lh": "25.2px",
+        "ls": "normal",
+        "color": "lab(7.78201 -0.0000149012 0)",
+        "bg": "oklab(0.869998 -0.00000879169 0.0000203252 / 0.5)",
+        "tt": "none"
+      },
+      {
+        "tag": "A",
+        "text": "Contact",
+        "font": "saans, \"saans Fallback\"",
+        "size": "20.16px",
+        "weight": "500",
+        "lh": "25.2px",
+        "ls": "normal",
+        "color": "lab(7.78201 -0.0000149012 0)",
+        "bg": "oklab(0.869998 -0.00000879169 0.0000203252 / 0.5)",
+        "tt": "none"
+      },
+      {
+        "tag": "A",
+        "text": "Github",
+        "font": "saans, \"saans Fallback\"",
+        "size": "20.16px",
+        "weight": "500",
+        "lh": "25.2px",
+        "ls": "normal",
+        "color": "lab(7.78201 -0.0000149012 0)",
+        "bg": "oklab(0.869998 -0.00000879169 0.0000203252 / 0.5)",
+        "tt": "none"
+      },
+      {
+        "tag": "A",
+        "text": "Instagram",
+        "font": "saans, \"saans Fallback\"",
+        "size": "20.16px",
+        "weight": "500",
+        "lh": "25.2px",
+        "ls": "normal",
+        "color": "lab(7.78201 -0.0000149012 0)",
+        "bg": "oklab(0.869998 -0.00000879169 0.0000203252 / 0.5)",
+        "tt": "none"
+      },
+      {
+        "tag": "A",
+        "text": "LinkedIn",
+        "font": "saans, \"saans Fallback\"",
+        "size": "20.16px",
+        "weight": "500",
+        "lh": "25.2px",
+        "ls": "normal",
+        "color": "lab(7.78201 -0.0000149012 0)",
+        "bg": "oklab(0.869998 -0.00000879169 0.0000203252 / 0.5)",
+        "tt": "none"
+      }
+    ],
+    "globals": [
+      "ondevicemotion",
+      "MotionIsMounted",
+      "lenisVersion",
+      "gsapVersions"
+    ],
+    "docHeight": 7847,
+    "landmarks": [
+      "HEADER#.",
+      "NAV#.flex flex-col gap-4 mb-4",
+      "MAIN#.bg-neutral-100 px-2 lg:px-4 pt-[200px] md:pt-[clamp(128px,12vw,500px)]",
+      "FOOTER#.bg-neutral-100"
+    ]
+  },
+  "requests": [
+    {
+      "type": "document",
+      "url": "https://www.itsjay.us/work/trackstack"
+    },
+    {
+      "type": "font",
+      "url": "https://www.itsjay.us/_next/static/media/SaansMono_Regular-s.p.0d5vn2ig4yx5h.woff2?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "font",
+      "url": "https://www.itsjay.us/_next/static/media/Saans_Bold-s.p.1if5g60stf9pb.woff2?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "font",
+      "url": "https://www.itsjay.us/_next/static/media/Saans_Medium-s.p.102--qx69lvqf.woff2?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "font",
+      "url": "https://www.itsjay.us/_next/static/media/Saans_Regular-s.p.015ew5mvl0ria.woff2?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "font",
+      "url": "https://www.itsjay.us/_next/static/media/Saans_SemiBold-s.p.0cfh-m7jcy90y.woff2?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "font",
+      "url": "https://www.itsjay.us/_next/static/media/lcddot-s.p.27ilijiqe3zq9.ttf?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "stylesheet",
+      "url": "https://www.itsjay.us/_next/static/chunks/26ithsq8k0u2q.css?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "stylesheet",
+      "url": "https://www.itsjay.us/_next/static/chunks/0wydf9ctijzs2.css?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "script",
+      "url": "https://www.itsjay.us/_next/static/chunks/3w7pvw2d-ekfu.js?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "script",
+      "url": "https://www.itsjay.us/_next/static/chunks/0imi12qg8a4od.js?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "script",
+      "url": "https://www.itsjay.us/_next/static/chunks/2evlr16jb7dsq.js?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "script",
+      "url": "https://www.itsjay.us/_next/static/chunks/3alsycw784cp3.js?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "script",
+      "url": "https://www.itsjay.us/_next/static/chunks/turbopack-2wggjsit5q7j6.js?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "script",
+      "url": "https://www.itsjay.us/_next/static/chunks/0l35nod4h2wgd.js?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "script",
+      "url": "https://www.itsjay.us/_next/static/chunks/1o1jux42q6l8a.js?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "script",
+      "url": "https://www.itsjay.us/_next/static/chunks/3c4o7wu0hfxy-.js?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "script",
+      "url": "https://www.itsjay.us/_next/static/chunks/10ab2cvt-tavy.js?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "script",
+      "url": "https://www.itsjay.us/_next/static/chunks/0ab_ng33xm9oo.js?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "script",
+      "url": "https://www.itsjay.us/_next/static/chunks/2g8qxcoc9tnhz.js?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "script",
+      "url": "https://www.itsjay.us/_next/static/chunks/1e5xvv7ym4v6u.js?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "media",
+      "url": "https://www.itsjay.us/videos/emoji.mov"
+    },
+    {
+      "type": "media",
+      "url": "https://www.itsjay.us/videos/emoji.mov"
+    },
+    {
+      "type": "script",
+      "url": "https://www.itsjay.us/_vercel/insights/script.js"
+    },
+    {
+      "type": "image",
+      "url": "https://www.itsjay.us/_next/image?url=%2Fimages%2Fpages%2Fhome-icon.png&w=1920&q=75&dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "image",
+      "url": "https://www.itsjay.us/_next/image?url=%2Fimages%2Fpages%2Fwork-icon.png&w=1920&q=75&dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "image",
+      "url": "https://www.itsjay.us/_next/image?url=%2Fimages%2Fpages%2Flab-icon.png&w=1920&q=75&dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "image",
+      "url": "https://www.itsjay.us/_next/image?url=%2Fimages%2Fwork%2Ftrackstack%2Fimage-01.png&w=1920&q=75&dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "image",
+      "url": "https://www.itsjay.us/_next/image?url=%2Fimages%2Fwork%2Ftrackstack%2Fimage-02.png&w=1920&q=75&dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "image",
+      "url": "https://www.itsjay.us/_next/image?url=%2Fimages%2Fwork%2Ftrackstack%2Fimage-07.png&w=1920&q=75&dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "image",
+      "url": "https://www.itsjay.us/_next/image?url=%2Fimages%2Fwork%2Ftrackstack%2Fimage-03.png&w=1920&q=75&dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "image",
+      "url": "https://www.itsjay.us/_next/image?url=%2Fimages%2Fwork%2Ftrackstack%2Fimage-05.png&w=1920&q=75&dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "fetch",
+      "url": "https://www.itsjay.us/?_rsc=dizAovVg0IWeKlPh"
+    },
+    {
+      "type": "media",
+      "url": "https://www.itsjay.us/videos/emoji.mov"
+    },
+    {
+      "type": "fetch",
+      "url": "https://www.itsjay.us/?_rsc=KdOv2N_3--BAuzN1"
+    },
+    {
+      "type": "fetch",
+      "url": "https://www.itsjay.us/?_rsc=E2wxqXLMIdDssWMv"
+    },
+    {
+      "type": "fetch",
+      "url": "https://www.itsjay.us/?_rsc=yvDvMYDOuHEex3n_"
+    },
+    {
+      "type": "script",
+      "url": "https://www.itsjay.us/_next/static/chunks/22ujqpgim-9w_.js?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "script",
+      "url": "https://www.itsjay.us/_next/static/chunks/1gahwpw57a5ne.js?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "script",
+      "url": "https://www.itsjay.us/_next/static/chunks/1ytyi4mje1l0y.js?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "script",
+      "url": "https://www.itsjay.us/_next/static/chunks/0m9bhz_mrjvar.js?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "image",
+      "url": "https://www.itsjay.us/_next/image?url=%2Fimages%2Fwork%2Ftrackstack%2Fimage-06.png&w=1920&q=75&dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "image",
+      "url": "https://www.itsjay.us/_next/image?url=%2Fimages%2Fwork%2Ftrackstack%2Fimage-04.png&w=1920&q=75&dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "image",
+      "url": "https://www.itsjay.us/_next/image?url=%2Fimages%2Fwork%2Ftrackstack%2Fimage-08.png&w=1920&q=75&dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "image",
+      "url": "https://www.itsjay.us/_next/image?url=%2Fimages%2Fwork%2Ftrackstack%2Fimage-09.png&w=1920&q=75&dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "image",
+      "url": "https://www.itsjay.us/_next/image?url=%2Fimages%2Fwork%2Ftrackstack%2Fimage-10.png&w=1920&q=75&dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "fetch",
+      "url": "https://www.itsjay.us/lab?_rsc=dizAovVg0IWeKlPh"
+    },
+    {
+      "type": "fetch",
+      "url": "https://www.itsjay.us/work?_rsc=dizAovVg0IWeKlPh"
+    },
+    {
+      "type": "fetch",
+      "url": "https://www.itsjay.us/lab?_rsc=KdOv2N_3--BAuzN1"
+    },
+    {
+      "type": "fetch",
+      "url": "https://www.itsjay.us/lab?_rsc=hLjx2E_Iim8R-57Z"
+    },
+    {
+      "type": "fetch",
+      "url": "https://www.itsjay.us/lab?_rsc=kUADawgsdTOMBnsi"
+    },
+    {
+      "type": "fetch",
+      "url": "https://www.itsjay.us/work?_rsc=KdOv2N_3--BAuzN1"
+    },
+    {
+      "type": "fetch",
+      "url": "https://www.itsjay.us/work?_rsc=7tSXVOYD9vLnbisE"
+    },
+    {
+      "type": "fetch",
+      "url": "https://www.itsjay.us/work?_rsc=n-JCSUTkP0reE0vI"
+    },
+    {
+      "type": "script",
+      "url": "https://www.itsjay.us/_next/static/chunks/27_7wfwmsz60n.js?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "script",
+      "url": "https://www.itsjay.us/_next/static/chunks/24f47g-dgl5c1.js?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    }
+  ],
+  "consoleMsgs": [
+    "warning: Failed to decode downloaded font: https://www.itsjay.us/_next/static/media/lcddot-s.p.27ilijiqe3zq9.ttf?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt",
+    "warning: OTS parsing error: cmap: Range glyph reference too high (102 > 101)\ncmap: Failed to parse format 4 cmap subtable 0\ncmap: Failed to parse table",
+    "warning: Failed to decode downloaded font: https://www.itsjay.us/_next/static/media/lcddot-s.p.27ilijiqe3zq9.ttf?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt",
+    "warning: OTS parsing error: cmap: Range glyph reference too high (102 > 101)\ncmap: Failed to parse format 4 cmap subtable 0\ncmap: Failed to parse table",
+    "warning: Failed to decode downloaded font: https://www.itsjay.us/_next/static/media/lcddot-s.p.27ilijiqe3zq9.ttf?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt",
+    "warning: OTS parsing error: cmap: Range glyph reference too high (102 > 101)\ncmap: Failed to parse format 4 cmap subtable 0\ncmap: Failed to parse table"
+  ]
+}

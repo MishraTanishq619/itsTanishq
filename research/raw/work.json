@@ -1,0 +1,2577 @@
+{
+  "url": "https://www.itsjay.us/work",
+  "status": 200,
+  "report": {
+    "title": "Jason Zubiate | Design Engineer",
+    "description": "Jason Zubiate | Software design engineer based in Los Angeles.",
+    "og": [
+      [
+        "og:title",
+        "Software Design Engineer"
+      ],
+      [
+        "og:description",
+        "Jason Zubiate | Software design engineer based in Los Angeles."
+      ],
+      [
+        "og:url",
+        "https://itsjay.us"
+      ],
+      [
+        "og:site_name",
+        "itsjay.us"
+      ],
+      [
+        "og:locale",
+        "en_US"
+      ],
+      [
+        "og:image",
+        "https://itsjay.us/opengraph-image"
+      ],
+      [
+        "og:image:width",
+        "1200"
+      ],
+      [
+        "og:image:height",
+        "630"
+      ],
+      [
+        "og:image:alt",
+        "Jason Zubiate - Design Engineer"
+      ],
+      [
+        "og:type",
+        "website"
+      ]
+    ],
+    "htmlClass": "lenis",
+    "bodyClass": "saans_f573fdb2-module__pW_-ia__className antialiased bg-neutral-900 text-neutral-900 overscroll-none",
+    "body": {
+      "font": "saans, \"saans Fallback\"",
+      "size": "16px",
+      "weight": "400",
+      "lh": "24px",
+      "ls": "normal",
+      "color": "lab(7.78201 -0.0000149012 0)",
+      "bg": "lab(7.78201 -0.0000149012 0)",
+      "tt": "none"
+    },
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "SELECTED WORK"
+      },
+      {
+        "tag": "H2",
+        "text": "itsjay.us"
+      }
+    ],
+    "links": [
+      [
+        "https://www.hightouch.com/",
+        "Hightouch Hightouch"
+      ],
+      [
+        "mailto:jzubiate.dev@gmail.com",
+        "🤙🏼 Get in touch Get in touch"
+      ],
+      [
+        "https://www.itsjay.us/",
+        "JASON ZUBIATE"
+      ],
+      [
+        "https://www.itsjay.us/work",
+        "Work"
+      ],
+      [
+        "https://www.itsjay.us/lab",
+        "Lab"
+      ],
+      [
+        "https://www.itsjay.us/work/jazmin-wong",
+        "JAZMIN WONG PORTFOLIO 2025 ART DIRECTION, VOICE & TONE, UI, UX, NEXT.JS, TAILWIND CSS, GSAP, MOTION, MATTER.JS, LENIS, VERCEL, ART DIRECTION, VOICE & TONE, UI, UX, NEXT.JS, TAILWIND CSS, GSAP, MOTION, MATTER.JS, LENIS, VERCEL,"
+      ],
+      [
+        "https://www.itsjay.us/work/trackstack",
+        "TRACKSTACK PRODUCT 2025 ART DIRECTION, NAMING & COPYWRITING, VOICE & TONE, BRAND DESIGN, STRATEGY, UX, UI, WEB DESIGN, PRODUCT DESIGN, MEDIA PRODUCTION, ART DIRECTION, NAMING & COPYWRITING, VOICE & TONE, BRAND DESIGN, STRATEGY, UX, UI, WEB DESIGN, PRODUCT DESIGN, MEDIA PRODUCTION,"
+      ],
+      [
+        "https://www.itsjay.us/work/kick-bass",
+        "KICK & BASS SERVICES 2024 ART DIRECTION, WEB DESIGN, RESPONSIVE DESIGN, NEXT.JS, TAILWIND CSS, GSAP, MOTION, LENIS, CONTENTFUL, VERCEL, SHOPIFY API, ART DIRECTION, WEB DESIGN, RESPONSIVE DESIGN, NEXT.JS, TAILWIND CSS, GSAP, MOTION, LENIS, CONTENTFUL, VERCEL, SHOPIFY API,"
+      ],
+      [
+        "https://www.itsjay.us/work/socialstats",
+        "SOCIALSTATS PRODUCT 2024 RESEARCH & INSIGHTS, NAMING & COPYWRITING, COMPETITIVE STUDY, VOICE & TONE, WORKSHOPS, STRATEGY, UX, UI, WEB DESIGN, RESPONSIVE DESIGN, RESEARCH & INSIGHTS, NAMING & COPYWRITING, COMPETITIVE STUDY, VOICE & TONE, WORKSHOPS, STRATEGY, UX, UI, WEB DESIGN, RESPONSIVE DESIGN,"
+      ],
+      [
+        "https://www.itsjay.us/work/westend",
+        "WESTEND PORTFOLIO 2024 ART DIRECTION, WEB DESIGN, RESPONSIVE DESIGN, NEXT.JS, TAILWIND CSS, GSAP, LENIS, CONTENTFUL, VERCEL, ART DIRECTION, WEB DESIGN, RESPONSIVE DESIGN, NEXT.JS, TAILWIND CSS, GSAP, LENIS, CONTENTFUL, VERCEL,"
+      ],
+      [
+        "https://www.itsjay.us/work/delivrd",
+        "DELIVRD SHOWCASE 2023 NEXT.JS, TAILWIND CSS, GSAP, LENIS, SUPABASE, VERCEL, WEB DESIGN, RESPONSIVE DESIGN, NEXT.JS, TAILWIND CSS, GSAP, LENIS, SUPABASE, VERCEL, WEB DESIGN, RESPONSIVE DESIGN,"
+      ],
+      [
+        "mailto:jason@itsjay.us",
+        "Contact"
+      ],
+      [
+        "https://github.com/jasonzubiate",
+        "Github"
+      ],
+      [
+        "https://www.instagram.com/itsjay.us/",
+        "Instagram"
+      ],
+      [
+        "https://www.linkedin.com/in/jasonzubiate/",
+        "LinkedIn"
+      ]
+    ],
+    "images": [
+      {
+        "alt": "Home",
+        "src": "https://www.itsjay.us/_next/image?url=%2Fimages%2Fpages%2Fhome-icon.png&w=1920&q=75&dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt",
+        "w": 750,
+        "h": 750
+      },
+      {
+        "alt": "Work",
+        "src": "https://www.itsjay.us/_next/image?url=%2Fimages%2Fpages%2Fwork-icon.png&w=1920&q=75&dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt",
+        "w": 750,
+        "h": 750
+      },
+      {
+        "alt": "Lab",
+        "src": "https://www.itsjay.us/_next/image?url=%2Fimages%2Fpages%2Flab-icon.png&w=1920&q=75&dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt",
+        "w": 750,
+        "h": 750
+      },
+      {
+        "alt": "",
+        "src": "https://image.mux.com/u5302DwDC6HYhp9TgB01kwhO2uoNT019vqGtARU4WO81VA/thumbnail.webp?time=0&width=1600",
+        "w": 1440,
+        "h": 847
+      },
+      {
+        "alt": "Jazmin Wong",
+        "src": "https://www.itsjay.us/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1744731036457-b74958fd6bf5%3Fq%3D80%26w%3D3087%26auto%3Dformat%26fit%3Dcrop%26ixlib%3Drb-4.1.0%26ixid%3DM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D&w=1920&q=75",
+        "w": 1440,
+        "h": 2160
+      },
+      {
+        "alt": "Jazmin Wong",
+        "src": "https://www.itsjay.us/_next/image?url=%2Fimages%2Fwork%2Fjazmin-wong%2Fjazmin-wong-icon.png&w=32&q=75&dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt",
+        "w": 32,
+        "h": 32
+      },
+      {
+        "alt": "",
+        "src": "https://image.mux.com/DMgpiL5WXaZYOwTdLTROa001Dyy02CKUPFZxlumAauOJU/thumbnail.webp?time=0&width=1600",
+        "w": 1440,
+        "h": 810
+      },
+      {
+        "alt": "Trackstack",
+        "src": "https://www.itsjay.us/_next/image?url=%2Fimages%2Fwork%2Ftrackstack%2Fcover.jpg&w=1920&q=75&dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt",
+        "w": 1440,
+        "h": 1920
+      },
+      {
+        "alt": "Trackstack",
+        "src": "https://www.itsjay.us/_next/image?url=%2Fimages%2Fwork%2Ftrackstack%2Ftrackstack-icon.png&w=32&q=75&dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt",
+        "w": 32,
+        "h": 32
+      },
+      {
+        "alt": "",
+        "src": "https://image.mux.com/aGOGsnLFYBSZhA01CoCakyB2AB64XTuRzCceDnbXyEQE/thumbnail.webp?time=0&width=1600",
+        "w": 1440,
+        "h": 810
+      },
+      {
+        "alt": "Kick & Bass",
+        "src": "https://www.itsjay.us/_next/image?url=%2Fimages%2Fwork%2Fkick-bass%2Fcover.png&w=1920&q=75&dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt",
+        "w": 804,
+        "h": 1203
+      },
+      {
+        "alt": "Kick & Bass",
+        "src": "https://www.itsjay.us/_next/image?url=%2Fimages%2Fwork%2Fkick-bass%2Fkick-bass-icon.png&w=32&q=75&dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt",
+        "w": 32,
+        "h": 32
+      },
+      {
+        "alt": "Socialstats",
+        "src": "https://www.itsjay.us/_next/image?url=%2Fimages%2Fwork%2Fsocialstats%2Fcover.png&w=1920&q=75&dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt",
+        "w": 1440,
+        "h": 1053
+      },
+      {
+        "alt": "Socialstats",
+        "src": "https://www.itsjay.us/_next/image?url=%2Fimages%2Fwork%2Fsocialstats%2Fsocialstats-icon.png&w=32&q=75&dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt",
+        "w": 32,
+        "h": 32
+      },
+      {
+        "alt": "Westend",
+        "src": "https://www.itsjay.us/_next/image?url=%2Fimages%2Fother%2Fwestend.jpg&w=1920&q=75&dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt",
+        "w": 810,
+        "h": 1079
+      },
+      {
+        "alt": "Westend",
+        "src": "https://www.itsjay.us/_next/image?url=%2Fimages%2Fwork%2Fwestend%2Fwestend-icon.png&w=32&q=75&dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt",
+        "w": 32,
+        "h": 32
+      },
+      {
+        "alt": "",
+        "src": "https://image.mux.com/02wcwOrlIYQNIMTrVeMSLp2gwJCGe4LKoKWwjv1XBra8/thumbnail.webp?time=0&width=1600",
+        "w": 1440,
+        "h": 808
+      },
+      {
+        "alt": "DELIVRD",
+        "src": "https://www.itsjay.us/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1617864848089-9c54bf240fe6%3Fq%3D80%26w%3D3270%26auto%3Dformat%26fit%3Dcrop%26ixlib%3Drb-4.1.0%26ixid%3DM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D&w=1920&q=75",
+        "w": 1440,
+        "h": 960
+      },
+      {
+        "alt": "DELIVRD",
+        "src": "https://www.itsjay.us/_next/image?url=%2Fimages%2Fwork%2Fdelivrd%2Fdelivrd-icon.png&w=32&q=75&dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt",
+        "w": 32,
+        "h": 32
+      }
+    ],
+    "videos": [
+      "https://www.itsjay.us/videos/emoji.mov",
+      "https://www.itsjay.us/_next-video/socialstats.mp4",
+      "https://www.itsjay.us/_next-video/westend.mp4"
+    ],
+    "canvases": 0,
+    "fonts": [
+      "Respira-Black normal normal unloaded",
+      "saans 400 normal loaded",
+      "saans 500 normal loaded",
+      "saans 600 normal loaded",
+      "saans 700 normal loaded",
+      "saans Fallback normal normal loaded",
+      "saansMono 400 normal unloaded",
+      "saansMono Fallback normal normal unloaded",
+      "lcddot 400 normal error",
+      "lcddot Fallback normal normal loaded"
+    ],
+    "rootVars": {},
+    "mediaQueries": [],
+    "textStyles": [
+      {
+        "tag": "P",
+        "text": "100",
+        "font": "saans, \"saans Fallback\"",
+        "size": "14px",
+        "weight": "600",
+        "lh": "20px",
+        "ls": "-0.35px",
+        "color": "lab(7.78201 -0.0000149012 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "none"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Hightouch",
+        "font": "saans, \"saans Fallback\"",
+        "size": "17.28px",
+        "weight": "500",
+        "lh": "25.92px",
+        "ls": "normal",
+        "color": "lab(66.128 -0.0000298023 0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "none"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Hightouch",
+        "font": "saans, \"saans Fallback\"",
+        "size": "17.28px",
+        "weight": "500",
+        "lh": "25.92px",
+        "ls": "normal",
+        "color": "lab(66.128 -0.0000298023 0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "none"
+      },
+      {
+        "tag": "SPAN",
+        "text": "🤙🏼",
+        "font": "saans, \"saans Fallback\"",
+        "size": "20px",
+        "weight": "400",
+        "lh": "28px",
+        "ls": "normal",
+        "color": "lab(7.78201 -0.0000149012 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "none"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Get in touch",
+        "font": "saans, \"saans Fallback\"",
+        "size": "17.28px",
+        "weight": "600",
+        "lh": "25.92px",
+        "ls": "normal",
+        "color": "lab(96.52 -0.0000298023 0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "none"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Get in touch",
+        "font": "saans, \"saans Fallback\"",
+        "size": "17.28px",
+        "weight": "600",
+        "lh": "25.92px",
+        "ls": "normal",
+        "color": "lab(96.52 -0.0000298023 0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "none"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Home",
+        "font": "saans, \"saans Fallback\"",
+        "size": "20px",
+        "weight": "600",
+        "lh": "28px",
+        "ls": "normal",
+        "color": "lab(96.52 -0.0000298023 0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "none"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Home",
+        "font": "saans, \"saans Fallback\"",
+        "size": "20px",
+        "weight": "600",
+        "lh": "28px",
+        "ls": "normal",
+        "color": "lab(96.52 -0.0000298023 0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "none"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Work",
+        "font": "saans, \"saans Fallback\"",
+        "size": "20px",
+        "weight": "600",
+        "lh": "28px",
+        "ls": "normal",
+        "color": "lab(96.52 -0.0000298023 0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "none"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Work",
+        "font": "saans, \"saans Fallback\"",
+        "size": "20px",
+        "weight": "600",
+        "lh": "28px",
+        "ls": "normal",
+        "color": "lab(96.52 -0.0000298023 0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "none"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Lab",
+        "font": "saans, \"saans Fallback\"",
+        "size": "20px",
+        "weight": "600",
+        "lh": "28px",
+        "ls": "normal",
+        "color": "lab(96.52 -0.0000298023 0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "none"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Lab",
+        "font": "saans, \"saans Fallback\"",
+        "size": "20px",
+        "weight": "600",
+        "lh": "28px",
+        "ls": "normal",
+        "color": "lab(96.52 -0.0000298023 0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "none"
+      },
+      {
+        "tag": "A",
+        "text": "JASON ZUBIATE",
+        "font": "saans, \"saans Fallback\"",
+        "size": "18px",
+        "weight": "600",
+        "lh": "28px",
+        "ls": "normal",
+        "color": "lab(96.52 -0.0000298023 0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "P",
+        "text": "CREATIVE DESIGN ENGINEER, AWWWARDS STALKER, PRODUCT BUILDER,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "P",
+        "text": "CREATIVE DESIGN ENGINEER, AWWWARDS STALKER, PRODUCT BUILDER,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "P",
+        "text": "[2022-2025]",
+        "font": "saans, \"saans Fallback\"",
+        "size": "17.28px",
+        "weight": "500",
+        "lh": "25.92px",
+        "ls": "normal",
+        "color": "lab(7.78201 -0.0000149012 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "none"
+      },
+      {
+        "tag": "H1",
+        "text": "SELECTED WORK",
+        "font": "saans, \"saans Fallback\"",
+        "size": "108px",
+        "weight": "700",
+        "lh": "86.4px",
+        "ls": "-2.7px",
+        "color": "lab(7.78201 -0.0000149012 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "P",
+        "text": "JAZMIN WONG",
+        "font": "saans, \"saans Fallback\"",
+        "size": "17.28px",
+        "weight": "600",
+        "lh": "25.92px",
+        "ls": "0.432px",
+        "color": "lab(96.52 -0.0000298023 0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "P",
+        "text": "PORTFOLIO",
+        "font": "saans, \"saans Fallback\"",
+        "size": "17.28px",
+        "weight": "600",
+        "lh": "25.92px",
+        "ls": "0.432px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "P",
+        "text": "2025",
+        "font": "saans, \"saans Fallback\"",
+        "size": "17.28px",
+        "weight": "600",
+        "lh": "25.92px",
+        "ls": "0.432px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "ART DIRECTION,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "VOICE & TONE,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "UI,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "UX,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "NEXT.JS,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "TAILWIND CSS,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "GSAP,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "MOTION,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "MATTER.JS,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "LENIS,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "VERCEL,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "ART DIRECTION,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "VOICE & TONE,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "UI,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "UX,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "NEXT.JS,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "TAILWIND CSS,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "GSAP,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "MOTION,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "MATTER.JS,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "LENIS,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "VERCEL,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "P",
+        "text": "TRACKSTACK",
+        "font": "saans, \"saans Fallback\"",
+        "size": "17.28px",
+        "weight": "600",
+        "lh": "25.92px",
+        "ls": "0.432px",
+        "color": "lab(96.52 -0.0000298023 0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "P",
+        "text": "PRODUCT",
+        "font": "saans, \"saans Fallback\"",
+        "size": "17.28px",
+        "weight": "600",
+        "lh": "25.92px",
+        "ls": "0.432px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "P",
+        "text": "2025",
+        "font": "saans, \"saans Fallback\"",
+        "size": "17.28px",
+        "weight": "600",
+        "lh": "25.92px",
+        "ls": "0.432px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "ART DIRECTION,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "NAMING & COPYWRITING,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "VOICE & TONE,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "BRAND DESIGN,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "STRATEGY,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "UX,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "UI,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "WEB DESIGN,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "PRODUCT DESIGN,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "MEDIA PRODUCTION,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "ART DIRECTION,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "NAMING & COPYWRITING,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "VOICE & TONE,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "BRAND DESIGN,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "STRATEGY,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "UX,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "UI,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "WEB DESIGN,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "PRODUCT DESIGN,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "MEDIA PRODUCTION,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "P",
+        "text": "KICK & BASS",
+        "font": "saans, \"saans Fallback\"",
+        "size": "17.28px",
+        "weight": "600",
+        "lh": "25.92px",
+        "ls": "0.432px",
+        "color": "lab(96.52 -0.0000298023 0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "P",
+        "text": "SERVICES",
+        "font": "saans, \"saans Fallback\"",
+        "size": "17.28px",
+        "weight": "600",
+        "lh": "25.92px",
+        "ls": "0.432px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "P",
+        "text": "2024",
+        "font": "saans, \"saans Fallback\"",
+        "size": "17.28px",
+        "weight": "600",
+        "lh": "25.92px",
+        "ls": "0.432px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "ART DIRECTION,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "WEB DESIGN,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "RESPONSIVE DESIGN,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "NEXT.JS,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "TAILWIND CSS,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "GSAP,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "MOTION,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "LENIS,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "CONTENTFUL,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "VERCEL,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "SHOPIFY API,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "ART DIRECTION,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "WEB DESIGN,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "RESPONSIVE DESIGN,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "NEXT.JS,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "TAILWIND CSS,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "GSAP,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "MOTION,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "LENIS,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "CONTENTFUL,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "VERCEL,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "SHOPIFY API,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "P",
+        "text": "SOCIALSTATS",
+        "font": "saans, \"saans Fallback\"",
+        "size": "17.28px",
+        "weight": "600",
+        "lh": "25.92px",
+        "ls": "0.432px",
+        "color": "lab(96.52 -0.0000298023 0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "P",
+        "text": "PRODUCT",
+        "font": "saans, \"saans Fallback\"",
+        "size": "17.28px",
+        "weight": "600",
+        "lh": "25.92px",
+        "ls": "0.432px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "P",
+        "text": "2024",
+        "font": "saans, \"saans Fallback\"",
+        "size": "17.28px",
+        "weight": "600",
+        "lh": "25.92px",
+        "ls": "0.432px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "RESEARCH & INSIGHTS,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "NAMING & COPYWRITING,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "COMPETITIVE STUDY,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "VOICE & TONE,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "WORKSHOPS,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "STRATEGY,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "UX,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "UI,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "WEB DESIGN,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "RESPONSIVE DESIGN,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "RESEARCH & INSIGHTS,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "NAMING & COPYWRITING,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "COMPETITIVE STUDY,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "VOICE & TONE,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "WORKSHOPS,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "STRATEGY,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "UX,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "UI,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "WEB DESIGN,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "RESPONSIVE DESIGN,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "P",
+        "text": "WESTEND",
+        "font": "saans, \"saans Fallback\"",
+        "size": "17.28px",
+        "weight": "600",
+        "lh": "25.92px",
+        "ls": "0.432px",
+        "color": "lab(96.52 -0.0000298023 0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "P",
+        "text": "PORTFOLIO",
+        "font": "saans, \"saans Fallback\"",
+        "size": "17.28px",
+        "weight": "600",
+        "lh": "25.92px",
+        "ls": "0.432px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "P",
+        "text": "2024",
+        "font": "saans, \"saans Fallback\"",
+        "size": "17.28px",
+        "weight": "600",
+        "lh": "25.92px",
+        "ls": "0.432px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "ART DIRECTION,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "WEB DESIGN,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "RESPONSIVE DESIGN,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "NEXT.JS,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "TAILWIND CSS,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "GSAP,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "LENIS,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "CONTENTFUL,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "VERCEL,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "ART DIRECTION,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "WEB DESIGN,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "RESPONSIVE DESIGN,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "NEXT.JS,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "TAILWIND CSS,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "GSAP,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "LENIS,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "CONTENTFUL,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "VERCEL,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "P",
+        "text": "DELIVRD",
+        "font": "saans, \"saans Fallback\"",
+        "size": "17.28px",
+        "weight": "600",
+        "lh": "25.92px",
+        "ls": "0.432px",
+        "color": "lab(96.52 -0.0000298023 0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "P",
+        "text": "SHOWCASE",
+        "font": "saans, \"saans Fallback\"",
+        "size": "17.28px",
+        "weight": "600",
+        "lh": "25.92px",
+        "ls": "0.432px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "P",
+        "text": "2023",
+        "font": "saans, \"saans Fallback\"",
+        "size": "17.28px",
+        "weight": "600",
+        "lh": "25.92px",
+        "ls": "0.432px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "NEXT.JS,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "TAILWIND CSS,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "GSAP,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "LENIS,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "SUPABASE,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "VERCEL,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "WEB DESIGN,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "RESPONSIVE DESIGN,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "NEXT.JS,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "TAILWIND CSS,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "GSAP,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "LENIS,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "SUPABASE,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      }
+    ],
+    "globals": [
+      "ondevicemotion",
+      "MotionIsMounted",
+      "lenisVersion",
+      "gsapVersions"
+    ],
+    "docHeight": 3103,
+    "landmarks": [
+      "HEADER#.",
+      "NAV#.flex flex-col gap-4 mb-4",
+      "MAIN#.bg-neutral-100",
+      "FOOTER#.bg-neutral-100"
+    ]
+  },
+  "requests": [
+    {
+      "type": "document",
+      "url": "https://www.itsjay.us/work"
+    },
+    {
+      "type": "font",
+      "url": "https://www.itsjay.us/_next/static/media/SaansMono_Regular-s.p.0d5vn2ig4yx5h.woff2?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "font",
+      "url": "https://www.itsjay.us/_next/static/media/Saans_Bold-s.p.1if5g60stf9pb.woff2?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "font",
+      "url": "https://www.itsjay.us/_next/static/media/Saans_Medium-s.p.102--qx69lvqf.woff2?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "font",
+      "url": "https://www.itsjay.us/_next/static/media/Saans_Regular-s.p.015ew5mvl0ria.woff2?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "font",
+      "url": "https://www.itsjay.us/_next/static/media/Saans_SemiBold-s.p.0cfh-m7jcy90y.woff2?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "font",
+      "url": "https://www.itsjay.us/_next/static/media/lcddot-s.p.27ilijiqe3zq9.ttf?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "image",
+      "url": "https://image.mux.com/u5302DwDC6HYhp9TgB01kwhO2uoNT019vqGtARU4WO81VA/thumbnail.webp?time=0&width=1600"
+    },
+    {
+      "type": "image",
+      "url": "https://image.mux.com/DMgpiL5WXaZYOwTdLTROa001Dyy02CKUPFZxlumAauOJU/thumbnail.webp?time=0&width=1600"
+    },
+    {
+      "type": "image",
+      "url": "https://image.mux.com/aGOGsnLFYBSZhA01CoCakyB2AB64XTuRzCceDnbXyEQE/thumbnail.webp?time=0&width=1600"
+    },
+    {
+      "type": "image",
+      "url": "https://image.mux.com/02wcwOrlIYQNIMTrVeMSLp2gwJCGe4LKoKWwjv1XBra8/thumbnail.webp?time=0&width=1600"
+    },
+    {
+      "type": "stylesheet",
+      "url": "https://www.itsjay.us/_next/static/chunks/26ithsq8k0u2q.css?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "stylesheet",
+      "url": "https://www.itsjay.us/_next/static/chunks/0wydf9ctijzs2.css?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "script",
+      "url": "https://www.itsjay.us/_next/static/chunks/3w7pvw2d-ekfu.js?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "script",
+      "url": "https://www.itsjay.us/_next/static/chunks/0imi12qg8a4od.js?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "script",
+      "url": "https://www.itsjay.us/_next/static/chunks/2evlr16jb7dsq.js?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "script",
+      "url": "https://www.itsjay.us/_next/static/chunks/3alsycw784cp3.js?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "script",
+      "url": "https://www.itsjay.us/_next/static/chunks/turbopack-2wggjsit5q7j6.js?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "script",
+      "url": "https://www.itsjay.us/_next/static/chunks/0l35nod4h2wgd.js?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "script",
+      "url": "https://www.itsjay.us/_next/static/chunks/1o1jux42q6l8a.js?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "script",
+      "url": "https://www.itsjay.us/_next/static/chunks/3c4o7wu0hfxy-.js?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "script",
+      "url": "https://www.itsjay.us/_next/static/chunks/10ab2cvt-tavy.js?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "script",
+      "url": "https://www.itsjay.us/_next/static/chunks/0ab_ng33xm9oo.js?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "script",
+      "url": "https://www.itsjay.us/_next/static/chunks/24f47g-dgl5c1.js?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "script",
+      "url": "https://www.itsjay.us/_next/static/chunks/1e5xvv7ym4v6u.js?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "media",
+      "url": "https://www.itsjay.us/videos/emoji.mov"
+    },
+    {
+      "type": "media",
+      "url": "https://www.itsjay.us/_next-video/socialstats.mp4"
+    },
+    {
+      "type": "media",
+      "url": "https://www.itsjay.us/_next-video/westend.mp4"
+    },
+    {
+      "type": "image",
+      "url": "https://www.itsjay.us/_next/image?url=%2Fimages%2Fpages%2Fhome-icon.png&w=1920&q=75&dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "image",
+      "url": "https://www.itsjay.us/_next/image?url=%2Fimages%2Fpages%2Fwork-icon.png&w=1920&q=75&dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "image",
+      "url": "https://www.itsjay.us/_next/image?url=%2Fimages%2Fpages%2Flab-icon.png&w=1920&q=75&dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "image",
+      "url": "https://www.itsjay.us/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1744731036457-b74958fd6bf5%3Fq%3D80%26w%3D3087%26auto%3Dformat%26fit%3Dcrop%26ixlib%3Drb-4.1.0%26ixid%3DM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D&w=1920&q=75"
+    },
+    {
+      "type": "image",
+      "url": "https://www.itsjay.us/_next/image?url=%2Fimages%2Fwork%2Fjazmin-wong%2Fjazmin-wong-icon.png&w=32&q=75&dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "image",
+      "url": "https://www.itsjay.us/_next/image?url=%2Fimages%2Fwork%2Ftrackstack%2Fcover.jpg&w=1920&q=75&dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "image",
+      "url": "https://www.itsjay.us/_next/image?url=%2Fimages%2Fwork%2Ftrackstack%2Ftrackstack-icon.png&w=32&q=75&dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "image",
+      "url": "https://www.itsjay.us/_next/image?url=%2Fimages%2Fwork%2Fkick-bass%2Fcover.png&w=1920&q=75&dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "image",
+      "url": "https://www.itsjay.us/_next/image?url=%2Fimages%2Fwork%2Fkick-bass%2Fkick-bass-icon.png&w=32&q=75&dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "image",
+      "url": "https://www.itsjay.us/_next/image?url=%2Fimages%2Fwork%2Fsocialstats%2Fcover.png&w=1920&q=75&dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "image",
+      "url": "https://www.itsjay.us/_next/image?url=%2Fimages%2Fwork%2Fsocialstats%2Fsocialstats-icon.png&w=32&q=75&dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "image",
+      "url": "https://www.itsjay.us/_next/image?url=%2Fimages%2Fother%2Fwestend.jpg&w=1920&q=75&dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "image",
+      "url": "https://www.itsjay.us/_next/image?url=%2Fimages%2Fwork%2Fwestend%2Fwestend-icon.png&w=32&q=75&dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "image",
+      "url": "https://www.itsjay.us/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1617864848089-9c54bf240fe6%3Fq%3D80%26w%3D3270%26auto%3Dformat%26fit%3Dcrop%26ixlib%3Drb-4.1.0%26ixid%3DM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D&w=1920&q=75"
+    },
+    {
+      "type": "image",
+      "url": "https://www.itsjay.us/_next/image?url=%2Fimages%2Fwork%2Fdelivrd%2Fdelivrd-icon.png&w=32&q=75&dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "media",
+      "url": "https://www.itsjay.us/videos/emoji.mov"
+    },
+    {
+      "type": "script",
+      "url": "https://www.itsjay.us/_next/static/chunks/1k9w8xcpkd9nf.js?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "script",
+      "url": "https://www.itsjay.us/_next/static/chunks/2taw60_vl2yhd.js?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "script",
+      "url": "https://www.itsjay.us/_next/static/chunks/4053dhd1-qnu8.js?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "fetch",
+      "url": "https://www.itsjay.us/work/socialstats?_rsc=2w9-JQzBEdMnhII4"
+    },
+    {
+      "type": "fetch",
+      "url": "https://www.itsjay.us/work/kick-bass?_rsc=2w9-JQzBEdMnhII4"
+    },
+    {
+      "type": "fetch",
+      "url": "https://www.itsjay.us/work/trackstack?_rsc=2w9-JQzBEdMnhII4"
+    },
+    {
+      "type": "fetch",
+      "url": "https://www.itsjay.us/work/jazmin-wong?_rsc=2w9-JQzBEdMnhII4"
+    },
+    {
+      "type": "script",
+      "url": "https://www.itsjay.us/_vercel/insights/script.js"
+    },
+    {
+      "type": "xhr",
+      "url": "https://stream.mux.com/u5302DwDC6HYhp9TgB01kwhO2uoNT019vqGtARU4WO81VA.m3u8"
+    },
+    {
+      "type": "xhr",
+      "url": "https://stream.mux.com/DMgpiL5WXaZYOwTdLTROa001Dyy02CKUPFZxlumAauOJU.m3u8"
+    },
+    {
+      "type": "xhr",
+      "url": "https://stream.mux.com/aGOGsnLFYBSZhA01CoCakyB2AB64XTuRzCceDnbXyEQE.m3u8"
+    },
+    {
+      "type": "xhr",
+      "url": "https://stream.mux.com/02wcwOrlIYQNIMTrVeMSLp2gwJCGe4LKoKWwjv1XBra8.m3u8"
+    },
+    {
+      "type": "fetch",
+      "url": "https://inferred.litix.io/"
+    },
+    {
+      "type": "fetch",
+      "url": "https://inferred.litix.io/"
+    },
+    {
+      "type": "fetch",
+      "url": "https://inferred.litix.io/"
+    },
+    {
+      "type": "fetch",
+      "url": "https://inferred.litix.io/"
+    },
+    {
+      "type": "fetch",
+      "url": "https://www.itsjay.us/?_rsc=2w9-JQzBEdMnhII4"
+    },
+    {
+      "type": "fetch",
+      "url": "https://www.itsjay.us/work/socialstats?_rsc=ebxhI9ek-oKkZVJy"
+    },
+    {
+      "type": "fetch",
+      "url": "https://www.itsjay.us/work/trackstack?_rsc=ebxhI9ek-oKkZVJy"
+    },
+    {
+      "type": "fetch",
+      "url": "https://www.itsjay.us/work/kick-bass?_rsc=ebxhI9ek-oKkZVJy"
+    },
+    {
+      "type": "fetch",
+      "url": "https://www.itsjay.us/work/jazmin-wong?_rsc=ebxhI9ek-oKkZVJy"
+    },
+    {
+      "type": "xhr",
+      "url": "https://manifest-oci-us-phoenix-1-vop1.fastly.mux.com/45pLUYCDDIdElR01CaUAw5i88YiaOO6Yf2MiqzFV7zfanOVghF858WIV02J6lKmllgYWMjOw8VsNPdiUIC01tHSSgRNZudRqnxx/rendition.m3u8?cdn=fastly&expires=1792260000&skid=default&signature=NmFkM2JiZThfYjNlY2QwYWRiNmJhYTBiNzdjZjU1Y2NhMmIzODI5NTM3Mjc0NzZhMTM1MzVhNmVkM2E3NDU1ODM2YjZjMWZmOQ=="
+    },
+    {
+      "type": "xhr",
+      "url": "https://manifest-oci-us-phoenix-1-vop1.fastly.mux.com/oi9K9nRQFROy1o6dYARzAyWH74Sv01ygEVqgIMKxLtRn5LFTR6imOzv9Spr8nmJ1o3S1Y5a0197O9E2TvfDHoaQnw1dIR7qaFz/rendition.m3u8?cdn=fastly&expires=1792260000&skid=default&signature=NmFkM2JiZThfM2M0Y2I0ODY4ZWZlNWU0ZWMzNzA2YTA2NjFiMWQzYzgyNGZkZmQyNTY5YTFkMjk0MGI3MjViOTUzNTkzYmU2Zg=="
+    },
+    {
+      "type": "fetch",
+      "url": "https://www.itsjay.us/?_rsc=gV1Sqh4E0IWEtorH"
+    },
+    {
+      "type": "fetch",
+      "url": "https://www.itsjay.us/?_rsc=VC5G5spAifuB2Pf5"
+    },
+    {
+      "type": "xhr",
+      "url": "https://manifest-oci-us-phoenix-1-vop1.fastly.mux.com/VVfPAnuMHIUvg9C8kqXx4FTM3hy02mpiNu6LC00TvUxYKl01KWT8qLnF8v5Nssswhj02HCK02gwqYSO1F8aEnJIY2grsUDgq019Y1kdm01D47aTexw/rendition.m3u8?cdn=fastly&expires=1792260000&skid=default&signature=NmFkM2JiZThfMjc0NmM0YjdmNjgzZDQwOTc4NzkxNTg3NzljMzZmOGFkNDNjNjc4NTc5NGU3NTkzZTJhODczOGU0M2Y4MzJiMA=="
+    },
+    {
+      "type": "xhr",
+      "url": "https://manifest-oci-us-phoenix-1-vop1.fastly.mux.com/pursBtt1sfjAw02kP3uCeSPYYZgnW6LlRSvK158B1HR67dlQjWIPBAOJcNbEayvdH1801xf01Qs00hhMPgnNghD6f464NUyEEubC/rendition.m3u8?cdn=fastly&expires=1792260000&skid=default&signature=NmFkM2JiZThfZTNhNzBlMWY5NzE1NDYzZDQ2MmQ2NjYwYzFlNzdjNmQ4NWU2NmUwNzkwZTMxZTk1MzkwNWIyNTM4ZGE4MmYzOQ=="
+    },
+    {
+      "type": "fetch",
+      "url": "https://www.itsjay.us/?_rsc=q1vWSaOy6B75S8Zt"
+    },
+    {
+      "type": "xhr",
+      "url": "https://chunk-oci-us-phoenix-1-vop1.fastly.mux.com/v1/chunk/3TQ00lxYtDekYnzjpysD01dGFbu9YuCtpCQxrxvQJY6aMMiip2fEKypInXElF9duZ801UFnRPZxC01JHIebvzNFCTvOblOg02l7gn/18446744073709551615.m4s?skid=default&signature=NmFkM2I3YTBfNmQ3ZDg4ODk2ZmRhOTAwNTI0ZDkyZTk0YTY2NTIyMGE2ZTE2YjFlYTMxYjE5MDI5MThkYTI5OWI0YzlmODcxMQ==&zone=2"
+    },
+    {
+      "type": "xhr",
+      "url": "https://chunk-oci-us-phoenix-1-vop1.fastly.mux.com/v1/chunk/w9hSUUH83MYQ8lVYvM02HjpOrBnmsiC02bHkd5YhjgHoxo8Sqkgf5ZLU022qaqyxGTFuZqvFenA9QnpXeUX4xk4D4Vd38giT7MF/18446744073709551615.m4s?skid=default&signature=NmFkM2I3YTBfOWQ0ZjBlZDhjMWI1M2MyMmIxM2JkMTkwZGQyNmEwNmEyOWIwYzMwNGU0ZTZkYTQ3NmU2OGZkMWNlZjE1NzcyYQ==&zone=2"
+    },
+    {
+      "type": "xhr",
+      "url": "https://chunk-oci-us-phoenix-1-vop1.fastly.mux.com/v1/chunk/ZlJpFiLl1zgagmg1guzAnjIC8v3zv6XZWyd00dlAM73FI02Ok1f7jlo3UYhj7MID3Ah1tCXGc00CgimEfoMkO01J4GLC00U02FZ4AG7PDEwAFIzvE/18446744073709551615.m4s?skid=default&signature=NmFkM2I3YTBfNTBiMDRmMmQyZGE5YTZkZjUyMTNhZjliNmM4YmUwNGQxNWE5MDk5OWVjOTNiYjFjNWRlNTkxNWQxMjFlOWJhOA==&zone=0"
+    },
+    {
+      "type": "xhr",
+      "url": "https://chunk-oci-us-phoenix-1-vop1.fastly.mux.com/v1/chunk/toPEFDn6LnTIyQaLH18C5wqZi9TRHgMCO1G01NivN4o5q9vbfIqTwsHktWAICeYFTkkjsZulWvyF65oMRZfkqJwV4M6RPPeJU/18446744073709551615.m4s?skid=default&signature=NmFkM2I3YTBfYzQxYWE2ZDViYjBiOTc0YTAxMGNiZGNlZTcyZjhlN2VlZTlkOWJlYzIxN2Q3Y2RlNTI4YmVjN2Y5YmMzODJlYg==&zone=0"
+    },
+    {
+      "type": "xhr",
+      "url": "https://chunk-oci-us-phoenix-1-vop1.fastly.mux.com/v1/chunk/fkr8YvZJ01ZdgEoMgsF4NOd01z5un7Tflr00jFhsJV2ACtNb00GwW01XQGVh4Oh4OFBggob33917yWNTen00AWH6M8Vu8jJlNfMei6/0.m4s?skid=default&signature=NmFkM2I3YTBfOTdkYjRhMmNmMzI0ZGM4MDJhNzc1YjNmMTIwN2RiZWQwNTgwNGVmZGZmN2IwNjc4N2NhNjliNzIwYTcxMjY3MA==&zone=2"
+    },
+    {
+      "type": "xhr",
+      "url": "https://chunk-oci-us-phoenix-1-vop1.fastly.mux.com/v1/chunk/WajAlg8EZ8K00qkdI01IbH4qzMDgKDmKlHanVzSjOfOviopOFrSLa4IUD47PPmzx1fFbQkRQfiU4OnqsYv00ek02e5G00lJRE3yUn9uePmzbPUuA/0.m4s?skid=default&signature=NmFkM2I3YTBfNDdmMWE5NDk5YzcxMzIzY2QwYWNmYzlhNDUyZTk2NDAwZGRlZWYyNjUxOWNhMjRjNmM2ZjcyN2Y2OGRkYWVjMw==&zone=0"
+    },
+    {
+      "type": "script",
+      "url": "https://www.itsjay.us/_next/static/chunks/22ujqpgim-9w_.js?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "script",
+      "url": "https://www.itsjay.us/_next/static/chunks/1gahwpw57a5ne.js?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "script",
+      "url": "https://www.itsjay.us/_next/static/chunks/1ytyi4mje1l0y.js?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "script",
+      "url": "https://www.itsjay.us/_next/static/chunks/0m9bhz_mrjvar.js?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "xhr",
+      "url": "https://chunk-oci-us-phoenix-1-vop1.fastly.mux.com/v1/chunk/A3DsNBfUKAVjKEwU02pQTvR152fC4PRfdK2hZSO6H47kATmmC7bxJ3rn2NDGqx9KjaEfIc3xEauO01jU6dUkOa2A0100a1MYEj67/0.m4s?skid=default&signature=NmFkM2I3YTBfOTFmMDRjODkxN2M5NWFmNTdjYjQ0MGEzYTNkYzdhYWQ0M2MyNGY1ODBkYTZlNDExY2U3MWM3YmZhMjkzZTU3Nw==&zone=0"
+    },
+    {
+      "type": "xhr",
+      "url": "https://chunk-oci-us-phoenix-1-vop1.fastly.mux.com/v1/chunk/YHrJWtKzMozhbRAdnzdDZ36fCsNmAAooo8PVTxvyfj95a1Z6Qe00nYUE7G3cpSAverHbTpQ028P3AL02vX1gHDRyyvb80125m01aW/0.m4s?skid=default&signature=NmFkM2I3YTBfMzAxOTYzZGM3NGJmOWY1NDYwMDAyZDQ5MmZmNjk4ZGZmMzljODc0OTc4ZTkxNjAzZGMzMjA5YjQ3Y2YzZmFlOA==&zone=2"
+    },
+    {
+      "type": "xhr",
+      "url": "https://chunk-oci-us-phoenix-1-vop1.fastly.mux.com/v1/chunk/pursBtt1sfjAw02kP3uCeSPYYZgnW6LlRSvK158B1HR67dlQjWIPBAOJcNbEayvdH1801xf01Qs00hhMPgnNghD6f464NUyEEubC/1.m4s?skid=default&signature=NmFkM2I3YTBfMTdhNDVkOTE5MjIzNzQ1MDllNGRkNDdhNzlkMWI5NDIwNWZmOWM2YWQ2NmUxMTA0ZWQzMTc0MzU0MTU5OGQ0ZQ==&zone=0"
+    },
+    {
+      "type": "xhr",
+      "url": "https://chunk-oci-us-phoenix-1-vop1.fastly.mux.com/v1/chunk/VVfPAnuMHIUvg9C8kqXx4FTM3hy02mpiNu6LC00TvUxYKl01KWT8qLnF8v5Nssswhj02HCK02gwqYSO1F8aEnJIY2grsUDgq019Y1kdm01D47aTexw/1.m4s?skid=default&signature=NmFkM2I3YTBfNmEzMjg0MjBhYjc3NTk1M2IzMmFkZjVhNjU1MmJhZGEyZGViMzk2NDcyZjJlZGZlY2M5MmM4YjBjZDllNDI0Zg==&zone=0"
+    },
+    {
+      "type": "xhr",
+      "url": "https://chunk-oci-us-phoenix-1-vop1.fastly.mux.com/v1/chunk/oi9K9nRQFROy1o6dYARzAyWH74Sv01ygEVqgIMKxLtRn5LFTR6imOzv9Spr8nmJ1o3S1Y5a0197O9E2TvfDHoaQnw1dIR7qaFz/1.m4s?skid=default&signature=NmFkM2I3YTBfY2M0OTNmZTAyZTBjMTgwYjg4YWYyY2ZhNmVmY2E1MDhjNWNjNTk1Y2M4ZGIzOTAzMjg1NTVlYjI1NmFkMThkZg==&zone=2"
+    },
+    {
+      "type": "xhr",
+      "url": "https://chunk-oci-us-phoenix-1-vop1.fastly.mux.com/v1/chunk/45pLUYCDDIdElR01CaUAw5i88YiaOO6Yf2MiqzFV7zfanOVghF858WIV02J6lKmllgYWMjOw8VsNPdiUIC01tHSSgRNZudRqnxx/1.m4s?skid=default&signature=NmFkM2I3YTBfMzg5MjI4OTVlNGJkYzM5YzE1Zjk4M2YyNDgyNjMxZWU2NWJhMTA0OTI5NmViMWQ1NTRhNDY3ZTliNmZjMjU2Yg==&zone=2"
+    },
+    {
+      "type": "xhr",
+      "url": "https://manifest-oci-us-ashburn-1-vop1.fastly.mux.com/HFItzPZUPu8LHQ01ewuKmGi3G5IEQKwOfYFD00MHIyDSGrh1mzcLeOis7AOwGHV4o77akPlKPVnCsKTAAxaS8uZb00HQI2y77SlnbUdFOuKxxM/rendition.m3u8?cdn=fastly&expires=1792260000&skid=default&signature=NmFkM2JiZThfMGIwMWQ4M2QzODRkMzMyZjAxNTk5YjhjY2NkOGZkZmJkZTUwZGI5NjU3ZjU1MGU1YTJlYzFhOWEwMTNhYzA2MA=="
+    },
+    {
+      "type": "xhr",
+      "url": "https://manifest-oci-us-ashburn-1-vop1.fastly.mux.com/4s4PJkAB6P6Ry2DWvDtIyxMukaqbGDqk6FLW9IW8OKcW1MUqzf4Tyn025Nt8lULN8K45ifYY9YFknZyrjqQfFDOF00sNwn2f6x/rendition.m3u8?cdn=fastly&expires=1792260000&skid=default&signature=NmFkM2JiZThfOWE1NDk1MGVhOWMzNTAzYzI3MWE4NDE4ZmI1ODQ1ODFlYjc0YWQ2ZjgwYjQ5NDQzMmZkZWE2OTA4NzY2MDI0MA=="
+    },
+    {
+      "type": "xhr",
+      "url": "https://manifest-oci-us-ashburn-1-vop1.fastly.mux.com/b1LkszaV02vassOMIO01JjCXVJLGbHFY5ZHUTN0001KqmMmbSUfWVlr84fXmUn8qWxfhVpN1acew017xvKkQb1lBbzTB3ZbqyOejnfHcqOBzI73E/rendition.m3u8?cdn=fastly&expires=1792260000&skid=default&signature=NmFkM2JiZThfNzFiZTFlN2EzMzkyZmYwZTliNTgyNmM2MTVlZmU0NmMxMDc5MDFiNmZjNTJkN2Q4NjEyY2M3YWVmYTEyMjE5MA=="
+    },
+    {
+      "type": "xhr",
+      "url": "https://manifest-oci-us-ashburn-1-vop1.fastly.mux.com/AYMEyBpZ7nHg00lVo7jYL5AR1hkaaFLs4RUHrRgP4cXE8qf02WsJ02yOLsgDl01w88KkUSS4R1DMtT00M2BbSGYYEJSO78K1S9466/rendition.m3u8?cdn=fastly&expires=1792260000&skid=default&signature=NmFkM2JiZThfNDg4YmJhNDA1OGNjMzY5ZjIyNWFkYmMwOGM5OGQyNGI4YmY0YjBhYTQ3NzZmNTlkMGUyZmFjYzY1MWE4NDk2ZQ=="
+    },
+    {
+      "type": "xhr",
+      "url": "https://chunk-oci-us-ashburn-1-vop1.fastly.mux.com/v1/chunk/B01uBnX2uZimdbmTOLKZ01wAfB6isz015Xwu7dVn02Rga3nFz019eDjCo8P4o02aXM1y0202cechrnIwgSR5UEinAAYXrG2QPWAF6zmMdSK4D3R02aC00/18446744073709551615.m4s?skid=default&signature=NmFkM2I3YTBfMzAyYjdmM2E4ZmY5NjYwZjMzNDdmYTI4NTA1YWRlNjA4NDQ3NDAyZjg4MjkzZTJlOGJmM2E5MjdiZmRlYWI0MQ==&zone=1"
+    },
+    {
+      "type": "xhr",
+      "url": "https://chunk-oci-us-ashburn-1-vop1.fastly.mux.com/v1/chunk/3cSgr02rdT00uoULGYlFeZWMDLQnxTUVkt015MnQCDkW02IoQDLUmI6YimbQ2VznhpZw8h3ICaFss01A6hRTd1soT01Gve6LvHUJ9N01VeM014Ds7Io/0.m4s?skid=default&signature=NmFkM2I3YTBfNjA5OTVjZTVjYzU5ZTkyODg5OGRlMmNiNzYyMDM1MmY0N2YwM2RiZDMyOGEzOGUxYjNjOTdlZDU5NDNhOGVkMw==&zone=1"
+    },
+    {
+      "type": "xhr",
+      "url": "https://chunk-oci-us-ashburn-1-vop1.fastly.mux.com/v1/chunk/trFuGwB7jK01oBuMZTZ01HXB1AMbvxFtqDQuJBJPrNMfkj7bZbEqJiZ01qT00R6yaHdUG00v00200qaW500KuMTJgZ5601fw01VXMNPg5N/18446744073709551615.m4s?skid=default&signature=NmFkM2I3YTBfYWZjMjRlMzcxZTQ5ZDU0ZjM0MzEwMjg4NjYzODFhY2EwNWNkMDYyNzQzNDY4NGJjOGQxMmExMmUxMTFmMzk3Ng==&zone=1"
+    },
+    {
+      "type": "xhr",
+      "url": "https://chunk-oci-us-ashburn-1-vop1.fastly.mux.com/v1/chunk/476JJzJNVNFUPVCBEpOThzqDImBd6pb96fCYC01iWpKMYexkow01JsTX3wqZEB4QTBoEGRG6iZEO7nS6o1j0102kj2bCEf6u26VAxJAzztX9cm4/18446744073709551615.m4s?skid=default&signature=NmFkM2I3YTBfNDlhNWM1YmI4ODM2ZTRlZmUwNWM4MGUxODIwNzgxZjc2MzQwNjJhMDlkMWQ5YTc2ZWY2MjFkOGI2YjA1NmYxYg==&zone=0"
+    },
+    {
+      "type": "xhr",
+      "url": "https://chunk-oci-us-ashburn-1-vop1.fastly.mux.com/v1/chunk/K01saZV8WjqM01nMI6ECoqdpB5FvXgZsKUEjiSrVBRyImwbA7HcjpUeik00gscBm7IdIE02Bi00ePoaHOySwNRHdL9lFwOTgB5FQ01/18446744073709551615.m4s?skid=default&signature=NmFkM2I3YTBfN2JlOTgwN2Q5ZDExZjNmNTI1MDU0NTY4MjkxYmMyYWZkNTQwZjUzZWU1OGEwZjViNmZhM2ZkN2JhNjc2YTRiMA==&zone=0"
+    },
+    {
+      "type": "xhr",
+      "url": "https://chunk-oci-us-ashburn-1-vop1.fastly.mux.com/v1/chunk/8Dp028iM802HYKtg1BuGTvOz6f9E00AuYx2Ihw1K1IPr5hXeK00I9JTsqiDtWn8d02GB01fGvno5qlZ5sXB5DGv8blC01o6euUMvon0219KliTE375I/0.m4s?skid=default&signature=NmFkM2I3YTBfNDQ0NTQ5OGM1YTE2ODMxNTYyODVkYTdlNGIyZGQzZTk4NmRjZjE0Zjc4YWYyOGVlMDA3YmE0OTcwMDQ1MzA1OA==&zone=0"
+    },
+    {
+      "type": "xhr",
+      "url": "https://chunk-oci-us-ashburn-1-vop1.fastly.mux.com/v1/chunk/JKdrekxHj58cKQD9aIY1Z1uNYBpyt7xal3bFWZvRvr4hJ8j02failhYNNLzKMMP8k1xwN9ZZ01zjw4LwLzx2ndhMAPvNkCkCxL/0.m4s?skid=default&signature=NmFkM2I3YTBfOTdlNWRlZDRkNzg0ZTU3ZDYyMTVhZWI1YjM4ZTFlZGI5NTYxYzI4YTI1YWVjYmMyMDI2NDBjYzEzNGZlYzYwNw==&zone=1"
+    },
+    {
+      "type": "xhr",
+      "url": "https://chunk-oci-us-ashburn-1-vop1.fastly.mux.com/v1/chunk/tiG01snYo37voW012fPYLmlvmzQ2byEORQzpIe34JRwgfoATR9iOsxGsx1VBthgmz4AffEs800G6UAVYhpIDEurX6OyUIMYdAjS/0.m4s?skid=default&signature=NmFkM2I3YTBfZjk5MWZhN2NmMDg3OTc0OGFlNTZjOTdlNjUxMTA3ZTcyNGNhODdiNjVhYjdmZmZlZTg0M2Y0N2M1ZmYzMDdjYg==&zone=0"
+    },
+    {
+      "type": "xhr",
+      "url": "https://chunk-oci-us-ashburn-1-vop1.fastly.mux.com/v1/chunk/34qKWVQVDs4PorZq7HzuzzmX1EYiqN81zpFSSMUDM4e5vpFhOYZhb7AZXgT1q01VeLOBErdN7YGYi02jZIWiF4hwvzlKzhtSn4Re1vyFFZO3w/1.m4s?skid=default&signature=NmFkM2I3YTBfZDY3YjRjNDBhYTU2MDBkYjhkNWVhNThkYzhlN2NhZjAyOGM0MTk0MzZkNTM2MWU1YmU3YWZmMzQ0MDc2YzFhMQ==&zone=1"
+    },
+    {
+      "type": "xhr",
+      "url": "https://chunk-oci-us-ashburn-1-vop1.fastly.mux.com/v1/chunk/9H4m8dQod02l4GO973cCc4FcE02RNX02WfUZ2LuayLbrqKc9cxziee00F5iFvNTGxe4hawlkIsgUlA5300GFqJLOwnW9mpqIYJcaB/1.m4s?skid=default&signature=NmFkM2I3YTBfOWQwM2UyMGVlMTM2YzI2NWU5NGVmNDM5MzU4MDJmZWJmOWU4MjU5Y2I1ZDgyYWRlZWE5YjlkNmVlZGM5YTJjMg==&zone=1"
+    },
+    {
+      "type": "xhr",
+      "url": "https://chunk-oci-us-ashburn-1-vop1.fastly.mux.com/v1/chunk/AYMEyBpZ7nHg00lVo7jYL5AR1hkaaFLs4RUHrRgP4cXE8qf02WsJ02yOLsgDl01w88KkUSS4R1DMtT00M2BbSGYYEJSO78K1S9466/1.m4s?skid=default&signature=NmFkM2I3YTBfMjUxMDVlNTlhMGI1YzM5OWExNWJhZGM5MjlhY2RmYzU4MmMxY2Y1NzZjZGE3MGIyYjY5ZTM3Y2VhM2VlMWRmYg==&zone=0"
+    },
+    {
+      "type": "xhr",
+      "url": "https://chunk-oci-us-ashburn-1-vop1.fastly.mux.com/v1/chunk/b1LkszaV02vassOMIO01JjCXVJLGbHFY5ZHUTN0001KqmMmbSUfWVlr84fXmUn8qWxfhVpN1acew017xvKkQb1lBbzTB3ZbqyOejnfHcqOBzI73E/1.m4s?skid=default&signature=NmFkM2I3YTBfZWU3YTE3ODRjNjFkMTQyNGFhZDdmZjVmMmVlOWQ5NDQ1ZDJjY2Q5YTRjMTM2N2MwMzM3YmI1OGI4M2I5ZGI5NA==&zone=0"
+    },
+    {
+      "type": "xhr",
+      "url": "https://chunk-oci-us-ashburn-1-vop1.fastly.mux.com/v1/chunk/4s4PJkAB6P6Ry2DWvDtIyxMukaqbGDqk6FLW9IW8OKcW1MUqzf4Tyn025Nt8lULN8K45ifYY9YFknZyrjqQfFDOF00sNwn2f6x/2.m4s?skid=default&signature=NmFkM2I3YTBfZDFlMDViZDZlYWYwMWJmMjBjMWFjY2FlMGMzYjViMDlhOTdjNDlmYTk1NTZjZTgyYjEyZjNlNDczMGExMjNhZg==&zone=1"
+    },
+    {
+      "type": "xhr",
+      "url": "https://chunk-oci-us-ashburn-1-vop1.fastly.mux.com/v1/chunk/HFItzPZUPu8LHQ01ewuKmGi3G5IEQKwOfYFD00MHIyDSGrh1mzcLeOis7AOwGHV4o77akPlKPVnCsKTAAxaS8uZb00HQI2y77SlnbUdFOuKxxM/2.m4s?skid=default&signature=NmFkM2I3YTBfM2Y3MTVmYWI2NTZiYmE5ZDlkNmUzZWRjMDgxN2RiYTQyZGUzOTE1NTFmYTczY2VhMmIyZDY0ODJmODEyMzg3Mw==&zone=1"
+    },
+    {
+      "type": "media",
+      "url": "https://www.itsjay.us/videos/emoji.mov"
+    },
+    {
+      "type": "fetch",
+      "url": "https://www.itsjay.us/work/delivrd?_rsc=2w9-JQzBEdMnhII4"
+    },
+    {
+      "type": "fetch",
+      "url": "https://www.itsjay.us/work/westend?_rsc=2w9-JQzBEdMnhII4"
+    },
+    {
+      "type": "fetch",
+      "url": "https://www.itsjay.us/work/westend?_rsc=ebxhI9ek-oKkZVJy"
+    },
+    {
+      "type": "fetch",
+      "url": "https://www.itsjay.us/work/delivrd?_rsc=ebxhI9ek-oKkZVJy"
+    },
+    {
+      "type": "fetch",
+      "url": "https://www.itsjay.us/lab?_rsc=2w9-JQzBEdMnhII4"
+    },
+    {
+      "type": "fetch",
+      "url": "https://www.itsjay.us/work?_rsc=gV1Sqh4E0IWEtorH"
+    },
+    {
+      "type": "fetch",
+      "url": "https://www.itsjay.us/work?_rsc=ow1RgRPrybKAg7Cs"
+    },
+    {
+      "type": "fetch",
+      "url": "https://www.itsjay.us/lab?_rsc=gV1Sqh4E0IWEtorH"
+    },
+    {
+      "type": "fetch",
+      "url": "https://www.itsjay.us/lab?_rsc=HB17bOfcOSClnF-0"
+    },
+    {
+      "type": "fetch",
+      "url": "https://www.itsjay.us/lab?_rsc=B4Je5A1B9gNoaV-N"
+    },
+    {
+      "type": "fetch",
+      "url": "https://www.itsjay.us/work?_rsc=U-hHzRjiHNQcJKEt"
+    },
+    {
+      "type": "script",
+      "url": "https://www.itsjay.us/_next/static/chunks/27_7wfwmsz60n.js?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    }
+  ],
+  "consoleMsgs": [
+    "warning: Failed to decode downloaded font: https://www.itsjay.us/_next/static/media/lcddot-s.p.27ilijiqe3zq9.ttf?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt",
+    "warning: OTS parsing error: cmap: Range glyph reference too high (102 > 101)\ncmap: Failed to parse format 4 cmap subtable 0\ncmap: Failed to parse table",
+    "warning: Failed to decode downloaded font: https://www.itsjay.us/_next/static/media/lcddot-s.p.27ilijiqe3zq9.ttf?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt",
+    "warning: OTS parsing error: cmap: Range glyph reference too high (102 > 101)\ncmap: Failed to parse format 4 cmap subtable 0\ncmap: Failed to parse table",
+    "warning: Failed to decode downloaded font: https://www.itsjay.us/_next/static/media/lcddot-s.p.27ilijiqe3zq9.ttf?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt",
+    "warning: OTS parsing error: cmap: Range glyph reference too high (102 > 101)\ncmap: Failed to parse format 4 cmap subtable 0\ncmap: Failed to parse table",
+    "warning: Failed to decode downloaded font: https://www.itsjay.us/_next/static/media/lcddot-s.p.27ilijiqe3zq9.ttf?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt",
+    "warning: OTS parsing error: cmap: Range glyph reference too high (102 > 101)\ncmap: Failed to parse format 4 cmap subtable 0\ncmap: Failed to parse table",
+    "warning: Failed to decode downloaded font: https://www.itsjay.us/_next/static/media/lcddot-s.p.27ilijiqe3zq9.ttf?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt",
+    "warning: OTS parsing error: cmap: Range glyph reference too high (102 > 101)\ncmap: Failed to parse format 4 cmap subtable 0\ncmap: Failed to parse table",
+    "warning: Failed to decode downloaded font: https://www.itsjay.us/_next/static/media/lcddot-s.p.27ilijiqe3zq9.ttf?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt",
+    "warning: OTS parsing error: cmap: Range glyph reference too high (102 > 101)\ncmap: Failed to parse format 4 cmap subtable 0\ncmap: Failed to parse table"
+  ]
+}

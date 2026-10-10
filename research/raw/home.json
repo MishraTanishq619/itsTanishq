@@ -1,0 +1,2629 @@
+{
+  "url": "https://www.itsjay.us/",
+  "status": 200,
+  "report": {
+    "title": "Jason Zubiate | Design Engineer",
+    "description": "Jason Zubiate | Software design engineer based in Los Angeles.",
+    "og": [
+      [
+        "og:title",
+        "Software Design Engineer"
+      ],
+      [
+        "og:description",
+        "Jason Zubiate | Software design engineer based in Los Angeles."
+      ],
+      [
+        "og:url",
+        "https://itsjay.us"
+      ],
+      [
+        "og:site_name",
+        "itsjay.us"
+      ],
+      [
+        "og:locale",
+        "en_US"
+      ],
+      [
+        "og:image",
+        "https://itsjay.us/opengraph-image.png?opengraph-image.2_ccbe46lm0qt.png?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+      ],
+      [
+        "og:image:type",
+        "image/png"
+      ],
+      [
+        "og:image:width",
+        "1200"
+      ],
+      [
+        "og:image:height",
+        "680"
+      ],
+      [
+        "og:image",
+        "https://itsjay.us/opengraph-image?085876252e3f6faa"
+      ],
+      [
+        "og:image:type",
+        "image/png"
+      ],
+      [
+        "og:image:width",
+        "1200"
+      ],
+      [
+        "og:image:height",
+        "630"
+      ],
+      [
+        "og:type",
+        "website"
+      ]
+    ],
+    "htmlClass": "lenis",
+    "bodyClass": "saans_f573fdb2-module__pW_-ia__className antialiased bg-neutral-900 text-neutral-900 overscroll-none",
+    "body": {
+      "font": "saans, \"saans Fallback\"",
+      "size": "16px",
+      "weight": "400",
+      "lh": "24px",
+      "ls": "normal",
+      "color": "lab(7.78201 -0.0000149012 0)",
+      "bg": "lab(7.78201 -0.0000149012 0)",
+      "tt": "none"
+    },
+    "headings": [
+      {
+        "tag": "H2",
+        "text": "WORK '25"
+      },
+      {
+        "tag": "H2",
+        "text": "SERVICES"
+      },
+      {
+        "tag": "H3",
+        "text": "Brand Strategy"
+      },
+      {
+        "tag": "H3",
+        "text": "Digital Design"
+      },
+      {
+        "tag": "H3",
+        "text": "Development"
+      },
+      {
+        "tag": "H2",
+        "text": "itsjay.us"
+      }
+    ],
+    "links": [
+      [
+        "https://www.hightouch.com/",
+        "Hightouch Hightouch"
+      ],
+      [
+        "mailto:jzubiate.dev@gmail.com",
+        "🤙🏼 Get in touch Get in touch"
+      ],
+      [
+        "https://www.itsjay.us/",
+        "JASON ZUBIATE"
+      ],
+      [
+        "https://www.itsjay.us/work",
+        "Work"
+      ],
+      [
+        "https://www.itsjay.us/lab",
+        "Lab"
+      ],
+      [
+        "https://www.itsjay.us/work/jazmin-wong",
+        "JAZMIN WONG PORTFOLIO 2025 ART DIRECTION, VOICE & TONE, UI, UX, NEXT.JS, TAILWIND CSS, GSAP, MOTION, MATTER.JS, LENIS, VERCEL, ART DIRECTION, VOICE & TONE, UI, UX, NEXT.JS, TAILWIND CSS, GSAP, MOTION, MATTER.JS, LENIS, VERCEL,"
+      ],
+      [
+        "https://www.itsjay.us/work/trackstack",
+        "TRACKSTACK PRODUCT 2025 ART DIRECTION, NAMING & COPYWRITING, VOICE & TONE, BRAND DESIGN, STRATEGY, UX, UI, WEB DESIGN, PRODUCT DESIGN, MEDIA PRODUCTION, ART DIRECTION, NAMING & COPYWRITING, VOICE & TONE, BRAND DESIGN, STRATEGY, UX, UI, WEB DESIGN, PRODUCT DESIGN, MEDIA PRODUCTION,"
+      ],
+      [
+        "https://reactjs.org/",
+        "Visit React website"
+      ],
+      [
+        "https://nextjs.org/",
+        "Visit Next.js website"
+      ],
+      [
+        "https://www.typescriptlang.org/",
+        "Visit TypeScript website"
+      ],
+      [
+        "https://gsap.com/",
+        "Visit GSAP website"
+      ],
+      [
+        "https://motion.dev/",
+        ""
+      ],
+      [
+        "https://tailwindcss.com/",
+        "Visit TailwindCSS website"
+      ],
+      [
+        "https://www.contentful.com/",
+        "Visit TailwindCSS website"
+      ],
+      [
+        "https://supabase.com/",
+        "Visit Supabase website"
+      ],
+      [
+        "https://vercel.com/",
+        "Visit Vercel website"
+      ],
+      [
+        "https://www.figma.com/",
+        "Visit Figma website"
+      ],
+      [
+        "mailto:jason@itsjay.us",
+        "Contact"
+      ],
+      [
+        "https://github.com/jasonzubiate",
+        "Github"
+      ],
+      [
+        "https://www.instagram.com/itsjay.us/",
+        "Instagram"
+      ],
+      [
+        "https://www.linkedin.com/in/jasonzubiate/",
+        "LinkedIn"
+      ]
+    ],
+    "images": [
+      {
+        "alt": "Home",
+        "src": "https://www.itsjay.us/_next/image?url=%2Fimages%2Fpages%2Fhome-icon.png&w=1920&q=75&dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt",
+        "w": 750,
+        "h": 750
+      },
+      {
+        "alt": "Work",
+        "src": "https://www.itsjay.us/_next/image?url=%2Fimages%2Fpages%2Fwork-icon.png&w=1920&q=75&dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt",
+        "w": 750,
+        "h": 750
+      },
+      {
+        "alt": "Lab",
+        "src": "https://www.itsjay.us/_next/image?url=%2Fimages%2Fpages%2Flab-icon.png&w=1920&q=75&dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt",
+        "w": 750,
+        "h": 750
+      },
+      {
+        "alt": "",
+        "src": "https://image.mux.com/XNK3bwweeTDrJJdvrcF7omzvSqYfrm01zkC601tzX7fCU/thumbnail.webp?time=0&width=1600",
+        "w": 1440,
+        "h": 810
+      },
+      {
+        "alt": "Design",
+        "src": "https://www.itsjay.us/images/other/design.png",
+        "w": 1720,
+        "h": 384
+      },
+      {
+        "alt": "Engineer",
+        "src": "https://www.itsjay.us/images/other/engineer.png",
+        "w": 2368,
+        "h": 384
+      },
+      {
+        "alt": "Design",
+        "src": "https://www.itsjay.us/images/other/design.png",
+        "w": 1720,
+        "h": 384
+      },
+      {
+        "alt": "Engineer",
+        "src": "https://www.itsjay.us/images/other/engineer.png",
+        "w": 2368,
+        "h": 384
+      },
+      {
+        "alt": "",
+        "src": "https://image.mux.com/XNK3bwweeTDrJJdvrcF7omzvSqYfrm01zkC601tzX7fCU/thumbnail.webp?time=0&width=1600",
+        "w": 1440,
+        "h": 810
+      },
+      {
+        "alt": "",
+        "src": "https://image.mux.com/DczZAfc01Y6IYk00qbKIbac3JhgwCiZ9OpdTdWtNBzV2M/thumbnail.webp?time=0&width=1600",
+        "w": 1440,
+        "h": 810
+      },
+      {
+        "alt": "",
+        "src": "https://image.mux.com/DczZAfc01Y6IYk00qbKIbac3JhgwCiZ9OpdTdWtNBzV2M/thumbnail.webp?time=0&width=1600",
+        "w": 1440,
+        "h": 810
+      },
+      {
+        "alt": "",
+        "src": "https://image.mux.com/u5302DwDC6HYhp9TgB01kwhO2uoNT019vqGtARU4WO81VA/thumbnail.webp?time=0&width=1600",
+        "w": 1440,
+        "h": 847
+      },
+      {
+        "alt": "Jazmin Wong",
+        "src": "https://www.itsjay.us/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1744731036457-b74958fd6bf5%3Fq%3D80%26w%3D3087%26auto%3Dformat%26fit%3Dcrop%26ixlib%3Drb-4.1.0%26ixid%3DM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D&w=1920&q=75",
+        "w": 1440,
+        "h": 2160
+      },
+      {
+        "alt": "Jazmin Wong",
+        "src": "https://www.itsjay.us/_next/image?url=%2Fimages%2Fwork%2Fjazmin-wong%2Fjazmin-wong-icon.png&w=32&q=75&dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt",
+        "w": 32,
+        "h": 32
+      },
+      {
+        "alt": "",
+        "src": "https://image.mux.com/DMgpiL5WXaZYOwTdLTROa001Dyy02CKUPFZxlumAauOJU/thumbnail.webp?time=0&width=1600",
+        "w": 1440,
+        "h": 810
+      },
+      {
+        "alt": "Trackstack",
+        "src": "https://www.itsjay.us/_next/image?url=%2Fimages%2Fwork%2Ftrackstack%2Fcover.jpg&w=1920&q=75&dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt",
+        "w": 1440,
+        "h": 1920
+      },
+      {
+        "alt": "Trackstack",
+        "src": "https://www.itsjay.us/_next/image?url=%2Fimages%2Fwork%2Ftrackstack%2Ftrackstack-icon.png&w=32&q=75&dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt",
+        "w": 32,
+        "h": 32
+      },
+      {
+        "alt": "Brand Strategy",
+        "src": "https://www.itsjay.us/_next/image?url=%2Fimages%2Fservices%2Fbrand-strategy.png&w=1920&q=75&dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt",
+        "w": 1152,
+        "h": 768
+      },
+      {
+        "alt": "Digital Design",
+        "src": "https://www.itsjay.us/_next/image?url=%2Fimages%2Fservices%2Fdigital-design.png&w=1920&q=75&dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt",
+        "w": 1440,
+        "h": 909
+      },
+      {
+        "alt": "Development",
+        "src": "https://www.itsjay.us/_next/image?url=%2Fimages%2Fservices%2Fdevelopment.png&w=1920&q=75&dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt",
+        "w": 1440,
+        "h": 936
+      },
+      {
+        "alt": "React",
+        "src": "https://www.itsjay.us/images/svg/react-logo.svg?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt",
+        "w": 800,
+        "h": 800
+      },
+      {
+        "alt": "Next.js",
+        "src": "https://www.itsjay.us/images/svg/nextjs-logotype-light-background.svg?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt",
+        "w": 394,
+        "h": 80
+      },
+      {
+        "alt": "TypeScript",
+        "src": "https://www.itsjay.us/images/svg/typescript-logo.svg?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt",
+        "w": 800,
+        "h": 800
+      },
+      {
+        "alt": "GSAP",
+        "src": "https://www.itsjay.us/images/svg/gsap-black.svg?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt",
+        "w": 623,
+        "h": 231
+      },
+      {
+        "alt": "Motion",
+        "src": "https://www.itsjay.us/images/svg/motion.svg?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt",
+        "w": 300,
+        "h": 113
+      },
+      {
+        "alt": "TailwindCSS",
+        "src": "https://www.itsjay.us/images/svg/tailwindcss-logo.svg?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt",
+        "w": 800,
+        "h": 800
+      },
+      {
+        "alt": "Contentful",
+        "src": "https://www.itsjay.us/images/svg/contentful-logo.svg?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt",
+        "w": 800,
+        "h": 800
+      },
+      {
+        "alt": "Supabase",
+        "src": "https://www.itsjay.us/images/svg/supabase-logo.svg?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt",
+        "w": 24,
+        "h": 24
+      },
+      {
+        "alt": "Vercel",
+        "src": "https://www.itsjay.us/images/svg/vercel-logotype-light.svg?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt",
+        "w": 2048,
+        "h": 407
+      },
+      {
+        "alt": "Figma",
+        "src": "https://www.itsjay.us/images/svg/figma-logo.svg?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt",
+        "w": 800,
+        "h": 800
+      },
+      {
+        "alt": "React",
+        "src": "https://www.itsjay.us/images/svg/react-logo.svg?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt",
+        "w": 800,
+        "h": 800
+      },
+      {
+        "alt": "Next.js",
+        "src": "https://www.itsjay.us/images/svg/nextjs-logotype-light-background.svg?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt",
+        "w": 394,
+        "h": 80
+      },
+      {
+        "alt": "TypeScript",
+        "src": "https://www.itsjay.us/images/svg/typescript-logo.svg?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt",
+        "w": 800,
+        "h": 800
+      },
+      {
+        "alt": "GSAP",
+        "src": "https://www.itsjay.us/images/svg/gsap-black.svg?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt",
+        "w": 623,
+        "h": 231
+      },
+      {
+        "alt": "Motion",
+        "src": "https://www.itsjay.us/images/svg/motion.svg?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt",
+        "w": 300,
+        "h": 113
+      },
+      {
+        "alt": "TailwindCSS",
+        "src": "https://www.itsjay.us/images/svg/tailwindcss-logo.svg?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt",
+        "w": 800,
+        "h": 800
+      },
+      {
+        "alt": "Contentful",
+        "src": "https://www.itsjay.us/images/svg/contentful-logo.svg?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt",
+        "w": 800,
+        "h": 800
+      },
+      {
+        "alt": "Supabase",
+        "src": "https://www.itsjay.us/images/svg/supabase-logo.svg?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt",
+        "w": 24,
+        "h": 24
+      },
+      {
+        "alt": "Vercel",
+        "src": "https://www.itsjay.us/images/svg/vercel-logotype-light.svg?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt",
+        "w": 2048,
+        "h": 407
+      },
+      {
+        "alt": "Figma",
+        "src": "https://www.itsjay.us/images/svg/figma-logo.svg?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt",
+        "w": 800,
+        "h": 800
+      }
+    ],
+    "videos": [
+      "https://www.itsjay.us/videos/emoji.mov"
+    ],
+    "canvases": 0,
+    "fonts": [
+      "Respira-Black normal normal unloaded",
+      "saans 400 normal loaded",
+      "saans 500 normal loaded",
+      "saans 600 normal loaded",
+      "saans 700 normal loaded",
+      "saans Fallback normal normal loaded",
+      "saansMono 400 normal unloaded",
+      "saansMono Fallback normal normal unloaded",
+      "lcddot 400 normal error",
+      "lcddot Fallback normal normal loaded"
+    ],
+    "rootVars": {},
+    "mediaQueries": [],
+    "textStyles": [
+      {
+        "tag": "P",
+        "text": "100",
+        "font": "saans, \"saans Fallback\"",
+        "size": "14px",
+        "weight": "600",
+        "lh": "20px",
+        "ls": "-0.35px",
+        "color": "lab(7.78201 -0.0000149012 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "none"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Hightouch",
+        "font": "saans, \"saans Fallback\"",
+        "size": "17.28px",
+        "weight": "500",
+        "lh": "25.92px",
+        "ls": "normal",
+        "color": "lab(66.128 -0.0000298023 0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "none"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Hightouch",
+        "font": "saans, \"saans Fallback\"",
+        "size": "17.28px",
+        "weight": "500",
+        "lh": "25.92px",
+        "ls": "normal",
+        "color": "lab(66.128 -0.0000298023 0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "none"
+      },
+      {
+        "tag": "SPAN",
+        "text": "🤙🏼",
+        "font": "saans, \"saans Fallback\"",
+        "size": "20px",
+        "weight": "400",
+        "lh": "28px",
+        "ls": "normal",
+        "color": "lab(7.78201 -0.0000149012 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "none"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Get in touch",
+        "font": "saans, \"saans Fallback\"",
+        "size": "17.28px",
+        "weight": "600",
+        "lh": "25.92px",
+        "ls": "normal",
+        "color": "lab(96.52 -0.0000298023 0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "none"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Get in touch",
+        "font": "saans, \"saans Fallback\"",
+        "size": "17.28px",
+        "weight": "600",
+        "lh": "25.92px",
+        "ls": "normal",
+        "color": "lab(96.52 -0.0000298023 0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "none"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Home",
+        "font": "saans, \"saans Fallback\"",
+        "size": "20px",
+        "weight": "600",
+        "lh": "28px",
+        "ls": "normal",
+        "color": "lab(96.52 -0.0000298023 0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "none"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Home",
+        "font": "saans, \"saans Fallback\"",
+        "size": "20px",
+        "weight": "600",
+        "lh": "28px",
+        "ls": "normal",
+        "color": "lab(96.52 -0.0000298023 0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "none"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Work",
+        "font": "saans, \"saans Fallback\"",
+        "size": "20px",
+        "weight": "600",
+        "lh": "28px",
+        "ls": "normal",
+        "color": "lab(96.52 -0.0000298023 0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "none"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Work",
+        "font": "saans, \"saans Fallback\"",
+        "size": "20px",
+        "weight": "600",
+        "lh": "28px",
+        "ls": "normal",
+        "color": "lab(96.52 -0.0000298023 0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "none"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Lab",
+        "font": "saans, \"saans Fallback\"",
+        "size": "20px",
+        "weight": "600",
+        "lh": "28px",
+        "ls": "normal",
+        "color": "lab(96.52 -0.0000298023 0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "none"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Lab",
+        "font": "saans, \"saans Fallback\"",
+        "size": "20px",
+        "weight": "600",
+        "lh": "28px",
+        "ls": "normal",
+        "color": "lab(96.52 -0.0000298023 0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "none"
+      },
+      {
+        "tag": "A",
+        "text": "JASON ZUBIATE",
+        "font": "saans, \"saans Fallback\"",
+        "size": "18px",
+        "weight": "600",
+        "lh": "28px",
+        "ls": "normal",
+        "color": "lab(96.52 -0.0000298023 0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "P",
+        "text": "CREATIVE DESIGN ENGINEER, AWWWARDS STALKER, PRODUCT BUILDER,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "P",
+        "text": "CREATIVE DESIGN ENGINEER, AWWWARDS STALKER, PRODUCT BUILDER,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "P",
+        "text": "SERIOUSLY",
+        "font": "saans, \"saans Fallback\"",
+        "size": "17.28px",
+        "weight": "600",
+        "lh": "25.92px",
+        "ls": "normal",
+        "color": "lab(7.78201 -0.0000149012 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "P",
+        "text": "GOOD",
+        "font": "saans, \"saans Fallback\"",
+        "size": "17.28px",
+        "weight": "600",
+        "lh": "25.92px",
+        "ls": "normal",
+        "color": "lab(7.78201 -0.0000149012 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "P",
+        "text": "Scroll for",
+        "font": "saans, \"saans Fallback\"",
+        "size": "17.28px",
+        "weight": "500",
+        "lh": "25.92px",
+        "ls": "normal",
+        "color": "lab(7.78201 -0.0000149012 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "none"
+      },
+      {
+        "tag": "P",
+        "text": "cool sh*t",
+        "font": "saans, \"saans Fallback\"",
+        "size": "17.28px",
+        "weight": "500",
+        "lh": "25.92px",
+        "ls": "normal",
+        "color": "lab(7.78201 -0.0000149012 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "none"
+      },
+      {
+        "tag": "SPAN",
+        "text": "Passionate",
+        "font": "saans, \"saans Fallback\"",
+        "size": "50.4px",
+        "weight": "600",
+        "lh": "50.4px",
+        "ls": "-1.26px",
+        "color": "lab(7.78201 -0.0000149012 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "none"
+      },
+      {
+        "tag": "SPAN",
+        "text": "about",
+        "font": "saans, \"saans Fallback\"",
+        "size": "50.4px",
+        "weight": "600",
+        "lh": "50.4px",
+        "ls": "-1.26px",
+        "color": "lab(7.78201 -0.0000149012 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "none"
+      },
+      {
+        "tag": "SPAN",
+        "text": "merging",
+        "font": "saans, \"saans Fallback\"",
+        "size": "50.4px",
+        "weight": "600",
+        "lh": "50.4px",
+        "ls": "-1.26px",
+        "color": "lab(7.78201 -0.0000149012 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "none"
+      },
+      {
+        "tag": "SPAN",
+        "text": "design",
+        "font": "saans, \"saans Fallback\"",
+        "size": "50.4px",
+        "weight": "600",
+        "lh": "50.4px",
+        "ls": "-1.26px",
+        "color": "lab(7.78201 -0.0000149012 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "none"
+      },
+      {
+        "tag": "SPAN",
+        "text": "and",
+        "font": "saans, \"saans Fallback\"",
+        "size": "50.4px",
+        "weight": "600",
+        "lh": "50.4px",
+        "ls": "-1.26px",
+        "color": "lab(7.78201 -0.0000149012 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "none"
+      },
+      {
+        "tag": "SPAN",
+        "text": "engineering,",
+        "font": "saans, \"saans Fallback\"",
+        "size": "50.4px",
+        "weight": "600",
+        "lh": "50.4px",
+        "ls": "-1.26px",
+        "color": "lab(7.78201 -0.0000149012 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "none"
+      },
+      {
+        "tag": "SPAN",
+        "text": "craft",
+        "font": "saans, \"saans Fallback\"",
+        "size": "50.4px",
+        "weight": "600",
+        "lh": "50.4px",
+        "ls": "-1.26px",
+        "color": "lab(7.78201 -0.0000149012 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "none"
+      },
+      {
+        "tag": "SPAN",
+        "text": "smooth,",
+        "font": "saans, \"saans Fallback\"",
+        "size": "50.4px",
+        "weight": "600",
+        "lh": "50.4px",
+        "ls": "-1.26px",
+        "color": "lab(7.78201 -0.0000149012 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "none"
+      },
+      {
+        "tag": "SPAN",
+        "text": "interactive",
+        "font": "saans, \"saans Fallback\"",
+        "size": "50.4px",
+        "weight": "600",
+        "lh": "50.4px",
+        "ls": "-1.26px",
+        "color": "lab(7.78201 -0.0000149012 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "none"
+      },
+      {
+        "tag": "SPAN",
+        "text": "experiences",
+        "font": "saans, \"saans Fallback\"",
+        "size": "50.4px",
+        "weight": "600",
+        "lh": "50.4px",
+        "ls": "-1.26px",
+        "color": "lab(7.78201 -0.0000149012 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "none"
+      },
+      {
+        "tag": "SPAN",
+        "text": "with",
+        "font": "saans, \"saans Fallback\"",
+        "size": "50.4px",
+        "weight": "600",
+        "lh": "50.4px",
+        "ls": "-1.26px",
+        "color": "lab(7.78201 -0.0000149012 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "none"
+      },
+      {
+        "tag": "SPAN",
+        "text": "purpose.",
+        "font": "saans, \"saans Fallback\"",
+        "size": "50.4px",
+        "weight": "600",
+        "lh": "50.4px",
+        "ls": "-1.26px",
+        "color": "lab(7.78201 -0.0000149012 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "none"
+      },
+      {
+        "tag": "SPAN",
+        "text": "With",
+        "font": "saans, \"saans Fallback\"",
+        "size": "50.4px",
+        "weight": "600",
+        "lh": "50.4px",
+        "ls": "-1.26px",
+        "color": "lab(7.78201 -0.0000149012 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "none"
+      },
+      {
+        "tag": "SPAN",
+        "text": "focus",
+        "font": "saans, \"saans Fallback\"",
+        "size": "50.4px",
+        "weight": "600",
+        "lh": "50.4px",
+        "ls": "-1.26px",
+        "color": "lab(7.78201 -0.0000149012 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "none"
+      },
+      {
+        "tag": "SPAN",
+        "text": "on",
+        "font": "saans, \"saans Fallback\"",
+        "size": "50.4px",
+        "weight": "600",
+        "lh": "50.4px",
+        "ls": "-1.26px",
+        "color": "lab(7.78201 -0.0000149012 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "none"
+      },
+      {
+        "tag": "SPAN",
+        "text": "motion,",
+        "font": "saans, \"saans Fallback\"",
+        "size": "50.4px",
+        "weight": "600",
+        "lh": "50.4px",
+        "ls": "-1.26px",
+        "color": "lab(7.78201 -0.0000149012 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "none"
+      },
+      {
+        "tag": "SPAN",
+        "text": "performance,",
+        "font": "saans, \"saans Fallback\"",
+        "size": "50.4px",
+        "weight": "600",
+        "lh": "50.4px",
+        "ls": "-1.26px",
+        "color": "lab(7.78201 -0.0000149012 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "none"
+      },
+      {
+        "tag": "SPAN",
+        "text": "and",
+        "font": "saans, \"saans Fallback\"",
+        "size": "50.4px",
+        "weight": "600",
+        "lh": "50.4px",
+        "ls": "-1.26px",
+        "color": "lab(7.78201 -0.0000149012 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "none"
+      },
+      {
+        "tag": "SPAN",
+        "text": "detail,",
+        "font": "saans, \"saans Fallback\"",
+        "size": "50.4px",
+        "weight": "600",
+        "lh": "50.4px",
+        "ls": "-1.26px",
+        "color": "lab(7.78201 -0.0000149012 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "none"
+      },
+      {
+        "tag": "SPAN",
+        "text": "help",
+        "font": "saans, \"saans Fallback\"",
+        "size": "50.4px",
+        "weight": "600",
+        "lh": "50.4px",
+        "ls": "-1.26px",
+        "color": "lab(7.78201 -0.0000149012 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "none"
+      },
+      {
+        "tag": "SPAN",
+        "text": "bring",
+        "font": "saans, \"saans Fallback\"",
+        "size": "50.4px",
+        "weight": "600",
+        "lh": "50.4px",
+        "ls": "-1.26px",
+        "color": "lab(7.78201 -0.0000149012 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "none"
+      },
+      {
+        "tag": "SPAN",
+        "text": "digital",
+        "font": "saans, \"saans Fallback\"",
+        "size": "50.4px",
+        "weight": "600",
+        "lh": "50.4px",
+        "ls": "-1.26px",
+        "color": "lab(7.78201 -0.0000149012 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "none"
+      },
+      {
+        "tag": "SPAN",
+        "text": "products",
+        "font": "saans, \"saans Fallback\"",
+        "size": "50.4px",
+        "weight": "600",
+        "lh": "50.4px",
+        "ls": "-1.26px",
+        "color": "lab(7.78201 -0.0000149012 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "none"
+      },
+      {
+        "tag": "SPAN",
+        "text": "to",
+        "font": "saans, \"saans Fallback\"",
+        "size": "50.4px",
+        "weight": "600",
+        "lh": "50.4px",
+        "ls": "-1.26px",
+        "color": "lab(7.78201 -0.0000149012 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "none"
+      },
+      {
+        "tag": "SPAN",
+        "text": "life",
+        "font": "saans, \"saans Fallback\"",
+        "size": "50.4px",
+        "weight": "600",
+        "lh": "50.4px",
+        "ls": "-1.26px",
+        "color": "lab(7.78201 -0.0000149012 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "none"
+      },
+      {
+        "tag": "SPAN",
+        "text": "for",
+        "font": "saans, \"saans Fallback\"",
+        "size": "50.4px",
+        "weight": "600",
+        "lh": "50.4px",
+        "ls": "-1.26px",
+        "color": "lab(7.78201 -0.0000149012 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "none"
+      },
+      {
+        "tag": "SPAN",
+        "text": "forward-thinking",
+        "font": "saans, \"saans Fallback\"",
+        "size": "50.4px",
+        "weight": "600",
+        "lh": "50.4px",
+        "ls": "-1.26px",
+        "color": "lab(7.78201 -0.0000149012 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "none"
+      },
+      {
+        "tag": "SPAN",
+        "text": "brands",
+        "font": "saans, \"saans Fallback\"",
+        "size": "50.4px",
+        "weight": "600",
+        "lh": "50.4px",
+        "ls": "-1.26px",
+        "color": "lab(7.78201 -0.0000149012 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "none"
+      },
+      {
+        "tag": "SPAN",
+        "text": "around",
+        "font": "saans, \"saans Fallback\"",
+        "size": "50.4px",
+        "weight": "600",
+        "lh": "50.4px",
+        "ls": "-1.26px",
+        "color": "lab(7.78201 -0.0000149012 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "none"
+      },
+      {
+        "tag": "SPAN",
+        "text": "the",
+        "font": "saans, \"saans Fallback\"",
+        "size": "50.4px",
+        "weight": "600",
+        "lh": "50.4px",
+        "ls": "-1.26px",
+        "color": "lab(7.78201 -0.0000149012 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "none"
+      },
+      {
+        "tag": "SPAN",
+        "text": "world.",
+        "font": "saans, \"saans Fallback\"",
+        "size": "50.4px",
+        "weight": "600",
+        "lh": "50.4px",
+        "ls": "-1.26px",
+        "color": "lab(7.78201 -0.0000149012 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "none"
+      },
+      {
+        "tag": "P",
+        "text": "JAZMIN WONG",
+        "font": "saans, \"saans Fallback\"",
+        "size": "17.28px",
+        "weight": "600",
+        "lh": "25.92px",
+        "ls": "0.432px",
+        "color": "lab(96.52 -0.0000298023 0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "P",
+        "text": "PORTFOLIO",
+        "font": "saans, \"saans Fallback\"",
+        "size": "17.28px",
+        "weight": "600",
+        "lh": "25.92px",
+        "ls": "0.432px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "P",
+        "text": "2025",
+        "font": "saans, \"saans Fallback\"",
+        "size": "17.28px",
+        "weight": "600",
+        "lh": "25.92px",
+        "ls": "0.432px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "ART DIRECTION,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "VOICE & TONE,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "UI,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "UX,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "NEXT.JS,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "TAILWIND CSS,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "GSAP,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "MOTION,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "MATTER.JS,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "LENIS,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "VERCEL,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "ART DIRECTION,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "VOICE & TONE,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "UI,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "UX,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "NEXT.JS,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "TAILWIND CSS,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "GSAP,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "MOTION,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "MATTER.JS,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "LENIS,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "VERCEL,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "P",
+        "text": "TRACKSTACK",
+        "font": "saans, \"saans Fallback\"",
+        "size": "17.28px",
+        "weight": "600",
+        "lh": "25.92px",
+        "ls": "0.432px",
+        "color": "lab(96.52 -0.0000298023 0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "P",
+        "text": "PRODUCT",
+        "font": "saans, \"saans Fallback\"",
+        "size": "17.28px",
+        "weight": "600",
+        "lh": "25.92px",
+        "ls": "0.432px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "P",
+        "text": "2025",
+        "font": "saans, \"saans Fallback\"",
+        "size": "17.28px",
+        "weight": "600",
+        "lh": "25.92px",
+        "ls": "0.432px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "ART DIRECTION,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "NAMING & COPYWRITING,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "VOICE & TONE,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "BRAND DESIGN,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "STRATEGY,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "UX,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "UI,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "WEB DESIGN,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "PRODUCT DESIGN,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "MEDIA PRODUCTION,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "ART DIRECTION,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "NAMING & COPYWRITING,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "VOICE & TONE,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "BRAND DESIGN,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "STRATEGY,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "UX,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "UI,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "WEB DESIGN,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "PRODUCT DESIGN,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "MEDIA PRODUCTION,",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "12px",
+        "weight": "400",
+        "lh": "16px",
+        "ls": "1.2px",
+        "color": "lab(84.92 0 -0.0000119209)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "SPAN",
+        "text": "See all",
+        "font": "saans, \"saans Fallback\"",
+        "size": "21.6px",
+        "weight": "500",
+        "lh": "32.4px",
+        "ls": "normal",
+        "color": "lab(7.78201 -0.0000149012 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "none"
+      },
+      {
+        "tag": "LI",
+        "text": "RESEARCH & INSIGHTS",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "10px",
+        "weight": "400",
+        "lh": "15px",
+        "ls": "1.1px",
+        "color": "lab(96.52 -0.0000298023 0.0000119209)",
+        "bg": "oklab(0.969998 -0.00000959635 0.0000227094 / 0.1)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "LI",
+        "text": "BRAND STRATEGY",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "10px",
+        "weight": "400",
+        "lh": "15px",
+        "ls": "1.1px",
+        "color": "lab(96.52 -0.0000298023 0.0000119209)",
+        "bg": "oklab(0.969998 -0.00000959635 0.0000227094 / 0.1)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "LI",
+        "text": "COMPETITIVE STUDY",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "10px",
+        "weight": "400",
+        "lh": "15px",
+        "ls": "1.1px",
+        "color": "lab(96.52 -0.0000298023 0.0000119209)",
+        "bg": "oklab(0.969998 -0.00000959635 0.0000227094 / 0.1)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "LI",
+        "text": "VOICE & TONE",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "10px",
+        "weight": "400",
+        "lh": "15px",
+        "ls": "1.1px",
+        "color": "lab(96.52 -0.0000298023 0.0000119209)",
+        "bg": "oklab(0.969998 -0.00000959635 0.0000227094 / 0.1)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "LI",
+        "text": "NAMING & COPYWRITING",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "10px",
+        "weight": "400",
+        "lh": "15px",
+        "ls": "1.1px",
+        "color": "lab(96.52 -0.0000298023 0.0000119209)",
+        "bg": "oklab(0.969998 -0.00000959635 0.0000227094 / 0.1)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "LI",
+        "text": "WORKSHOPS",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "10px",
+        "weight": "400",
+        "lh": "15px",
+        "ls": "1.1px",
+        "color": "lab(96.52 -0.0000298023 0.0000119209)",
+        "bg": "oklab(0.969998 -0.00000959635 0.0000227094 / 0.1)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "LI",
+        "text": "IDENTITY DESIGN",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "10px",
+        "weight": "400",
+        "lh": "15px",
+        "ls": "1.1px",
+        "color": "lab(96.52 -0.0000298023 0.0000119209)",
+        "bg": "oklab(0.969998 -0.00000959635 0.0000227094 / 0.1)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "LI",
+        "text": "WIREFRAMING",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "10px",
+        "weight": "400",
+        "lh": "15px",
+        "ls": "1.1px",
+        "color": "lab(96.52 -0.0000298023 0.0000119209)",
+        "bg": "oklab(0.969998 -0.00000959635 0.0000227094 / 0.1)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "LI",
+        "text": "UI",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "10px",
+        "weight": "400",
+        "lh": "15px",
+        "ls": "1.1px",
+        "color": "lab(96.52 -0.0000298023 0.0000119209)",
+        "bg": "oklab(0.969998 -0.00000959635 0.0000227094 / 0.1)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "LI",
+        "text": "UX",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "10px",
+        "weight": "400",
+        "lh": "15px",
+        "ls": "1.1px",
+        "color": "lab(96.52 -0.0000298023 0.0000119209)",
+        "bg": "oklab(0.969998 -0.00000959635 0.0000227094 / 0.1)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "LI",
+        "text": "WEB DESIGN",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "10px",
+        "weight": "400",
+        "lh": "15px",
+        "ls": "1.1px",
+        "color": "lab(96.52 -0.0000298023 0.0000119209)",
+        "bg": "oklab(0.969998 -0.00000959635 0.0000227094 / 0.1)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "LI",
+        "text": "PRODUCT DESIGN",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "10px",
+        "weight": "400",
+        "lh": "15px",
+        "ls": "1.1px",
+        "color": "lab(96.52 -0.0000298023 0.0000119209)",
+        "bg": "oklab(0.969998 -0.00000959635 0.0000227094 / 0.1)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "LI",
+        "text": "FRONTEND DEVELOPMENT",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "10px",
+        "weight": "400",
+        "lh": "15px",
+        "ls": "1.1px",
+        "color": "lab(96.52 -0.0000298023 0.0000119209)",
+        "bg": "oklab(0.969998 -0.00000959635 0.0000227094 / 0.1)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "LI",
+        "text": "SEO",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "10px",
+        "weight": "400",
+        "lh": "15px",
+        "ls": "1.1px",
+        "color": "lab(96.52 -0.0000298023 0.0000119209)",
+        "bg": "oklab(0.969998 -0.00000959635 0.0000227094 / 0.1)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "LI",
+        "text": "MOTION",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "10px",
+        "weight": "400",
+        "lh": "15px",
+        "ls": "1.1px",
+        "color": "lab(96.52 -0.0000298023 0.0000119209)",
+        "bg": "oklab(0.969998 -0.00000959635 0.0000227094 / 0.1)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "LI",
+        "text": "ANIMATION",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "10px",
+        "weight": "400",
+        "lh": "15px",
+        "ls": "1.1px",
+        "color": "lab(96.52 -0.0000298023 0.0000119209)",
+        "bg": "oklab(0.969998 -0.00000959635 0.0000227094 / 0.1)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "LI",
+        "text": "WEBGL",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "10px",
+        "weight": "400",
+        "lh": "15px",
+        "ls": "1.1px",
+        "color": "lab(96.52 -0.0000298023 0.0000119209)",
+        "bg": "oklab(0.969998 -0.00000959635 0.0000227094 / 0.1)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "LI",
+        "text": "CMS DEVELOPMENT",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "10px",
+        "weight": "400",
+        "lh": "15px",
+        "ls": "1.1px",
+        "color": "lab(96.52 -0.0000298023 0.0000119209)",
+        "bg": "oklab(0.969998 -0.00000959635 0.0000227094 / 0.1)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "LI",
+        "text": "DATABASES",
+        "font": "lcddot, \"lcddot Fallback\"",
+        "size": "10px",
+        "weight": "400",
+        "lh": "15px",
+        "ls": "1.1px",
+        "color": "lab(96.52 -0.0000298023 0.0000119209)",
+        "bg": "oklab(0.969998 -0.00000959635 0.0000227094 / 0.1)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "H4",
+        "text": "PROFESSIONAL AT",
+        "font": "saans, \"saans Fallback\"",
+        "size": "16px",
+        "weight": "600",
+        "lh": "24px",
+        "ls": "normal",
+        "color": "lab(7.78201 -0.0000149012 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "uppercase"
+      },
+      {
+        "tag": "H2",
+        "text": "itsjay.us",
+        "font": "saans, \"saans Fallback\"",
+        "size": "201.6px",
+        "weight": "700",
+        "lh": "302.4px",
+        "ls": "-5.04px",
+        "color": "lab(7.78201 -0.0000149012 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "tt": "none"
+      },
+      {
+        "tag": "A",
+        "text": "Work",
+        "font": "saans, \"saans Fallback\"",
+        "size": "20.16px",
+        "weight": "500",
+        "lh": "25.2px",
+        "ls": "normal",
+        "color": "lab(7.78201 -0.0000149012 0)",
+        "bg": "oklab(0.869998 -0.00000879169 0.0000203252 / 0.5)",
+        "tt": "none"
+      },
+      {
+        "tag": "A",
+        "text": "Lab",
+        "font": "saans, \"saans Fallback\"",
+        "size": "20.16px",
+        "weight": "500",
+        "lh": "25.2px",
+        "ls": "normal",
+        "color": "lab(7.78201 -0.0000149012 0)",
+        "bg": "oklab(0.869998 -0.00000879169 0.0000203252 / 0.5)",
+        "tt": "none"
+      },
+      {
+        "tag": "A",
+        "text": "Contact",
+        "font": "saans, \"saans Fallback\"",
+        "size": "20.16px",
+        "weight": "500",
+        "lh": "25.2px",
+        "ls": "normal",
+        "color": "lab(7.78201 -0.0000149012 0)",
+        "bg": "oklab(0.869998 -0.00000879169 0.0000203252 / 0.5)",
+        "tt": "none"
+      },
+      {
+        "tag": "A",
+        "text": "Github",
+        "font": "saans, \"saans Fallback\"",
+        "size": "20.16px",
+        "weight": "500",
+        "lh": "25.2px",
+        "ls": "normal",
+        "color": "lab(7.78201 -0.0000149012 0)",
+        "bg": "oklab(0.869998 -0.00000879169 0.0000203252 / 0.5)",
+        "tt": "none"
+      },
+      {
+        "tag": "A",
+        "text": "Instagram",
+        "font": "saans, \"saans Fallback\"",
+        "size": "20.16px",
+        "weight": "500",
+        "lh": "25.2px",
+        "ls": "normal",
+        "color": "lab(7.78201 -0.0000149012 0)",
+        "bg": "oklab(0.869998 -0.00000879169 0.0000203252 / 0.5)",
+        "tt": "none"
+      },
+      {
+        "tag": "A",
+        "text": "LinkedIn",
+        "font": "saans, \"saans Fallback\"",
+        "size": "20.16px",
+        "weight": "500",
+        "lh": "25.2px",
+        "ls": "normal",
+        "color": "lab(7.78201 -0.0000149012 0)",
+        "bg": "oklab(0.869998 -0.00000879169 0.0000203252 / 0.5)",
+        "tt": "none"
+      }
+    ],
+    "globals": [
+      "ondevicemotion",
+      "gsapVersions",
+      "MotionIsMounted",
+      "_gsap",
+      "lenisVersion"
+    ],
+    "docHeight": 7700,
+    "landmarks": [
+      "HEADER#.",
+      "NAV#.flex flex-col gap-4 mb-4",
+      "MAIN#.bg-neutral-100",
+      "SECTION#.relative px-4 lg:px-8 overflow-x-hidden lg:h-[100svh]",
+      "SECTION#.hidden lg:block",
+      "SECTION#.hidden md:block intro h-[100svh] px-8",
+      "SECTION#about.grid grid-cols-12 gap-4 lg:gap-8 pt-32 lg:pt-56 pb-28 p-4 lg:px-8",
+      "SECTION#.flex flex-col items-center py-28 px-4 lg:px-8",
+      "SECTION#.px-2 lg:px-4 py-16 lg:py-24",
+      "SECTION#.pb-24 px-4 lg:px-8",
+      "FOOTER#.bg-neutral-100"
+    ]
+  },
+  "requests": [
+    {
+      "type": "document",
+      "url": "https://www.itsjay.us/"
+    },
+    {
+      "type": "font",
+      "url": "https://www.itsjay.us/_next/static/media/SaansMono_Regular-s.p.0d5vn2ig4yx5h.woff2?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "font",
+      "url": "https://www.itsjay.us/_next/static/media/Saans_Bold-s.p.1if5g60stf9pb.woff2?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "font",
+      "url": "https://www.itsjay.us/_next/static/media/Saans_Medium-s.p.102--qx69lvqf.woff2?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "font",
+      "url": "https://www.itsjay.us/_next/static/media/Saans_Regular-s.p.015ew5mvl0ria.woff2?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "font",
+      "url": "https://www.itsjay.us/_next/static/media/Saans_SemiBold-s.p.0cfh-m7jcy90y.woff2?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "font",
+      "url": "https://www.itsjay.us/_next/static/media/lcddot-s.p.27ilijiqe3zq9.ttf?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "image",
+      "url": "https://image.mux.com/XNK3bwweeTDrJJdvrcF7omzvSqYfrm01zkC601tzX7fCU/thumbnail.webp?time=0&width=1600"
+    },
+    {
+      "type": "image",
+      "url": "https://www.itsjay.us/images/other/design.png"
+    },
+    {
+      "type": "image",
+      "url": "https://www.itsjay.us/images/other/engineer.png"
+    },
+    {
+      "type": "image",
+      "url": "https://image.mux.com/DczZAfc01Y6IYk00qbKIbac3JhgwCiZ9OpdTdWtNBzV2M/thumbnail.webp?time=0&width=1600"
+    },
+    {
+      "type": "image",
+      "url": "https://image.mux.com/u5302DwDC6HYhp9TgB01kwhO2uoNT019vqGtARU4WO81VA/thumbnail.webp?time=0&width=1600"
+    },
+    {
+      "type": "image",
+      "url": "https://image.mux.com/DMgpiL5WXaZYOwTdLTROa001Dyy02CKUPFZxlumAauOJU/thumbnail.webp?time=0&width=1600"
+    },
+    {
+      "type": "stylesheet",
+      "url": "https://www.itsjay.us/_next/static/chunks/26ithsq8k0u2q.css?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "stylesheet",
+      "url": "https://www.itsjay.us/_next/static/chunks/0wydf9ctijzs2.css?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "script",
+      "url": "https://www.itsjay.us/_next/static/chunks/3w7pvw2d-ekfu.js?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "script",
+      "url": "https://www.itsjay.us/_next/static/chunks/0imi12qg8a4od.js?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "script",
+      "url": "https://www.itsjay.us/_next/static/chunks/2evlr16jb7dsq.js?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "script",
+      "url": "https://www.itsjay.us/_next/static/chunks/3alsycw784cp3.js?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "script",
+      "url": "https://www.itsjay.us/_next/static/chunks/turbopack-2wggjsit5q7j6.js?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "script",
+      "url": "https://www.itsjay.us/_next/static/chunks/0l35nod4h2wgd.js?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "script",
+      "url": "https://www.itsjay.us/_next/static/chunks/1o1jux42q6l8a.js?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "script",
+      "url": "https://www.itsjay.us/_next/static/chunks/3c4o7wu0hfxy-.js?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "script",
+      "url": "https://www.itsjay.us/_next/static/chunks/10ab2cvt-tavy.js?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "script",
+      "url": "https://www.itsjay.us/_next/static/chunks/0ab_ng33xm9oo.js?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "script",
+      "url": "https://www.itsjay.us/_next/static/chunks/22ujqpgim-9w_.js?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "script",
+      "url": "https://www.itsjay.us/_next/static/chunks/1gahwpw57a5ne.js?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "script",
+      "url": "https://www.itsjay.us/_next/static/chunks/1ytyi4mje1l0y.js?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "script",
+      "url": "https://www.itsjay.us/_next/static/chunks/0m9bhz_mrjvar.js?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "media",
+      "url": "https://www.itsjay.us/videos/emoji.mov"
+    },
+    {
+      "type": "media",
+      "url": "https://www.itsjay.us/videos/emoji.mov"
+    },
+    {
+      "type": "image",
+      "url": "https://www.itsjay.us/_next/image?url=%2Fimages%2Fpages%2Fhome-icon.png&w=1920&q=75&dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "image",
+      "url": "https://www.itsjay.us/_next/image?url=%2Fimages%2Fpages%2Fwork-icon.png&w=1920&q=75&dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "image",
+      "url": "https://www.itsjay.us/_next/image?url=%2Fimages%2Fpages%2Flab-icon.png&w=1920&q=75&dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "image",
+      "url": "https://www.itsjay.us/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1744731036457-b74958fd6bf5%3Fq%3D80%26w%3D3087%26auto%3Dformat%26fit%3Dcrop%26ixlib%3Drb-4.1.0%26ixid%3DM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D&w=1920&q=75"
+    },
+    {
+      "type": "image",
+      "url": "https://www.itsjay.us/_next/image?url=%2Fimages%2Fwork%2Fjazmin-wong%2Fjazmin-wong-icon.png&w=32&q=75&dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "image",
+      "url": "https://www.itsjay.us/_next/image?url=%2Fimages%2Fwork%2Ftrackstack%2Fcover.jpg&w=1920&q=75&dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "image",
+      "url": "https://www.itsjay.us/_next/image?url=%2Fimages%2Fwork%2Ftrackstack%2Ftrackstack-icon.png&w=32&q=75&dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "script",
+      "url": "https://www.itsjay.us/_next/static/chunks/1k9w8xcpkd9nf.js?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "script",
+      "url": "https://www.itsjay.us/_next/static/chunks/2taw60_vl2yhd.js?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "script",
+      "url": "https://www.itsjay.us/_next/static/chunks/4053dhd1-qnu8.js?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "fetch",
+      "url": "https://www.itsjay.us/?_rsc=7h4NYy5eoyMcNlUN"
+    },
+    {
+      "type": "fetch",
+      "url": "https://www.itsjay.us/?_rsc=yIp22O3xgPPxC28X"
+    },
+    {
+      "type": "fetch",
+      "url": "https://www.itsjay.us/?_rsc=8nTjltbQWvg6NcbE"
+    },
+    {
+      "type": "script",
+      "url": "https://www.itsjay.us/_vercel/insights/script.js"
+    },
+    {
+      "type": "xhr",
+      "url": "https://stream.mux.com/XNK3bwweeTDrJJdvrcF7omzvSqYfrm01zkC601tzX7fCU.m3u8"
+    },
+    {
+      "type": "xhr",
+      "url": "https://stream.mux.com/XNK3bwweeTDrJJdvrcF7omzvSqYfrm01zkC601tzX7fCU.m3u8"
+    },
+    {
+      "type": "xhr",
+      "url": "https://stream.mux.com/DczZAfc01Y6IYk00qbKIbac3JhgwCiZ9OpdTdWtNBzV2M.m3u8"
+    },
+    {
+      "type": "xhr",
+      "url": "https://stream.mux.com/DczZAfc01Y6IYk00qbKIbac3JhgwCiZ9OpdTdWtNBzV2M.m3u8"
+    },
+    {
+      "type": "xhr",
+      "url": "https://stream.mux.com/u5302DwDC6HYhp9TgB01kwhO2uoNT019vqGtARU4WO81VA.m3u8"
+    },
+    {
+      "type": "xhr",
+      "url": "https://stream.mux.com/DMgpiL5WXaZYOwTdLTROa001Dyy02CKUPFZxlumAauOJU.m3u8"
+    },
+    {
+      "type": "fetch",
+      "url": "https://inferred.litix.io/"
+    },
+    {
+      "type": "fetch",
+      "url": "https://inferred.litix.io/"
+    },
+    {
+      "type": "fetch",
+      "url": "https://inferred.litix.io/"
+    },
+    {
+      "type": "fetch",
+      "url": "https://inferred.litix.io/"
+    },
+    {
+      "type": "fetch",
+      "url": "https://inferred.litix.io/"
+    },
+    {
+      "type": "fetch",
+      "url": "https://inferred.litix.io/"
+    },
+    {
+      "type": "media",
+      "url": "https://www.itsjay.us/videos/emoji.mov"
+    },
+    {
+      "type": "xhr",
+      "url": "https://manifest-oci-us-ashburn-1-vop1.fastly.mux.com/HtnFC00hMxRj62QFt1CJS9wE400bGjtWeKukhqyc5JAE9aPKEAxTN8eP5qWJ01V1QSRbjVasncjVrKTGFFo02vNmDm02600mpp4eU2/rendition.m3u8?cdn=fastly&expires=1792260000&skid=default&signature=NmFkM2JiYmJfMmUwNTc1NDViMzI0MzMyYmU4ZjA1YTBiYmMyYWM1MWRiZTM3ZWJhODI2NTA2MDQzMDgxMDAxMGY0MjAwNWU5Mw=="
+    },
+    {
+      "type": "xhr",
+      "url": "https://manifest-oci-us-ashburn-1-vop1.fastly.mux.com/j01gUgAUh00qnzbI001Byt4JGkMX9J00wDrpvTfh2mudat5mE7ukUzuVAL3LmVmqlmfdL5zEXmuRnHWmQgOBH6rGOE3QivP9cMwY/rendition.m3u8?cdn=fastly&expires=1792260000&skid=default&signature=NmFkM2JiYmJfOTMzYjI5ZjUxZjU3MmY2OGVhNDc5MTJlMTYyMTA4YjBlYTMyMDcxNzA3ODhkNjQzYTkxN2NmMmY2NmExOGVjYw=="
+    },
+    {
+      "type": "xhr",
+      "url": "https://manifest-oci-us-phoenix-1-vop1.fastly.mux.com/p01bXvBkFBLesA00h8AvOHBoS00bdyr02vfGmXuCCyT3iqVVu7DO7wlRvUaShERyQ5Jkql7Jbzrj6EXLuh9X3y7LQPqsmTH007ouC/rendition.m3u8?cdn=cloudflare&expires=1792260000&skid=default&signature=NmFkM2JiYmJfYzE2ZmQ1NDA0ZTk2NzU5NjAyMzM1NzdiYzhmZjZlOGZmY2RkZGZmNWYyNTRiYWI1ZDNhMjNkNTA5NWQ1NGQ5ZA=="
+    },
+    {
+      "type": "xhr",
+      "url": "https://manifest-oci-us-phoenix-1-vop1.fastly.mux.com/TK22EuhGGIP1VqzMAOGBk01wv2CGXSQ6qs5rrzIHpZPl7VxfxeSew83MFHceClIxnmCdKxQ24GHJr501Mjja49QsVxqfKCF6ci/rendition.m3u8?cdn=cloudflare&expires=1792260000&skid=default&signature=NmFkM2JiYmJfMzQwYmVjM2E1ZDg1MzU0NWM2OTYyMDhlMGEwMzYwYTViODJiN2NkOGM5NmNhNDdhYTk5YTVkNGE3NjI0ZjM0Ng=="
+    },
+    {
+      "type": "xhr",
+      "url": "https://manifest-oci-us-phoenix-1-vop1.fastly.mux.com/VVfPAnuMHIUvg9C8kqXx4FTM3hy02mpiNu6LC00TvUxYKl01KWT8qLnF8v5Nssswhj02HCK02gwqYSO1F8aEnJIY2grsUDgq019Y1kdm01D47aTexw/rendition.m3u8?cdn=fastly&expires=1792260000&skid=default&signature=NmFkM2JiYmJfOGQyOWMxZTUyMWUwMDRkOTJhNGIwZGE3Y2IxODM2NmY0ZTIyOTY5M2FiNTQ0MTI1ZWRmNTU1ZmU4NDc3ZmYwZg=="
+    },
+    {
+      "type": "xhr",
+      "url": "https://manifest-oci-us-phoenix-1-vop1.fastly.mux.com/pursBtt1sfjAw02kP3uCeSPYYZgnW6LlRSvK158B1HR67dlQjWIPBAOJcNbEayvdH1801xf01Qs00hhMPgnNghD6f464NUyEEubC/rendition.m3u8?cdn=fastly&expires=1792260000&skid=default&signature=NmFkM2JiYmJfZDBmYzEzNGY4ZjQzMjUxMjdiNDc2YjkwMWY3MzRmNmYxODY5N2VlYzg5ZmVkMjRhNjdmNzZkY2EwMmJiMzkzMw=="
+    },
+    {
+      "type": "xhr",
+      "url": "https://manifest-oci-us-phoenix-1-vop1.fastly.mux.com/45pLUYCDDIdElR01CaUAw5i88YiaOO6Yf2MiqzFV7zfanOVghF858WIV02J6lKmllgYWMjOw8VsNPdiUIC01tHSSgRNZudRqnxx/rendition.m3u8?cdn=fastly&expires=1792260000&skid=default&signature=NmFkM2JiYmJfZTAyNTVmZGU1NGM5ZjFmNGZkM2Y5OWYyNWVmM2NjNGM3YTJhYmNhYTdhZTQzMjVlNTA2Yzc4MjhiMGY0NGI0OQ=="
+    },
+    {
+      "type": "xhr",
+      "url": "https://manifest-oci-us-phoenix-1-vop1.fastly.mux.com/oi9K9nRQFROy1o6dYARzAyWH74Sv01ygEVqgIMKxLtRn5LFTR6imOzv9Spr8nmJ1o3S1Y5a0197O9E2TvfDHoaQnw1dIR7qaFz/rendition.m3u8?cdn=fastly&expires=1792260000&skid=default&signature=NmFkM2JiYmJfYjRlOWE2NDI5NGZlNTEyYWRmY2FiY2Q5ZmE2ZmExNGJiNGZiNmMyN2QwN2RjOTkyNWM5ZTUyMTJiMjBhYzA4Mg=="
+    },
+    {
+      "type": "xhr",
+      "url": "https://manifest-oci-us-ashburn-1-vop1.fastly.mux.com/uuoyzhqQF02OE700P371Oyr6OImEWW82FHsBQzKV3Qv7U5we7jRMZGAP44XFiC47KGb004oNGV00YWkUfeExmKJZpAxG0002XMfOmsyAi9Vs00D2600/rendition.m3u8?cdn=fastly&expires=1792260000&skid=default&signature=NmFkM2JiYmJfZTc2ZDM4ZTI5ODE1YjdlMjY1Mzk0NzI4YTg4Nzc2ZWFkYzRlNjBmNDY3Y2Y2M2QzMmMxNTAwYzkxMDVlMjNiNg=="
+    },
+    {
+      "type": "xhr",
+      "url": "https://manifest-oci-us-ashburn-1-vop1.fastly.mux.com/j01gUgAUh00qnzbI001Byt4JGkMX9J00wDrpvTfh2mudat5mE7ukUzuVAL3LmVmqlmfdL5zEXmuRnHWmQgOBH6rGOE3QivP9cMwY/rendition.m3u8?cdn=fastly&expires=1792260000&skid=default&signature=NmFkM2JiYmJfOTMzYjI5ZjUxZjU3MmY2OGVhNDc5MTJlMTYyMTA4YjBlYTMyMDcxNzA3ODhkNjQzYTkxN2NmMmY2NmExOGVjYw=="
+    },
+    {
+      "type": "xhr",
+      "url": "https://manifest-oci-us-phoenix-1-vop1.fastly.mux.com/OcD8LCHodY00bp8WcpTReL11aQxZ5M6xFg9PLeiwXVNdnYXh01yezaEAxGIEYL1GMKgA64RF3kVek00yRRn02tooQxdQGhcVBUVL006Es3LGG9Fc/rendition.m3u8?cdn=fastly&expires=1792260000&skid=default&signature=NmFkM2JiYmJfODJjNGQ1YTExNWE5N2U3NmIzNDljY2M5MmVhY2M4NTVmMjI3ZTA0ZWJmZjMwZDcwNTQ4ZDFkZDM2NmIwN2NkMQ=="
+    },
+    {
+      "type": "xhr",
+      "url": "https://manifest-oci-us-phoenix-1-vop1.fastly.mux.com/TK22EuhGGIP1VqzMAOGBk01wv2CGXSQ6qs5rrzIHpZPl7VxfxeSew83MFHceClIxnmCdKxQ24GHJr501Mjja49QsVxqfKCF6ci/rendition.m3u8?cdn=fastly&expires=1792260000&skid=default&signature=NmFkM2JiYmJfMzFlOGM5YzNhYmYwZjU1Y2FjNWQ1MjM2NzQ3MDcwNDBmZTk2YTc2MDRmZjA0NWYyOTYzMjJiMGUxMzkzYWZkYw=="
+    },
+    {
+      "type": "xhr",
+      "url": "https://chunk-oci-us-ashburn-1-vop1.fastly.mux.com/v1/chunk/4Rs7qWuKHqbfGP02iXD4aWm5RWctkOedXyjHUi1zp9fX4IsvlgR00kBMPwHvbxbaQyk98t869PJmBwkbb4nBqoBavZGYid2SIF/18446744073709551615.m4s?skid=default&signature=NmFkM2I3YTBfMTQ5YWJlYjgyNTM5OWE1YzAxZTljNTg4NDg1NGE0YjVhYTJmMTdhYWZiYTUzZmQ1MGNkNDI2YjcwZDQxNzU2Ng==&zone=1"
+    },
+    {
+      "type": "xhr",
+      "url": "https://chunk-oci-us-ashburn-1-vop1.fastly.mux.com/v1/chunk/0200dID3Ixp00uJ44j9HjpaDDKOt8iGK4Yix2an00300kw6ScXnxw3uWOKY1vKUjeUAqStXbWaLNLS3hM2BadcImUmv1I3Sg4K8JQ/18446744073709551615.m4s?skid=default&signature=NmFkM2I3YTBfNjc3MWQxZjkzN2Y5ODcyZTc2ZjA4Y2JjMDg1ZGU1NzU5OWUwNmFkMDJkNzgzMzA5NmUxYzZmZWQxMzg4ZTM1Mg==&zone=1"
+    },
+    {
+      "type": "xhr",
+      "url": "https://chunk-oci-us-ashburn-1-vop1.fastly.mux.com/v1/chunk/4Rs7qWuKHqbfGP02iXD4aWm5RWctkOedXyjHUi1zp9fX4IsvlgR00kBMPwHvbxbaQyk98t869PJmBwkbb4nBqoBavZGYid2SIF/0.m4s?skid=default&signature=NmFkM2I3YTBfZDE2YWM0ZTBkODdhZTBmYjkyZWRlYTQzNDc1ZGMxNzRkOWI3MWM1OTY0NjIwMGFlODBlODdmZmE0YWRiODYxNQ==&zone=1"
+    },
+    {
+      "type": "xhr",
+      "url": "https://chunk-oci-us-ashburn-1-vop1.fastly.mux.com/v1/chunk/0200dID3Ixp00uJ44j9HjpaDDKOt8iGK4Yix2an00300kw6ScXnxw3uWOKY1vKUjeUAqStXbWaLNLS3hM2BadcImUmv1I3Sg4K8JQ/0.m4s?skid=default&signature=NmFkM2I3YTBfODRmZTEyMDRjZDEwMjdkYzZlMzI3MDQzZmM1NWRiOTAzMjc4MmMxNGI0YWUxYTMxNjM2ZmYzNmI5MWRhMDM4NQ==&zone=1"
+    },
+    {
+      "type": "xhr",
+      "url": "https://chunk-oci-us-phoenix-1-vop1.fastly.mux.com/v1/chunk/3TQ00lxYtDekYnzjpysD01dGFbu9YuCtpCQxrxvQJY6aMMiip2fEKypInXElF9duZ801UFnRPZxC01JHIebvzNFCTvOblOg02l7gn/18446744073709551615.m4s?skid=default&signature=NmFkM2I3YTBfNmQ3ZDg4ODk2ZmRhOTAwNTI0ZDkyZTk0YTY2NTIyMGE2ZTE2YjFlYTMxYjE5MDI5MThkYTI5OWI0YzlmODcxMQ==&zone=2"
+    },
+    {
+      "type": "xhr",
+      "url": "https://chunk-oci-us-ashburn-1-vop1.fastly.mux.com/v1/chunk/3XQd00pjMHO9yfh2547027brd00yXo7eeUzxIR7UuPS3uDUULXHlQq5ILFwXjPjbAOMrJYV00GYm100F8rki01ZYbp78xvUVUT3rvakCt1nrVBzOY/18446744073709551615.m4s?skid=default&signature=NmFkM2I3YTBfNTc4YWNiNWM1MmVlNTQ4MTliZWU1N2E2ZTZmN2JiODIyNzIzN2YwNjExOGYxYjY2ZTYyN2I5MjYwMTg0YjYwNw==&zone=1"
+    },
+    {
+      "type": "xhr",
+      "url": "https://chunk-oci-us-ashburn-1-vop1.fastly.mux.com/v1/chunk/0200dID3Ixp00uJ44j9HjpaDDKOt8iGK4Yix2an00300kw6ScXnxw3uWOKY1vKUjeUAqStXbWaLNLS3hM2BadcImUmv1I3Sg4K8JQ/18446744073709551615.m4s?skid=default&signature=NmFkM2I3YTBfNjc3MWQxZjkzN2Y5ODcyZTc2ZjA4Y2JjMDg1ZGU1NzU5OWUwNmFkMDJkNzgzMzA5NmUxYzZmZWQxMzg4ZTM1Mg==&zone=1"
+    },
+    {
+      "type": "xhr",
+      "url": "https://chunk-oci-us-ashburn-1-vop1.fastly.mux.com/v1/chunk/0200dID3Ixp00uJ44j9HjpaDDKOt8iGK4Yix2an00300kw6ScXnxw3uWOKY1vKUjeUAqStXbWaLNLS3hM2BadcImUmv1I3Sg4K8JQ/0.m4s?skid=default&signature=NmFkM2I3YTBfODRmZTEyMDRjZDEwMjdkYzZlMzI3MDQzZmM1NWRiOTAzMjc4MmMxNGI0YWUxYTMxNjM2ZmYzNmI5MWRhMDM4NQ==&zone=1"
+    },
+    {
+      "type": "xhr",
+      "url": "https://chunk-oci-us-ashburn-1-vop1.fastly.mux.com/v1/chunk/3XQd00pjMHO9yfh2547027brd00yXo7eeUzxIR7UuPS3uDUULXHlQq5ILFwXjPjbAOMrJYV00GYm100F8rki01ZYbp78xvUVUT3rvakCt1nrVBzOY/0.m4s?skid=default&signature=NmFkM2I3YTBfMjA2NjBkNmZlMTFmNzI3MWM1NWFhNjQxYTJiYzhjNTAyMDkzNjFmNTJkYjNiNDlmZTY1ZThiYWI2MDUzYWI0NQ==&zone=1"
+    },
+    {
+      "type": "xhr",
+      "url": "https://chunk-oci-us-phoenix-1-vop1.fastly.mux.com/v1/chunk/w9hSUUH83MYQ8lVYvM02HjpOrBnmsiC02bHkd5YhjgHoxo8Sqkgf5ZLU022qaqyxGTFuZqvFenA9QnpXeUX4xk4D4Vd38giT7MF/18446744073709551615.m4s?skid=default&signature=NmFkM2I3YTBfOWQ0ZjBlZDhjMWI1M2MyMmIxM2JkMTkwZGQyNmEwNmEyOWIwYzMwNGU0ZTZkYTQ3NmU2OGZkMWNlZjE1NzcyYQ==&zone=2"
+    },
+    {
+      "type": "xhr",
+      "url": "https://chunk-oci-us-ashburn-1-vop1.fastly.mux.com/v1/chunk/02dBtBkBXJGfWKCYspo01MhaG009GFfC02Ae5ABfIA4ZdAhQ91gASNrCEzauK7CQrig5RT00IrmQ2ALVyTV3Fcs2x6EVhPgAjMir02/1.m4s?skid=default&signature=NmFkM2I3YTBfMjAyNGMwNTIxOTJiYjFmNzk4Yzg3ZjY5NDY5NmQ2ZDE5NjRlNmI0NWQxODBjZjdjNzdiZmNhZjM4NWQxZGQ4YQ==&zone=1"
+    },
+    {
+      "type": "xhr",
+      "url": "https://chunk-oci-us-ashburn-1-vop1.fastly.mux.com/v1/chunk/UQ297DXgd8wuM01YYdgjl63HoLFsD7Rw3f009qr8SMSnlb00qpFoSgdupVLnhMe3k02HL00LJYecwc800dGKMqbMIyovgDIy6BpXxS/1.m4s?skid=default&signature=NmFkM2I3YTBfMjlkZWRiZTFiMDFiMGM3ZmY3ZWJlNzE1NWFkYjA4MDc2ODJjMTZjODcwMjQyMTI3NmVkODdmM2I2NjA5NmQxYw==&zone=1"
+    },
+    {
+      "type": "xhr",
+      "url": "https://chunk-oci-us-phoenix-1-vop1.fastly.mux.com/v1/chunk/fkr8YvZJ01ZdgEoMgsF4NOd01z5un7Tflr00jFhsJV2ACtNb00GwW01XQGVh4Oh4OFBggob33917yWNTen00AWH6M8Vu8jJlNfMei6/0.m4s?skid=default&signature=NmFkM2I3YTBfOTdkYjRhMmNmMzI0ZGM4MDJhNzc1YjNmMTIwN2RiZWQwNTgwNGVmZGZmN2IwNjc4N2NhNjliNzIwYTcxMjY3MA==&zone=2"
+    },
+    {
+      "type": "xhr",
+      "url": "https://chunk-oci-us-phoenix-1-vop1.fastly.mux.com/v1/chunk/YHrJWtKzMozhbRAdnzdDZ36fCsNmAAooo8PVTxvyfj95a1Z6Qe00nYUE7G3cpSAverHbTpQ028P3AL02vX1gHDRyyvb80125m01aW/0.m4s?skid=default&signature=NmFkM2I3YTBfMzAxOTYzZGM3NGJmOWY1NDYwMDAyZDQ5MmZmNjk4ZGZmMzljODc0OTc4ZTkxNjAzZGMzMjA5YjQ3Y2YzZmFlOA==&zone=2"
+    },
+    {
+      "type": "xhr",
+      "url": "https://chunk-oci-us-ashburn-1-vop1.fastly.mux.com/v1/chunk/fS02PjZzfr4E00qwoL8qAARKFW7vLNCUE01EXWC73eFcuyXLZaRgUUTa9Oad1zerTxNj02AAE9zCop4mmecHsW00mmdstiQd6th01ph00jrEwtShiw/1.m4s?skid=default&signature=NmFkM2I3YTBfZTdjNWQ3MTA2ZjExNDRmNjk3YjRhYTJiMGIxMGI3MjZhNDgyZWZhMWRiZTgxZWFkNzVmMzZiYjVkNTM2NWQ2NA==&zone=1"
+    },
+    {
+      "type": "xhr",
+      "url": "https://chunk-oci-us-ashburn-1-vop1.fastly.mux.com/v1/chunk/UQ297DXgd8wuM01YYdgjl63HoLFsD7Rw3f009qr8SMSnlb00qpFoSgdupVLnhMe3k02HL00LJYecwc800dGKMqbMIyovgDIy6BpXxS/1.m4s?skid=default&signature=NmFkM2I3YTBfMjlkZWRiZTFiMDFiMGM3ZmY3ZWJlNzE1NWFkYjA4MDc2ODJjMTZjODcwMjQyMTI3NmVkODdmM2I2NjA5NmQxYw==&zone=1"
+    },
+    {
+      "type": "xhr",
+      "url": "https://chunk-oci-us-ashburn-1-vop1.fastly.mux.com/v1/chunk/tJX4JZ57wOeEBIf4LJ3bB02Pa6jLTpNbAvEJPMqio5NFNzosZtUd5zXrAiN500w4NS01nORJtLiI1M9rjb6YFb02GsQqOwq8500XQ/2.m4s?skid=default&signature=NmFkM2I3YTBfMDM0ZDA5ZjA1NDdiYzhkZjMyM2U4ZjJkZGJkNWVmNDBjMzcyYWY0NTYzN2I5YTc3OTdhM2VlMGJjMWY3MDBiMA==&zone=1"
+    },
+    {
+      "type": "xhr",
+      "url": "https://chunk-oci-us-ashburn-1-vop1.fastly.mux.com/v1/chunk/KKFqG8N8kyjUpFluwmIkER1v00tWm1u64qrxgfrpRBlhAc02vvS2OzMIQa7dV00iyloX4mMw6RsgT01Sktwx7Gt56erSlC9rT9Ld/2.m4s?skid=default&signature=NmFkM2I3YTBfNzM1YzBiNWQ3MTNjYWMyOWFjY2I5MTg2OWUyNWRhYzEyMWQxNDEzM2NkMjk4YTNhNzY0YTAxYmMyYzQyYWIyZQ==&zone=1"
+    },
+    {
+      "type": "xhr",
+      "url": "https://chunk-oci-us-phoenix-1-vop1.fastly.mux.com/v1/chunk/ZlJpFiLl1zgagmg1guzAnjIC8v3zv6XZWyd00dlAM73FI02Ok1f7jlo3UYhj7MID3Ah1tCXGc00CgimEfoMkO01J4GLC00U02FZ4AG7PDEwAFIzvE/18446744073709551615.m4s?skid=default&signature=NmFkM2I3YTBfNTBiMDRmMmQyZGE5YTZkZjUyMTNhZjliNmM4YmUwNGQxNWE5MDk5OWVjOTNiYjFjNWRlNTkxNWQxMjFlOWJhOA==&zone=0"
+    },
+    {
+      "type": "xhr",
+      "url": "https://chunk-oci-us-phoenix-1-vop1.fastly.mux.com/v1/chunk/toPEFDn6LnTIyQaLH18C5wqZi9TRHgMCO1G01NivN4o5q9vbfIqTwsHktWAICeYFTkkjsZulWvyF65oMRZfkqJwV4M6RPPeJU/18446744073709551615.m4s?skid=default&signature=NmFkM2I3YTBfYzQxYWE2ZDViYjBiOTc0YTAxMGNiZGNlZTcyZjhlN2VlZTlkOWJlYzIxN2Q3Y2RlNTI4YmVjN2Y5YmMzODJlYg==&zone=0"
+    },
+    {
+      "type": "xhr",
+      "url": "https://chunk-oci-us-phoenix-1-vop1.fastly.mux.com/v1/chunk/oi9K9nRQFROy1o6dYARzAyWH74Sv01ygEVqgIMKxLtRn5LFTR6imOzv9Spr8nmJ1o3S1Y5a0197O9E2TvfDHoaQnw1dIR7qaFz/1.m4s?skid=default&signature=NmFkM2I3YTBfY2M0OTNmZTAyZTBjMTgwYjg4YWYyY2ZhNmVmY2E1MDhjNWNjNTk1Y2M4ZGIzOTAzMjg1NTVlYjI1NmFkMThkZg==&zone=2"
+    },
+    {
+      "type": "xhr",
+      "url": "https://chunk-oci-us-phoenix-1-vop1.fastly.mux.com/v1/chunk/45pLUYCDDIdElR01CaUAw5i88YiaOO6Yf2MiqzFV7zfanOVghF858WIV02J6lKmllgYWMjOw8VsNPdiUIC01tHSSgRNZudRqnxx/1.m4s?skid=default&signature=NmFkM2I3YTBfMzg5MjI4OTVlNGJkYzM5YzE1Zjk4M2YyNDgyNjMxZWU2NWJhMTA0OTI5NmViMWQ1NTRhNDY3ZTliNmZjMjU2Yg==&zone=2"
+    },
+    {
+      "type": "xhr",
+      "url": "https://chunk-oci-us-phoenix-1-vop1.cfcdn.mux.com/v1/chunk/hhPpFEGUksnV014mi00EkoXfPMW3adzgxWeH4hTM01wbNse01Zyb5pDh7aZz6cHn01wFloIlwNvEGyZWZ96AXDnan7BOTGJaa53cM/18446744073709551615.m4s?skid=default&signature=NmFkM2I3YTBfZjc1ODljMzY4M2I1NzBkZmE5MDkxZTY5ZTllMWYxZTk3MzhiMWYyOTgyYWJhOTQ3OWUwYjc3Mjc5YTZiYzhkZg==&zone=0"
+    },
+    {
+      "type": "xhr",
+      "url": "https://chunk-oci-us-phoenix-1-vop1.cfcdn.mux.com/v1/chunk/Ol02nq4VSgHzHJFDsBR7dt4kj58FqhbAK9tU4YastfQkFERGfJ029hWRw00uNnQaIk9aTVdBgtBgOJvPrsMFCE4WNh00N4J00SkxQ/18446744073709551615.m4s?skid=default&signature=NmFkM2I3YTBfYTYyNTQ1NDgwYjVlMWRkYmYxODZlN2Q4ZDhjNzkxNjA3NGIxNDhlMjk1NTFkZDFiY2VlZGE4ODM4NjIyYTk0MQ==&zone=0"
+    },
+    {
+      "type": "xhr",
+      "url": "https://chunk-oci-us-ashburn-1-vop1.fastly.mux.com/v1/chunk/1iXfKE1vtRZvECxsNwWshjeSrI4FUBBaXFJu7iuEpDEyfVsiWclfyW02026gbCOY4FqXdMieBobgiXmM2MtVM029LET015P9Aqg8z5wIAdPs4aI/2.m4s?skid=default&signature=NmFkM2I3YTBfMjllNWQ0MjFhNjI2Y2M0MzVkODRiMDE5Yzg4MDQ5MTMwNTUyNjIzOWRhYTg4ZjZhMWNiMDQ4MDBhYTZkNWNiNQ==&zone=1"
+    },
+    {
+      "type": "xhr",
+      "url": "https://chunk-oci-us-ashburn-1-vop1.fastly.mux.com/v1/chunk/KKFqG8N8kyjUpFluwmIkER1v00tWm1u64qrxgfrpRBlhAc02vvS2OzMIQa7dV00iyloX4mMw6RsgT01Sktwx7Gt56erSlC9rT9Ld/2.m4s?skid=default&signature=NmFkM2I3YTBfNzM1YzBiNWQ3MTNjYWMyOWFjY2I5MTg2OWUyNWRhYzEyMWQxNDEzM2NkMjk4YTNhNzY0YTAxYmMyYzQyYWIyZQ==&zone=1"
+    },
+    {
+      "type": "xhr",
+      "url": "https://chunk-oci-us-phoenix-1-vop1.fastly.mux.com/v1/chunk/oc9nnPemNUOTMGZ2W00CjVH7H72mk01nuvlUZVCrWUVBIX1zCK6prSGlUhd8yzdCbRKv4dcixBhC5UAYv3QA739yBbPoRQSa4oJ3DAzJFaXVk/18446744073709551615.m4s?skid=default&signature=NmFkM2I3YTBfZDE5ODYwZWEzNWY5MTBmZWRjMTNkYTQ4ZmFhODEzNGNkZjNlMDZlMGUwMjg3ZTQ3ZjMwMjEyMTZjMzEyZjM4Nw==&zone=0"
+    },
+    {
+      "type": "xhr",
+      "url": "https://chunk-oci-us-phoenix-1-vop1.fastly.mux.com/v1/chunk/Ol02nq4VSgHzHJFDsBR7dt4kj58FqhbAK9tU4YastfQkFERGfJ029hWRw00uNnQaIk9aTVdBgtBgOJvPrsMFCE4WNh00N4J00SkxQ/18446744073709551615.m4s?skid=default&signature=NmFkM2I3YTBfYTYyNTQ1NDgwYjVlMWRkYmYxODZlN2Q4ZDhjNzkxNjA3NGIxNDhlMjk1NTFkZDFiY2VlZGE4ODM4NjIyYTk0MQ==&zone=0"
+    },
+    {
+      "type": "xhr",
+      "url": "https://chunk-oci-us-phoenix-1-vop1.fastly.mux.com/v1/chunk/WajAlg8EZ8K00qkdI01IbH4qzMDgKDmKlHanVzSjOfOviopOFrSLa4IUD47PPmzx1fFbQkRQfiU4OnqsYv00ek02e5G00lJRE3yUn9uePmzbPUuA/0.m4s?skid=default&signature=NmFkM2I3YTBfNDdmMWE5NDk5YzcxMzIzY2QwYWNmYzlhNDUyZTk2NDAwZGRlZWYyNjUxOWNhMjRjNmM2ZjcyN2Y2OGRkYWVjMw==&zone=0"
+    },
+    {
+      "type": "xhr",
+      "url": "https://chunk-oci-us-phoenix-1-vop1.fastly.mux.com/v1/chunk/A3DsNBfUKAVjKEwU02pQTvR152fC4PRfdK2hZSO6H47kATmmC7bxJ3rn2NDGqx9KjaEfIc3xEauO01jU6dUkOa2A0100a1MYEj67/0.m4s?skid=default&signature=NmFkM2I3YTBfOTFmMDRjODkxN2M5NWFmNTdjYjQ0MGEzYTNkYzdhYWQ0M2MyNGY1ODBkYTZlNDExY2U3MWM3YmZhMjkzZTU3Nw==&zone=0"
+    },
+    {
+      "type": "xhr",
+      "url": "https://chunk-oci-us-ashburn-1-vop1.fastly.mux.com/v1/chunk/yzIhfWIe6XuRD01192Qw02P9JazZOqqExPs01dqPIpTzg9DjxOA022EIyzsgkOv5FYaJ7KH01e4ZgQjHIf026DIzXdDQGuIxN8kzmQ/3.m4s?skid=default&signature=NmFkM2I3YTBfZWNiNTA2NzdmZTlhYTY0YTIxOGFhZjViNTZjNWE1MjhkZWExMzQyZWMxNWMwYWNjNGQ0ODQ3MzI3YTcxYTM1Mg==&zone=1"
+    },
+    {
+      "type": "xhr",
+      "url": "https://chunk-oci-us-ashburn-1-vop1.fastly.mux.com/v1/chunk/kn4G4AhEHUxyeFRpWLmqZVVukSUkXSM02pttWkQw9IsMr601sCjFgPE0202btD1k4JKvCaZWXcvTdmqIpqILfz00zcTS026UlvwNO02/3.m4s?skid=default&signature=NmFkM2I3YTBfZGU3Zjk3ZjUxZjUyNzk4NTY5NDk0YzZhOWFlN2M5YTU0MWNiMWVhMmY4YzA0ZDdkMzhlMTc4N2QxYTg4Y2EwZQ==&zone=1"
+    },
+    {
+      "type": "xhr",
+      "url": "https://chunk-oci-us-phoenix-1-vop1.cfcdn.mux.com/v1/chunk/b005RpIOQUKUOJlOPvFPRLIvW5WOuZPbpu5MfOHBlveUEfNhqke4YXT133jr8RyLhjurQzEHbn7HrDDdc82LmD8PaoXRN008Dd/0.m4s?skid=default&signature=NmFkM2I3YTBfYjIyNWQ1NGI4M2EyMDYwZmM2ZWEzYmFmMDUzMGI4N2YwN2Q2YjY1NGM1OGFmNWI2YzdhMjkzYzEyOGM0MDBkMQ==&zone=0"
+    },
+    {
+      "type": "xhr",
+      "url": "https://chunk-oci-us-phoenix-1-vop1.cfcdn.mux.com/v1/chunk/3e00G7cljQCUxumLMD97vkHklXw01P8Jj00WAGCo02XMhJgbUSqLTneo8btHfEBOAVz9UCjKM202eaq02hEgMZ52q00NDehWyrUcyyS/0.m4s?skid=default&signature=NmFkM2I3YTBfMWNiMTc2NzdhY2Q1N2M5MDQ4Y2UwNzI2NDFiMjZmZDg0OTZkMDliZGI5MmM0MzcwZDBiNDVjNWY3MjQwNDgwMQ==&zone=0"
+    },
+    {
+      "type": "xhr",
+      "url": "https://chunk-oci-us-phoenix-1-vop1.fastly.mux.com/v1/chunk/3e00G7cljQCUxumLMD97vkHklXw01P8Jj00WAGCo02XMhJgbUSqLTneo8btHfEBOAVz9UCjKM202eaq02hEgMZ52q00NDehWyrUcyyS/0.m4s?skid=default&signature=NmFkM2I3YTBfMWNiMTc2NzdhY2Q1N2M5MDQ4Y2UwNzI2NDFiMjZmZDg0OTZkMDliZGI5MmM0MzcwZDBiNDVjNWY3MjQwNDgwMQ==&zone=0"
+    },
+    {
+      "type": "xhr",
+      "url": "https://chunk-oci-us-phoenix-1-vop1.fastly.mux.com/v1/chunk/te52JpSBUgf5CrxY17bHROj002ukGUMjdvVbpKWCf4OXF2CiT977ITLp2L6kVlMvI3zAll4f49LiPmFqku4DM6au3GzaVyM7DFU2mOgFktU4/0.m4s?skid=default&signature=NmFkM2I3YTBfY2I1NTViODA4MWQyNTFkMDdhOTA0ZmE2YWU2NDk1NjU5MjczNzkyNjNkNGM2NjE0MTE4M2RiYjZmYWZiNzQ5Ng==&zone=0"
+    },
+    {
+      "type": "xhr",
+      "url": "https://chunk-oci-us-ashburn-1-vop1.fastly.mux.com/v1/chunk/eGTAUmiAYbjiYMh02DihS010101PnPE5mEVDYBjuitR9bV8RZLQI6TBtIbNT01O1Br6TcALLEI02DS1cw8n8hehaX2EpznTBEwO4lm01BeafnU00u01A/3.m4s?skid=default&signature=NmFkM2I3YTBfYWU5NTlmMDA2Nzk1YWQ5YTNiMmFlYzUzYzFhN2IyZjg5ZmIyZjdmM2Q1YTUxZjI3ZDA2YzYwMDE4MDdiZGFjMA==&zone=1"
+    },
+    {
+      "type": "xhr",
+      "url": "https://chunk-oci-us-ashburn-1-vop1.fastly.mux.com/v1/chunk/kn4G4AhEHUxyeFRpWLmqZVVukSUkXSM02pttWkQw9IsMr601sCjFgPE0202btD1k4JKvCaZWXcvTdmqIpqILfz00zcTS026UlvwNO02/3.m4s?skid=default&signature=NmFkM2I3YTBfZGU3Zjk3ZjUxZjUyNzk4NTY5NDk0YzZhOWFlN2M5YTU0MWNiMWVhMmY4YzA0ZDdkMzhlMTc4N2QxYTg4Y2EwZQ==&zone=1"
+    },
+    {
+      "type": "xhr",
+      "url": "https://chunk-oci-us-phoenix-1-vop1.cfcdn.mux.com/v1/chunk/TK22EuhGGIP1VqzMAOGBk01wv2CGXSQ6qs5rrzIHpZPl7VxfxeSew83MFHceClIxnmCdKxQ24GHJr501Mjja49QsVxqfKCF6ci/1.m4s?skid=default&signature=NmFkM2I3YTBfNTQ4OGM4ZGYxYzkxMTA2NWE5YmJkMzhmYzc1MDU4MDY3MjJjMDE0Y2U1OTljMjU3ZWVlMzNhZWI2NDZiYjk5Mg==&zone=0"
+    },
+    {
+      "type": "xhr",
+      "url": "https://chunk-oci-us-phoenix-1-vop1.cfcdn.mux.com/v1/chunk/p01bXvBkFBLesA00h8AvOHBoS00bdyr02vfGmXuCCyT3iqVVu7DO7wlRvUaShERyQ5Jkql7Jbzrj6EXLuh9X3y7LQPqsmTH007ouC/1.m4s?skid=default&signature=NmFkM2I3YTBfZjI3MzEwYjdhMjgyOWVmYjczMmY4YjVhNWNkMWE0ODM5NGMwNThiOGQ3OTNiODJjYTBhNDEwYjRiMzYxODRhZQ==&zone=0"
+    },
+    {
+      "type": "xhr",
+      "url": "https://chunk-oci-us-ashburn-1-vop1.fastly.mux.com/v1/chunk/j01gUgAUh00qnzbI001Byt4JGkMX9J00wDrpvTfh2mudat5mE7ukUzuVAL3LmVmqlmfdL5zEXmuRnHWmQgOBH6rGOE3QivP9cMwY/4.m4s?skid=default&signature=NmFkM2I3YTBfNmY4ZTk4ODgxNzc5ZTRlZDJhNjgxMzQ3ZDFlYjcwNDRjMWI2NGExM2U0NTY1MzBhZjgwMmU4MGEzYzcyN2YyNA==&zone=1"
+    },
+    {
+      "type": "xhr",
+      "url": "https://chunk-oci-us-ashburn-1-vop1.fastly.mux.com/v1/chunk/HtnFC00hMxRj62QFt1CJS9wE400bGjtWeKukhqyc5JAE9aPKEAxTN8eP5qWJ01V1QSRbjVasncjVrKTGFFo02vNmDm02600mpp4eU2/4.m4s?skid=default&signature=NmFkM2I3YTBfYzA0NDUwOTRkMjliMDgwOTQ5MjE3MTk2NmJhYTBkYmMzMjJkZGU0MTNmYjM0ZjAyM2FhZTlmYjI4Zjk5NGQyYw==&zone=1"
+    },
+    {
+      "type": "xhr",
+      "url": "https://chunk-oci-us-phoenix-1-vop1.fastly.mux.com/v1/chunk/pursBtt1sfjAw02kP3uCeSPYYZgnW6LlRSvK158B1HR67dlQjWIPBAOJcNbEayvdH1801xf01Qs00hhMPgnNghD6f464NUyEEubC/1.m4s?skid=default&signature=NmFkM2I3YTBfMTdhNDVkOTE5MjIzNzQ1MDllNGRkNDdhNzlkMWI5NDIwNWZmOWM2YWQ2NmUxMTA0ZWQzMTc0MzU0MTU5OGQ0ZQ==&zone=0"
+    },
+    {
+      "type": "xhr",
+      "url": "https://chunk-oci-us-phoenix-1-vop1.fastly.mux.com/v1/chunk/VVfPAnuMHIUvg9C8kqXx4FTM3hy02mpiNu6LC00TvUxYKl01KWT8qLnF8v5Nssswhj02HCK02gwqYSO1F8aEnJIY2grsUDgq019Y1kdm01D47aTexw/1.m4s?skid=default&signature=NmFkM2I3YTBfNmEzMjg0MjBhYjc3NTk1M2IzMmFkZjVhNjU1MmJhZGEyZGViMzk2NDcyZjJlZGZlY2M5MmM4YjBjZDllNDI0Zg==&zone=0"
+    },
+    {
+      "type": "xhr",
+      "url": "https://chunk-oci-us-phoenix-1-vop1.fastly.mux.com/v1/chunk/TK22EuhGGIP1VqzMAOGBk01wv2CGXSQ6qs5rrzIHpZPl7VxfxeSew83MFHceClIxnmCdKxQ24GHJr501Mjja49QsVxqfKCF6ci/1.m4s?skid=default&signature=NmFkM2I3YTBfNTQ4OGM4ZGYxYzkxMTA2NWE5YmJkMzhmYzc1MDU4MDY3MjJjMDE0Y2U1OTljMjU3ZWVlMzNhZWI2NDZiYjk5Mg==&zone=0"
+    },
+    {
+      "type": "xhr",
+      "url": "https://chunk-oci-us-phoenix-1-vop1.fastly.mux.com/v1/chunk/OcD8LCHodY00bp8WcpTReL11aQxZ5M6xFg9PLeiwXVNdnYXh01yezaEAxGIEYL1GMKgA64RF3kVek00yRRn02tooQxdQGhcVBUVL006Es3LGG9Fc/1.m4s?skid=default&signature=NmFkM2I3YTBfMDc1ZWE1YjFmYmE4YjllNTE5YjEwNmI5MDViM2I4ZTUyODkwZDc4YWNjZTUwY2ZlNWU2ODM4MWU4OTQzOTEyOQ==&zone=0"
+    },
+    {
+      "type": "xhr",
+      "url": "https://chunk-oci-us-ashburn-1-vop1.fastly.mux.com/v1/chunk/j01gUgAUh00qnzbI001Byt4JGkMX9J00wDrpvTfh2mudat5mE7ukUzuVAL3LmVmqlmfdL5zEXmuRnHWmQgOBH6rGOE3QivP9cMwY/4.m4s?skid=default&signature=NmFkM2I3YTBfNmY4ZTk4ODgxNzc5ZTRlZDJhNjgxMzQ3ZDFlYjcwNDRjMWI2NGExM2U0NTY1MzBhZjgwMmU4MGEzYzcyN2YyNA==&zone=1"
+    },
+    {
+      "type": "xhr",
+      "url": "https://chunk-oci-us-ashburn-1-vop1.fastly.mux.com/v1/chunk/uuoyzhqQF02OE700P371Oyr6OImEWW82FHsBQzKV3Qv7U5we7jRMZGAP44XFiC47KGb004oNGV00YWkUfeExmKJZpAxG0002XMfOmsyAi9Vs00D2600/4.m4s?skid=default&signature=NmFkM2I3YTBfYTAwNzRmODY0MmE1ZGJiNDgxNzVlMDc1Yzc4NWM3NzdlZTFkZWFjZWM4M2MzNDdmYWExNGQ3MzE5OWU5YzkzMQ==&zone=1"
+    },
+    {
+      "type": "xhr",
+      "url": "https://chunk-oci-us-ashburn-1-vop1.fastly.mux.com/v1/chunk/uuoyzhqQF02OE700P371Oyr6OImEWW82FHsBQzKV3Qv7U5we7jRMZGAP44XFiC47KGb004oNGV00YWkUfeExmKJZpAxG0002XMfOmsyAi9Vs00D2600/4.m4s?skid=default&signature=NmFkM2I3YTBfYTAwNzRmODY0MmE1ZGJiNDgxNzVlMDc1Yzc4NWM3NzdlZTFkZWFjZWM4M2MzNDdmYWExNGQ3MzE5OWU5YzkzMQ==&zone=1"
+    },
+    {
+      "type": "xhr",
+      "url": "https://manifest-oci-us-ashburn-1-vop1.fastly.mux.com/HtnFC00hMxRj62QFt1CJS9wE400bGjtWeKukhqyc5JAE9aPKEAxTN8eP5qWJ01V1QSRbjVasncjVrKTGFFo02vNmDm02600mpp4eU2/rendition.m3u8?cdn=fastly&expires=1792260000&skid=default&signature=NmFkM2JiYmJfMmUwNTc1NDViMzI0MzMyYmU4ZjA1YTBiYmMyYWM1MWRiZTM3ZWJhODI2NTA2MDQzMDgxMDAxMGY0MjAwNWU5Mw=="
+    },
+    {
+      "type": "xhr",
+      "url": "https://chunk-oci-us-ashburn-1-vop1.fastly.mux.com/v1/chunk/4Rs7qWuKHqbfGP02iXD4aWm5RWctkOedXyjHUi1zp9fX4IsvlgR00kBMPwHvbxbaQyk98t869PJmBwkbb4nBqoBavZGYid2SIF/18446744073709551615.m4s?skid=default&signature=NmFkM2I3YTBfMTQ5YWJlYjgyNTM5OWE1YzAxZTljNTg4NDg1NGE0YjVhYTJmMTdhYWZiYTUzZmQ1MGNkNDI2YjcwZDQxNzU2Ng==&zone=1"
+    },
+    {
+      "type": "xhr",
+      "url": "https://chunk-oci-us-ashburn-1-vop1.fastly.mux.com/v1/chunk/tJX4JZ57wOeEBIf4LJ3bB02Pa6jLTpNbAvEJPMqio5NFNzosZtUd5zXrAiN500w4NS01nORJtLiI1M9rjb6YFb02GsQqOwq8500XQ/2.m4s?skid=default&signature=NmFkM2I3YTBfMDM0ZDA5ZjA1NDdiYzhkZjMyM2U4ZjJkZGJkNWVmNDBjMzcyYWY0NTYzN2I5YTc3OTdhM2VlMGJjMWY3MDBiMA==&zone=1"
+    },
+    {
+      "type": "xhr",
+      "url": "https://chunk-oci-us-ashburn-1-vop1.fastly.mux.com/v1/chunk/yzIhfWIe6XuRD01192Qw02P9JazZOqqExPs01dqPIpTzg9DjxOA022EIyzsgkOv5FYaJ7KH01e4ZgQjHIf026DIzXdDQGuIxN8kzmQ/3.m4s?skid=default&signature=NmFkM2I3YTBfZWNiNTA2NzdmZTlhYTY0YTIxOGFhZjViNTZjNWE1MjhkZWExMzQyZWMxNWMwYWNjNGQ0ODQ3MzI3YTcxYTM1Mg==&zone=1"
+    },
+    {
+      "type": "fetch",
+      "url": "https://www.itsjay.us/work/trackstack?_rsc=5CB68i4pnAekjehf"
+    },
+    {
+      "type": "fetch",
+      "url": "https://www.itsjay.us/work/jazmin-wong?_rsc=5CB68i4pnAekjehf"
+    },
+    {
+      "type": "fetch",
+      "url": "https://www.itsjay.us/work/trackstack?_rsc=tXyZJ52UQVBCVsD3"
+    },
+    {
+      "type": "image",
+      "url": "https://www.itsjay.us/images/svg/react-logo.svg?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "image",
+      "url": "https://www.itsjay.us/images/svg/nextjs-logotype-light-background.svg?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "image",
+      "url": "https://www.itsjay.us/images/svg/typescript-logo.svg?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "image",
+      "url": "https://www.itsjay.us/images/svg/gsap-black.svg?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "image",
+      "url": "https://www.itsjay.us/images/svg/motion.svg?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "image",
+      "url": "https://www.itsjay.us/images/svg/tailwindcss-logo.svg?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "image",
+      "url": "https://www.itsjay.us/images/svg/contentful-logo.svg?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "image",
+      "url": "https://www.itsjay.us/images/svg/supabase-logo.svg?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "image",
+      "url": "https://www.itsjay.us/images/svg/vercel-logotype-light.svg?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "image",
+      "url": "https://www.itsjay.us/images/svg/figma-logo.svg?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "fetch",
+      "url": "https://www.itsjay.us/work?_rsc=5CB68i4pnAekjehf"
+    },
+    {
+      "type": "fetch",
+      "url": "https://www.itsjay.us/work/jazmin-wong?_rsc=tXyZJ52UQVBCVsD3"
+    },
+    {
+      "type": "fetch",
+      "url": "https://www.itsjay.us/work?_rsc=7h4NYy5eoyMcNlUN"
+    },
+    {
+      "type": "fetch",
+      "url": "https://www.itsjay.us/work?_rsc=i1v4sloSP4siuqJY"
+    },
+    {
+      "type": "fetch",
+      "url": "https://www.itsjay.us/work?_rsc=w8QaQBDeNiATQLUS"
+    },
+    {
+      "type": "script",
+      "url": "https://www.itsjay.us/_next/static/chunks/24f47g-dgl5c1.js?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "script",
+      "url": "https://www.itsjay.us/_next/static/chunks/1e5xvv7ym4v6u.js?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "image",
+      "url": "https://www.itsjay.us/_next/image?url=%2Fimages%2Fservices%2Fbrand-strategy.png&w=1920&q=75&dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "image",
+      "url": "https://www.itsjay.us/_next/image?url=%2Fimages%2Fservices%2Fdigital-design.png&w=1920&q=75&dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "image",
+      "url": "https://www.itsjay.us/_next/image?url=%2Fimages%2Fservices%2Fdevelopment.png&w=1920&q=75&dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    },
+    {
+      "type": "fetch",
+      "url": "https://inferred.litix.io/"
+    },
+    {
+      "type": "fetch",
+      "url": "https://inferred.litix.io/"
+    },
+    {
+      "type": "fetch",
+      "url": "https://inferred.litix.io/"
+    },
+    {
+      "type": "fetch",
+      "url": "https://inferred.litix.io/"
+    },
+    {
+      "type": "fetch",
+      "url": "https://inferred.litix.io/"
+    },
+    {
+      "type": "fetch",
+      "url": "https://inferred.litix.io/"
+    },
+    {
+      "type": "fetch",
+      "url": "https://www.itsjay.us/lab?_rsc=5CB68i4pnAekjehf"
+    },
+    {
+      "type": "fetch",
+      "url": "https://www.itsjay.us/lab?_rsc=7h4NYy5eoyMcNlUN"
+    },
+    {
+      "type": "fetch",
+      "url": "https://www.itsjay.us/lab?_rsc=I6OZc1c4wSJAeNgt"
+    },
+    {
+      "type": "fetch",
+      "url": "https://www.itsjay.us/lab?_rsc=Xp5LYUu8dk9Im6Rs"
+    },
+    {
+      "type": "script",
+      "url": "https://www.itsjay.us/_next/static/chunks/27_7wfwmsz60n.js?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt"
+    }
+  ],
+  "consoleMsgs": [
+    "warning: Failed to decode downloaded font: https://www.itsjay.us/_next/static/media/lcddot-s.p.27ilijiqe3zq9.ttf?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt",
+    "warning: OTS parsing error: cmap: Range glyph reference too high (102 > 101)\ncmap: Failed to parse format 4 cmap subtable 0\ncmap: Failed to parse table",
+    "warning: Failed to decode downloaded font: https://www.itsjay.us/_next/static/media/lcddot-s.p.27ilijiqe3zq9.ttf?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt",
+    "warning: OTS parsing error: cmap: Range glyph reference too high (102 > 101)\ncmap: Failed to parse format 4 cmap subtable 0\ncmap: Failed to parse table",
+    "warning: Failed to decode downloaded font: https://www.itsjay.us/_next/static/media/lcddot-s.p.27ilijiqe3zq9.ttf?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt",
+    "warning: OTS parsing error: cmap: Range glyph reference too high (102 > 101)\ncmap: Failed to parse format 4 cmap subtable 0\ncmap: Failed to parse table",
+    "warning: Failed to decode downloaded font: https://www.itsjay.us/_next/static/media/lcddot-s.p.27ilijiqe3zq9.ttf?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt",
+    "warning: OTS parsing error: cmap: Range glyph reference too high (102 > 101)\ncmap: Failed to parse format 4 cmap subtable 0\ncmap: Failed to parse table",
+    "warning: Failed to decode downloaded font: https://www.itsjay.us/_next/static/media/lcddot-s.p.27ilijiqe3zq9.ttf?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt",
+    "warning: OTS parsing error: cmap: Range glyph reference too high (102 > 101)\ncmap: Failed to parse format 4 cmap subtable 0\ncmap: Failed to parse table",
+    "warning: Failed to decode downloaded font: https://www.itsjay.us/_next/static/media/lcddot-s.p.27ilijiqe3zq9.ttf?dpl=dpl_6jXkvGFrFT4GQdLTrFhi4xDaRuPt",
+    "warning: OTS parsing error: cmap: Range glyph reference too high (102 > 101)\ncmap: Failed to parse format 4 cmap subtable 0\ncmap: Failed to parse table"
+  ]
+}
