@@ -1,10 +1,10 @@
-import { profile } from "@/content/profile";
+import Link from "next/link";
 
-// Fixed "Get in touch" pill, top-right. On hover the emoji springs in from the left.
+// Fixed "Get in touch" pill (jumps to the home contact form), top-right. On hover the emoji springs in from the left.
 export function ContactPill() {
   return (
-    <a
-      href={`mailto:${profile.email}`}
+    <Link
+      href="/#contact"
       className="group fixed right-4 top-4 z-50 flex items-center overflow-hidden rounded-full bg-ink px-5 py-3 text-ui font-semibold text-neutral-100 ring-1 ring-white/10 lg:right-8 lg:top-6 lg:px-6 lg:py-3.5"
     >
       <span
@@ -14,6 +14,6 @@ export function ContactPill() {
         🤙
       </span>
       Get in touch
-    </a>
+    </Link>
   );
 }

@@ -7,7 +7,7 @@ const social = Object.fromEntries(socialLinks.map((l) => [l.label, l.href]));
 const tiles = [
   { label: "Work", href: "/work", area: "col-span-2 lg:col-span-2 lg:row-span-1 min-h-48 lg:min-h-[22rem]" },
   { label: "GitHub", href: social.GitHub, area: "lg:col-start-3 lg:row-start-1 min-h-40" },
-  { label: "Contact", href: `mailto:${profile.email}`, area: "lg:col-start-1 lg:row-start-2 min-h-40" },
+  { label: "Contact", href: "/#contact", area: "lg:col-start-1 lg:row-start-2 min-h-40" },
   { label: "LeetCode", href: social.LeetCode, area: "lg:col-start-1 lg:row-start-3 min-h-40" },
   { label: "LinkedIn", href: social.LinkedIn, area: "lg:col-start-2 lg:row-start-2 lg:row-span-2 min-h-40" },
   { label: "X", href: social.X, area: "col-span-2 lg:col-span-1 lg:col-start-3 lg:row-start-2 lg:row-span-2 min-h-40" },

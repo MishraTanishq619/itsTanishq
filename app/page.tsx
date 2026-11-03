@@ -4,6 +4,8 @@ import { About } from "@/components/sections/About";
 import { FeaturedWork } from "@/components/sections/FeaturedWork";
 import { HowIBuild } from "@/components/sections/HowIBuild";
 import { StackGrid } from "@/components/sections/StackGrid";
+import { Process } from "@/components/sections/Process";
+import { Contact } from "@/components/sections/Contact";
 
 export default function Home() {
   return (
@@ -13,7 +15,9 @@ export default function Home() {
       <About />
       <FeaturedWork />
       <HowIBuild />
+      <Process />
       <StackGrid />
+      <Contact />
     </main>
   );
 }

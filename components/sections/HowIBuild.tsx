@@ -4,7 +4,7 @@ import { useRef } from "react";
 import { craftIntro, craftRows, type CraftRow } from "@/content/craft";
 import { gsap, useGSAP } from "@/lib/gsap";
 
-// Dark panel: intro statement, then three numbered rows that stack on top of each other while scrolling (lg+).
+// Dark panel ("Services"): intro statement, then numbered rows that stack on top of each other while scrolling (lg+).
 export function HowIBuild() {
   const root = useRef<HTMLElement>(null);
 
@@ -28,12 +28,13 @@ export function HowIBuild() {
   return (
     <section
       ref={root}
+      id="services"
       aria-labelledby="craft-title"
       className="mx-2 rounded-3xl bg-ink px-2 pb-2 pt-24 text-neutral-100 lg:mx-4 lg:px-4 lg:pb-4 lg:pt-40"
     >
       <div data-intro className="grid grid-cols-12 gap-4 px-2 pb-20 lg:gap-8 lg:px-4 lg:pb-32">
         <h2 id="craft-title" className="col-span-12 font-dot text-sm uppercase tracking-[0.1em] text-accent lg:col-span-3">
-          How I build
+          Services
         </h2>
         <p className="col-span-12 text-heading font-medium lg:col-span-9">{craftIntro}</p>
       </div>
@@ -110,15 +111,46 @@ function Visual({ kind }: { kind: CraftRow["visual"] }) {
     );
   }
 
-  const checks = ["Lazy-loaded routes", "Cached assets", "Right-sized images", "Keys server-side", "Reduced motion"];
+  if (kind === "automation") {
+    const steps = [
+      { label: "Form submitted", tag: "Webhook" },
+      { label: "Make.com scenario", tag: "Filter + format" },
+      { label: "WhatsApp message", tag: "Sent" },
+      { label: "Google Sheet row", tag: "Logged" },
+    ];
+    return (
+      <ol aria-hidden="true" className={`${frame} flex flex-col justify-center gap-2 text-xs`}>
+        {steps.map((s, i) => (
+          <li key={s.label} className="flex items-center justify-between gap-3 rounded-md bg-neutral-800 px-3 py-2">
+            <span className="flex items-center gap-2.5 text-neutral-200">
+              <span className={`flex size-4 items-center justify-center rounded-full text-[9px] font-bold ${i === 1 ? "bg-accent text-ink" : "bg-neutral-600 text-neutral-100"}`}>
+                {i + 1}
+              </span>
+              {s.label}
+            </span>
+            <span className="font-dot text-[10px] uppercase tracking-[0.1em] text-neutral-400">{s.tag}</span>
+          </li>
+        ))}
+      </ol>
+    );
+  }
+
+  const events = ["page_view", "form_start", "form_submit", "purchase"];
   return (
-    <ul aria-hidden="true" className={`${frame} flex flex-col justify-center gap-2 text-xs`}>
-      {checks.map((c) => (
-        <li key={c} className="flex items-center gap-2.5 text-neutral-200">
-          <span className="flex size-4 items-center justify-center rounded-full bg-accent text-[9px] font-bold text-ink">✓</span>
-          {c}
-        </li>
+    <div aria-hidden="true" className={`${frame} flex flex-col gap-2 text-xs`}>
+      <div className="flex items-center justify-between font-dot text-[10px] uppercase tracking-[0.1em] text-neutral-400">
+        <span>GTM · Preview</span>
+        <span>GA4</span>
+      </div>
+      {events.map((e) => (
+        <div key={e} className="flex items-center justify-between rounded-md bg-neutral-800 px-3 py-2 font-mono text-neutral-200">
+          {e}
+          <span className="flex items-center gap-1.5 font-sans text-[10px] text-accent">
+            <span className="size-1.5 rounded-full bg-accent" />
+            Fired
+          </span>
+        </div>
       ))}
-    </ul>
+    </div>
   );
 }

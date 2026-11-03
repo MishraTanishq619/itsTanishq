@@ -55,7 +55,7 @@ export function Reel({ items, preload = false }: { items: Project[]; preload?: b
             {p.shot ? (
               <Image
                 src={p.shot}
-                alt={`${p.name} website`}
+                alt={p.shotAlt ?? `${p.name} website`}
                 sizes="(min-width: 1024px) 95vw, 100vw"
                 preload={preload && i === 0}
                 className={`h-auto w-full ${panning ? "animate-reel-pan" : ""}`}

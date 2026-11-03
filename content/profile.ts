@@ -3,23 +3,24 @@
 
 export const profile = {
   name: "Tanishq Mishra",
-  role: "Full-Stack Engineer",
+  role: "Software Engineer | Full-Stack & Automation",
   email: "mishratanishq619@gmail.com",
   description:
-    "Full-stack product engineer based in India. Building healthtech at HealthyDay; real-time systems, RAG apps and mobile-first web on the side.",
+    "Full-stack software engineer based in India. Building healthtech at HealthyDay and taking on freelance work: web apps, backends, automation, tracking and SEO.",
 } as const;
 
 // Top info row: label / value pairs (left to right).
 export const infoRow = [
   { label: "Based in India", value: "Rajnandgaon, CG" },
   { label: "Building at", value: "HealthyDay" },
-  { label: "Daily stack", value: "React · Next.js · Node" },
+  { label: "Available for", value: "Freelance projects" },
 ] as const;
 
 // Dock marquee. Each entry must be true.
 export const marqueeRoles = [
   "Full-stack engineer",
   "Mobile-first builder",
+  "Automation builder",
   "Real-time systems nerd",
   "RAG tinkerer",
   "Open-source contributor",
@@ -30,9 +31,10 @@ export const marqueeRoles = [
 // Home "About" section. Draft copy in Tanishq's voice; edit freely, keep it true.
 export const about = {
   statement:
-    "I'm Tanishq, a full-stack engineer who likes shipping things people actually use. Right now that's a Telugu-first wellness platform at HealthyDay: mobile-first frontends, the APIs behind them, and the boring bits that keep them fast and safe.",
+    "I'm Tanishq, a full-stack engineer who likes shipping things people actually use. Right now that's a Telugu-first wellness platform at HealthyDay: mobile-first frontends, the APIs behind them, and the boring bits that keep them fast and safe. I also take on freelance projects.",
   facts: [
-    { label: "Now", value: "Full-time at HealthyDay" },
+    { label: "Now", value: "Software Engineer at HealthyDay" },
+    { label: "Freelance", value: "Web apps · Backend · Automation" },
     { label: "Before", value: "Aurika Tech · GSSOC · Technorollix" },
     { label: "Studied", value: "B.Tech CSE, OP Jindal University, 2022–26" },
     { label: "Off-screen", value: "Football, running, poetry" },
@@ -42,8 +44,10 @@ export const about = {
 export const navLinks = [
   { label: "Home", href: "/" },
   { label: "Work", href: "/work" },
+  { label: "Services", href: "/#services" },
   { label: "About", href: "/#about" },
-  { label: "Contact", href: `mailto:${profile.email}` },
+  { label: "Resume", href: "/resume.pdf" },
+  { label: "Contact", href: "/#contact" },
 ] as const;
 
 export const socialLinks = [

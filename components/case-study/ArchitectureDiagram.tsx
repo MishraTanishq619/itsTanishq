@@ -1,25 +1,29 @@
-import type { ArchNode, CaseStudy } from "@/content/case-studies";
+import type { ArchNode, ArchRow } from "@/content/case-studies";
 
-// Service diagram in plain HTML: client → gateway, which splits into REST (auth) and WebSocket (realtime);
-// realtime writes to persistence. Stacks vertically on mobile.
-export function ArchitectureDiagram({ arch }: { arch: CaseStudy["architecture"] }) {
+// Service diagram in plain HTML: top-down rows with arrows between them. Single-node rows are centred;
+// multi-node rows become columns (null keeps a column empty). Stacks vertically on mobile.
+export function ArchitectureDiagram({ rows }: { rows: ArchRow[] }) {
   return (
     <figure aria-label="Architecture diagram" className="mx-auto flex max-w-4xl flex-col items-center">
-      <Node node={arch.client} accent />
-      <Arrow />
-      <Node node={arch.gateway} />
-      <div className="grid w-full grid-cols-1 gap-x-8 md:grid-cols-2">
-        <div className="flex flex-col items-center">
-          <Arrow label="REST" />
-          <Node node={arch.auth} />
-        </div>
-        <div className="flex flex-col items-center">
-          <Arrow label="WebSocket" />
-          <Node node={arch.realtime} />
-          <Arrow label="Snapshots + updates" />
-          <Node node={arch.persistence} />
-        </div>
-      </div>
+      {rows.map((row, i) => {
+        const multi = row.nodes.length > 1;
+        return (
+          <div key={i} className="flex w-full flex-col items-center">
+            {i > 0 && <Arrow label={row.label} />}
+            <div className={`grid w-full gap-x-8 gap-y-3 ${multi ? "grid-cols-1 md:grid-cols-2" : "grid-cols-1"}`}>
+              {row.nodes.map((node, j) =>
+                node ? (
+                  <div key={j} className="flex justify-center">
+                    <Node node={node} accent={i === 0} />
+                  </div>
+                ) : (
+                  <div key={j} aria-hidden="true" className="hidden md:block" />
+                ),
+              )}
+            </div>
+          </div>
+        );
+      })}
     </figure>
   );
 }

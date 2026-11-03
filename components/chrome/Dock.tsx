@@ -51,8 +51,8 @@ export function Dock() {
             <ul className="flex flex-col gap-1 px-5 pt-6 md:px-6">
               {navLinks.map((link) => (
                 <li key={link.label}>
-                  {link.href.startsWith("mailto:") ? (
-                    <a href={link.href} onClick={close} className="text-ui-lg font-semibold transition-colors hover:text-accent">
+                  {link.href.endsWith(".pdf") ? (
+                    <a href={link.href} target="_blank" rel="noreferrer" onClick={close} className="text-ui-lg font-semibold transition-colors hover:text-accent">
                       {link.label}
                     </a>
                   ) : (

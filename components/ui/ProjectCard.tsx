@@ -21,7 +21,7 @@ export function ProjectCard({ project, preload = false }: { project: Project; pr
           {project.shot ? (
             <Image
               src={project.shot}
-              alt={`${project.name} website`}
+              alt={project.shotAlt ?? `${project.name} website`}
               fill
               sizes="(min-width: 768px) 50vw, 100vw"
               preload={preload}

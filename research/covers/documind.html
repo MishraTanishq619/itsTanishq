@@ -1,0 +1,27 @@
+<!doctype html><html><head><link href="https://fonts.googleapis.com/css2?family=Doto:wght@700&display=block" rel="stylesheet"><link rel="stylesheet" href="base.css">
+<style>
+.rows{margin-top:auto;display:flex;flex-direction:column;gap:30px}
+.row{display:flex;align-items:stretch;gap:18px}.row .tag,.arrow{align-self:center}
+.row .node{flex:1}
+.row .tag{width:120px;flex:none}
+.arrow{flex:none;width:34px}
+</style></head><body>
+<p class="eyebrow">GenAI · RAG pipeline</p>
+<h1>DocuMind</h1>
+<p class="sub">Chat with your PDFs. Answers come only from the uploaded document, streamed back as they are written.</p>
+<div class="rows">
+  <div class="row"><p class="tag">Index</p>
+    <div class="node"><b>PDF</b><span>Upload · parse</span></div><div class="arrow">→</div>
+    <div class="node"><b>Chunks</b><span>1k chars · overlap</span></div><div class="arrow">→</div>
+    <div class="node"><b>Embeddings</b><span>Gemini</span></div><div class="arrow">→</div>
+    <div class="node hot"><b>Pinecone</b><span>Per-chat index</span></div>
+  </div>
+  <div class="row"><p class="tag">Ask</p>
+    <div class="node"><b>Question</b><span>+ chat history</span></div><div class="arrow">→</div>
+    <div class="node"><b>Rewrite</b><span>Standalone query</span></div><div class="arrow">→</div>
+    <div class="node"><b>Top chunks</b><span>Vector search</span></div><div class="arrow">→</div>
+    <div class="node hot"><b>Answer</b><span>Gemini · streamed</span></div>
+  </div>
+</div>
+<p class="tag" style="margin-top:44px">Next.js 15 · LangChain · MongoDB · JWT auth · Server-Sent Events</p>
+</body></html>

@@ -40,7 +40,7 @@ export function CaseStudyView({ project, study }: { project: Project; study: Cas
           </ul>
         </div>
         <div className="mt-16">
-          <ArchitectureDiagram arch={study.architecture} />
+          <ArchitectureDiagram rows={study.architecture} />
         </div>
       </section>
 
@@ -84,7 +84,7 @@ export function CaseStudyView({ project, study }: { project: Project; study: Cas
 
       <section className="grid grid-cols-12 gap-x-4 gap-y-12 px-4 pt-28 lg:gap-x-8 lg:px-8 lg:pt-40">
         <ListBlock title="Quality" items={study.quality} className="col-span-12 md:col-span-6 lg:col-span-5 lg:col-start-4" />
-        <ListBlock title="What's next" items={study.next} className="col-span-12 md:col-span-6 lg:col-span-4" />
+        <ListBlock title={study.nextTitle ?? "What's next"} items={study.next} className="col-span-12 md:col-span-6 lg:col-span-4" />
       </section>
 
       <section className="grid grid-cols-12 gap-x-4 gap-y-10 px-4 pt-28 lg:gap-x-8 lg:px-8 lg:pt-40">
@@ -134,7 +134,7 @@ export function ProjectNav({ prev, next }: { prev: Project; next: Project }) {
           <p className="text-ui-sm font-semibold uppercase text-neutral-600 group-hover:text-neutral-400">
             {dir === "Previous" ? "← Previous" : "Next →"}
           </p>
-          <p className="mt-2 text-[clamp(24px,4vw,64px)] font-bold uppercase leading-none tracking-[-0.03em]">{p.name}</p>
+          <p className="mt-2 text-[clamp(24px,4vw,64px)] font-bold uppercase leading-none tracking-[-0.03em] [overflow-wrap:anywhere]">{p.name}</p>
         </Link>
       ))}
     </nav>

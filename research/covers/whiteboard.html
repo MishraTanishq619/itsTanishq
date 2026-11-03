@@ -1,0 +1,28 @@
+<!doctype html><html><head><link href="https://fonts.googleapis.com/css2?family=Doto:wght@700&display=block" rel="stylesheet"><link rel="stylesheet" href="base.css">
+<style>
+.grid{margin-top:auto;display:grid;grid-template-columns:1fr 70px 1fr 70px 1.15fr;align-items:center;gap:0}
+.col{display:flex;flex-direction:column;gap:22px}
+.lbl{margin-bottom:-8px}
+</style></head><body>
+<p class="eyebrow">Real-time · Architecture</p>
+<h1>Whiteboard</h1>
+<p class="sub">Excalidraw-style canvas. Conflict-free multi-user sync with Yjs CRDTs, offline edits and intent-based undo.</p>
+<div class="grid">
+  <div class="col">
+    <div class="node"><b>React app · A</b><span>Canvas · RoughJS · Yjs</span></div>
+    <div class="node"><b>React app · B</b><span>Canvas · RoughJS · Yjs</span></div>
+  </div>
+  <div class="arrow">→</div>
+  <div class="col">
+    <div class="node"><b>API gateway</b><span>Fastify · JWT · rate limits</span></div>
+    <p class="tag" style="text-align:center">REST · WebSocket</p>
+  </div>
+  <div class="arrow">→</div>
+  <div class="col">
+    <div class="node"><b>Auth service</b><span>Users · boards · permissions</span></div>
+    <div class="node hot"><b>Realtime sync</b><span>ws · Yjs · y-protocols</span></div>
+    <div class="node"><b>Persistence</b><span>PostgreSQL · Yjs snapshots</span></div>
+  </div>
+</div>
+<p class="tag" style="margin-top:44px">TurboRepo monorepo · Fastify microservices · Prisma · PostgreSQL</p>
+</body></html>
